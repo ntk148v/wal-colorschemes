@@ -1,0 +1,33 @@
+name: Generate README
+
+on:
+  push:
+
+jobs:
+  generate:
+    name: generate README
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+
+    - name: Install depedencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Generate README
+      run: python3 generate.py
+
+    - name: Commit and push changes
+      uses: github-actions-x/commit@v2.8
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'master'
+        commit-message: 'Generate README'
+        force-add: 'true'
+        rebase: 'true'
+        email: 'kiennt2609@gmail.com'
+        name: 'Kien Nguyen-Tuan'
