@@ -18,7 +18,7 @@ desc = '''<div align="center">
 	</p><br>
 </div>
 
-# Getting started
+## Getting started
 
 - [PyWal](https://github.com/dylanaraps/pywal) is a tool to generate and change color-schemes on the fly.
 - PyWal has a set of built-in color schemes. This repository aims to provide some more.
@@ -49,7 +49,15 @@ User Themes:
 $ wal --theme <colorscheme>
 ```
 
-# Preview
+## Contributing
+
+Pull requests are the best way to propose changes to the codebase (we use
+[Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+- Fork the repo and create your branch from master.
+- Make changes.
+- Issue that pull request!
+
+## Preview
 
 '''
 
