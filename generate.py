@@ -18,7 +18,7 @@ desc = '''<div align="center">
 	</p><br>
 </div>
 
-## Getting started
+# Getting started
 
 - [PyWal](https://github.com/dylanaraps/pywal) is a tool to generate and change color-schemes on the fly.
 - PyWal has a set of built-in color schemes. This repository aims to provide some more.
@@ -49,7 +49,7 @@ User Themes:
 $ wal --theme <colorscheme>
 ```
 
-## Preview
+# Preview
 
 '''
 
@@ -63,9 +63,11 @@ def generate_preview():
             preview += f"[Reference]({colorscheme['refer']})\n\n"
             colormappings = []
             for k, v in colorscheme['special'].items():
+                v = v.strip('#')
                 colormappings.append(
                     [k, f'![{v}](https://via.placeholder.com/60x40/{v}/000000?text={v})'])
             for k, v in colorscheme['colors'].items():
+                v = v.strip('#')
                 colormappings.append(
                     [k, f'![{v}](https://via.placeholder.com/60x40/{v}/000000?text={v})'])
             writer = MarkdownTableWriter(
