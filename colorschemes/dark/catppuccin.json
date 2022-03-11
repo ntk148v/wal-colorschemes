@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/catppuccin/catppuccin",
+  "special": {
+    "background": "#1e1e28",
+    "foreground": "#d7dae0",
+    "cursor": "#d7dae0"
+  },
+  "colors": {
+    "color0": "#6e6c7c",
+    "color1": "#e28c8c",
+    "color2": "#b3e1a3",
+    "color3": "#eadda0",
+    "color4": "#a4b9ef",
+    "color5": "#c6aae8",
+    "color6": "#f0afe1",
+    "color7": "#d7dae0",
+    "color8": "#6e6c7c",
+    "color9": "#e28c8c",
+    "color10": "#b3e1a3",
+    "color11": "#eadda0",
+    "color12": "#a4b9ef",
+    "color13": "#c6aae8",
+    "color14": "#f0afe1",
+    "color15": "#d7dae0"
+  }
+}

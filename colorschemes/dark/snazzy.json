@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/connorholyday/vim-snazzy",
+  "special": {
+    "background": "#272935",
+    "foreground": "#EFF0EA",
+    "cursor": "#F7F7F7"
+  },
+  "colors": {
+    "color0": "#000000",
+    "color1": "#FF5B56",
+    "color2": "#5AF78D",
+    "color3": "#F3F99C",
+    "color4": "#57C7FE",
+    "color5": "#FF69C0",
+    "color6": "#9AECFE",
+    "color7": "#F1F1F0",
+    "color8": "#686767",
+    "color9": "#FF5B56",
+    "color10": "#5AF78D",
+    "color11": "#F3F99C",
+    "color12": "#57C7FE",
+    "color13": "#FF69C0",
+    "color14": "#9AECFE",
+    "color15": "#F1F1F0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/ayu-theme/ayu-colors",
+  "special": {
+    "background": "#0A0E14",
+    "foreground": "#B3B1AD",
+    "cursor": "#4D5566"
+  },
+  "colors": {
+    "color0": "#0A0E14",
+    "color1": "#FFB454",
+    "color2": "#59C2FF",
+    "color3": "#C2D94C",
+    "color4": "#95E6CB",
+    "color5": "#F07178",
+    "color6": "#FF8F40",
+    "color7": "#E6B673",
+    "color8": "#39BAE6",
+    "color9": "#FFEE99",
+    "color10": "#F29668",
+    "color11": "#FF3333",
+    "color12": "#91B362",
+    "color13": "#6994BF",
+    "color14": "#D96C75",
+    "color15": "#0A0E14"
+  }
+}

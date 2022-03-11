@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/cormacrelf/vim-colors-github",
+  "special": {
+    "background": "#ffffff",
+    "foreground": "#24292e",
+    "cursor": "#2b3137"
+  },
+  "colors": {
+    "color0": "#ffffff",
+    "color1": "#e36209",
+    "color2": "#005cc5",
+    "color3": "#6f42c1",
+    "color4": "#22863a",
+    "color5": "#d73a49",
+    "color6": "#669cc2",
+    "color7": "#2b3137",
+    "color8": "#c8d1db",
+    "color9": "#f18338",
+    "color10": "#032f62",
+    "color11": "#45267d",
+    "color12": "#3ebc5c",
+    "color13": "#b31d28",
+    "color14": "#f16636",
+    "color15": "#2d343a"
+  }
+}

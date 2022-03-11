@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/sjl/badwolf",
+  "special": {
+    "background": "#1c1b1a",
+    "foreground": "#f8f6f2",
+    "cursor": "#f8f6f2"
+  },
+  "colors": {
+    "color0": "#1c1b1a",
+    "color1": "#ff2c4b",
+    "color2": "#8cffba",
+    "color3": "#f4cf86",
+    "color4": "#0a9dff",
+    "color5": "#ff9eb8",
+    "color6": "#ffa724",
+    "color7": "#e5e9f0",
+    "color8": "#4c566a",
+    "color9": "#ff2c4b",
+    "color10": "#8cffba",
+    "color11": "#f4cf86",
+    "color12": "#0a9dff",
+    "color13": "#ff9eb8",
+    "color14": "#fade3e",
+    "color15": "#ffffff"
+  }
+}

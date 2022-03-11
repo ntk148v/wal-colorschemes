@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/ntk148v/vim-horizon",
+  "special": {
+    "background": "#1c1e26",
+    "foreground": "#d5d8da",
+    "cursor": "#3d425b"
+  },
+  "colors": {
+    "color0": "#1c1e26",
+    "color1": "#e95378",
+    "color2": "#27d797",
+    "color3": "#f09483",
+    "color4": "#25b0bc",
+    "color5": "#6c6f93",
+    "color6": "#b877db",
+    "color7": "#1c1e26",
+    "color8": "#6c6f93",
+    "color9": "#ec6a88",
+    "color10": "#6bdfe6",
+    "color11": "#fab38e",
+    "color12": "#21bfc2",
+    "color13": "#b877db",
+    "color14": "#95c4ce",
+    "color15": "#d2d4de"
+  }
+}

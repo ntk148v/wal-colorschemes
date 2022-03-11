@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/flrnd/candid.vim",
+  "special": {
+    "background": "#2f343f",
+    "foreground": "#efeeea",
+    "cursor": "#fb7da7"
+  },
+  "colors": {
+    "color0": "#818e8e",
+    "color1": "#fb7da7",
+    "color2": "#2cda9d",
+    "color3": "#ffce5b",
+    "color4": "#50c6d8",
+    "color5": "#a18bd3",
+    "color6": "#4c8273",
+    "color7": "#2f343f",
+    "color8": "#818e8e",
+    "color9": "#fb7da7",
+    "color10": "#2cda9d",
+    "color11": "#ffce5b",
+    "color12": "#50c6d8",
+    "color13": "#a18bd3",
+    "color14": "#4c8273",
+    "color15": "#2f343f"
+  }
+}

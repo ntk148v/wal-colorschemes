@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/jaredgorski/SpaceCamp",
+  "special": {
+    "background": "#121212",
+    "foreground": "#d0d0d0",
+    "cursor": "#d0d0d0"
+  },
+  "colors": {
+    "color0": "#282828",
+    "color1": "#d71a1a",
+    "color2": "#57ba37",
+    "color3": "#f0d50c",
+    "color4": "#91aadf",
+    "color5": "#cf73e6",
+    "color6": "#b7cbf4",
+    "color7": "#dedede",
+    "color8": "#666666",
+    "color9": "#ff0000",
+    "color10": "#d8fa3b",
+    "color11": "#e7c547",
+    "color12": "#b7cbf4",
+    "color13": "#b77ee0",
+    "color14": "#a9c1de",
+    "color15": "#eeeeee"
+  }
+}
