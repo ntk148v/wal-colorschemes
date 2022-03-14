@@ -1,8 +1,9 @@
 {
+  "refer": "https://github.com/catppuccin/catppuccin",
   "special": {
-    "BACKGROUND": "#1E1E29",
-    "FOREGROUND": "#F2CDCD",
-    "CURSOR": "#F2CDCD"
+    "background": "#1e1e29",
+    "foreground": "#f2cdcd",
+    "cursor": "#f2cdcd"
   },
   "colors": {
     "color0": "#6e6c7c",

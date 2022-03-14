@@ -68,7 +68,7 @@ def generate_preview():
         with open(path.absolute(), 'r') as f:
             colorscheme = json.load(f)
             preview += f"### {path.name[:-5].capitalize()}\n\n"
-            preview += f"[Reference]({colorscheme['refer']})\n\n"
+            preview += f"[Reference]({colorscheme.get('refer', '#')})\n\n"
             colormappings = []
             for k, v in colorscheme['special'].items():
                 v = v.strip('#')
