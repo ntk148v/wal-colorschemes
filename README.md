@@ -241,25 +241,25 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 |   Color    |                                Preview                                 |
 | ---------- | ---------------------------------------------------------------------- |
-| background | ![1e1e28](https://via.placeholder.com/60x40/1e1e28/000000?text=1e1e28) |
-| foreground | ![d7dae0](https://via.placeholder.com/60x40/d7dae0/000000?text=d7dae0) |
-| cursor     | ![d7dae0](https://via.placeholder.com/60x40/d7dae0/000000?text=d7dae0) |
+| background | ![1e1e29](https://via.placeholder.com/60x40/1e1e29/000000?text=1e1e29) |
+| foreground | ![f2cdcd](https://via.placeholder.com/60x40/f2cdcd/000000?text=f2cdcd) |
+| cursor     | ![f2cdcd](https://via.placeholder.com/60x40/f2cdcd/000000?text=f2cdcd) |
 | color0     | ![6e6c7c](https://via.placeholder.com/60x40/6e6c7c/000000?text=6e6c7c) |
-| color1     | ![e28c8c](https://via.placeholder.com/60x40/e28c8c/000000?text=e28c8c) |
-| color2     | ![b3e1a3](https://via.placeholder.com/60x40/b3e1a3/000000?text=b3e1a3) |
-| color3     | ![eadda0](https://via.placeholder.com/60x40/eadda0/000000?text=eadda0) |
-| color4     | ![a4b9ef](https://via.placeholder.com/60x40/a4b9ef/000000?text=a4b9ef) |
-| color5     | ![c6aae8](https://via.placeholder.com/60x40/c6aae8/000000?text=c6aae8) |
-| color6     | ![f0afe1](https://via.placeholder.com/60x40/f0afe1/000000?text=f0afe1) |
-| color7     | ![d7dae0](https://via.placeholder.com/60x40/d7dae0/000000?text=d7dae0) |
-| color8     | ![6e6c7c](https://via.placeholder.com/60x40/6e6c7c/000000?text=6e6c7c) |
-| color9     | ![e28c8c](https://via.placeholder.com/60x40/e28c8c/000000?text=e28c8c) |
-| color10    | ![b3e1a3](https://via.placeholder.com/60x40/b3e1a3/000000?text=b3e1a3) |
-| color11    | ![eadda0](https://via.placeholder.com/60x40/eadda0/000000?text=eadda0) |
-| color12    | ![a4b9ef](https://via.placeholder.com/60x40/a4b9ef/000000?text=a4b9ef) |
-| color13    | ![c6aae8](https://via.placeholder.com/60x40/c6aae8/000000?text=c6aae8) |
-| color14    | ![f0afe1](https://via.placeholder.com/60x40/f0afe1/000000?text=f0afe1) |
-| color15    | ![d7dae0](https://via.placeholder.com/60x40/d7dae0/000000?text=d7dae0) |
+| color1     | ![f28fad](https://via.placeholder.com/60x40/f28fad/000000?text=f28fad) |
+| color2     | ![abe9b3](https://via.placeholder.com/60x40/abe9b3/000000?text=abe9b3) |
+| color3     | ![fae3b0](https://via.placeholder.com/60x40/fae3b0/000000?text=fae3b0) |
+| color4     | ![96cdfb](https://via.placeholder.com/60x40/96cdfb/000000?text=96cdfb) |
+| color5     | ![f5c2e7](https://via.placeholder.com/60x40/f5c2e7/000000?text=f5c2e7) |
+| color6     | ![89dceb](https://via.placeholder.com/60x40/89dceb/000000?text=89dceb) |
+| color7     | ![c3bac6](https://via.placeholder.com/60x40/c3bac6/000000?text=c3bac6) |
+| color8     | ![988ba2](https://via.placeholder.com/60x40/988ba2/000000?text=988ba2) |
+| color9     | ![f28fad](https://via.placeholder.com/60x40/f28fad/000000?text=f28fad) |
+| color10    | ![abe9b3](https://via.placeholder.com/60x40/abe9b3/000000?text=abe9b3) |
+| color11    | ![fae3b0](https://via.placeholder.com/60x40/fae3b0/000000?text=fae3b0) |
+| color12    | ![96cdfb](https://via.placeholder.com/60x40/96cdfb/000000?text=96cdfb) |
+| color13    | ![f5c2e7](https://via.placeholder.com/60x40/f5c2e7/000000?text=f5c2e7) |
+| color14    | ![89dceb](https://via.placeholder.com/60x40/89dceb/000000?text=89dceb) |
+| color15    | ![d9e0ee](https://via.placeholder.com/60x40/d9e0ee/000000?text=d9e0ee) |
 
 ### Kanagawa
 
