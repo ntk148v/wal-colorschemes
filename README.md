@@ -113,7 +113,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | ---------- | ---------------------------------------------------------------------- |
 | background | ![FAFAFA](https://via.placeholder.com/60x40/FAFAFA/000000?text=FAFAFA) |
 | foreground | ![575F66](https://via.placeholder.com/60x40/575F66/000000?text=575F66) |
-| cursor     | ![8B9199](https://via.placeholder.com/60x40/8B9199/000000?text=8B9199) |
+| cursor     | ![8A9199](https://via.placeholder.com/60x40/8A9199/000000?text=8A9199) |
 | color0     | ![55B4D4](https://via.placeholder.com/60x40/55B4D4/000000?text=55B4D4) |
 | color1     | ![F2AE49](https://via.placeholder.com/60x40/F2AE49/000000?text=F2AE49) |
 | color2     | ![399EE6](https://via.placeholder.com/60x40/399EE6/000000?text=399EE6) |
