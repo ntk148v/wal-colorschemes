@@ -113,25 +113,25 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#FAFAFA|![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000?text=+)|
-|foreground|#575F66|![#575F66](https://via.placeholder.com/50x30/575F66/000000?text=+)|
-|cursor    |#8A9199|![#8A9199](https://via.placeholder.com/50x30/8A9199/000000?text=+)|
-|color0    |#55B4D4|![#55B4D4](https://via.placeholder.com/50x30/55B4D4/000000?text=+)|
-|color1    |#F2AE49|![#F2AE49](https://via.placeholder.com/50x30/F2AE49/000000?text=+)|
-|color2    |#399EE6|![#399EE6](https://via.placeholder.com/50x30/399EE6/000000?text=+)|
-|color3    |#86B300|![#86B300](https://via.placeholder.com/50x30/86B300/000000?text=+)|
-|color4    |#4CBF99|![#4CBF99](https://via.placeholder.com/50x30/4CBF99/000000?text=+)|
-|color5    |#F07171|![#F07171](https://via.placeholder.com/50x30/F07171/000000?text=+)|
-|color6    |#FA8D3E|![#FA8D3E](https://via.placeholder.com/50x30/FA8D3E/000000?text=+)|
-|color7    |#E6BA7E|![#E6BA7E](https://via.placeholder.com/50x30/E6BA7E/000000?text=+)|
-|color8    |#ABB0B6|![#ABB0B6](https://via.placeholder.com/50x30/ABB0B6/000000?text=+)|
-|color9    |#A37ACC|![#A37ACC](https://via.placeholder.com/50x30/A37ACC/000000?text=+)|
-|color10   |#ED9366|![#ED9366](https://via.placeholder.com/50x30/ED9366/000000?text=+)|
-|color11   |#F51818|![#F51818](https://via.placeholder.com/50x30/F51818/000000?text=+)|
-|color12   |#99BF4D|![#99BF4D](https://via.placeholder.com/50x30/99BF4D/000000?text=+)|
-|color13   |#709ECC|![#709ECC](https://via.placeholder.com/50x30/709ECC/000000?text=+)|
-|color14   |#F27983|![#F27983](https://via.placeholder.com/50x30/F27983/000000?text=+)|
-|color15   |#F8F9FA|![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000?text=+)|
+|background|#fafafa|![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000?text=+)|
+|foreground|#575f66|![#575F66](https://via.placeholder.com/50x30/575F66/000000?text=+)|
+|cursor    |#8a9199|![#8A9199](https://via.placeholder.com/50x30/8A9199/000000?text=+)|
+|color0    |#55b4d4|![#55B4D4](https://via.placeholder.com/50x30/55B4D4/000000?text=+)|
+|color1    |#f2ae49|![#F2AE49](https://via.placeholder.com/50x30/F2AE49/000000?text=+)|
+|color2    |#399ee6|![#399EE6](https://via.placeholder.com/50x30/399EE6/000000?text=+)|
+|color3    |#86b300|![#86B300](https://via.placeholder.com/50x30/86B300/000000?text=+)|
+|color4    |#4cbf99|![#4CBF99](https://via.placeholder.com/50x30/4CBF99/000000?text=+)|
+|color5    |#f07171|![#F07171](https://via.placeholder.com/50x30/F07171/000000?text=+)|
+|color6    |#fa8d3e|![#FA8D3E](https://via.placeholder.com/50x30/FA8D3E/000000?text=+)|
+|color7    |#e6ba7e|![#E6BA7E](https://via.placeholder.com/50x30/E6BA7E/000000?text=+)|
+|color8    |#abb0b6|![#ABB0B6](https://via.placeholder.com/50x30/ABB0B6/000000?text=+)|
+|color9    |#a37acc|![#A37ACC](https://via.placeholder.com/50x30/A37ACC/000000?text=+)|
+|color10   |#ed9366|![#ED9366](https://via.placeholder.com/50x30/ED9366/000000?text=+)|
+|color11   |#f51818|![#F51818](https://via.placeholder.com/50x30/F51818/000000?text=+)|
+|color12   |#99bf4d|![#99BF4D](https://via.placeholder.com/50x30/99BF4D/000000?text=+)|
+|color13   |#709ecc|![#709ECC](https://via.placeholder.com/50x30/709ECC/000000?text=+)|
+|color14   |#f27983|![#F27983](https://via.placeholder.com/50x30/F27983/000000?text=+)|
+|color15   |#f8f9fa|![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000?text=+)|
 
 ### One half light
 
@@ -217,27 +217,27 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|foreground|#DCD7BA|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
-|background|#1F1F28|![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000?text=+)|
-|cursor    |#C8C093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
+|foreground|#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
+|background|#1f1f28|![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000?text=+)|
+|cursor    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
 |color0    |#090618|![#090618](https://via.placeholder.com/50x30/090618/000000?text=+)|
-|color1    |#C34043|![#C34043](https://via.placeholder.com/50x30/C34043/000000?text=+)|
-|color2    |#76946A|![#76946A](https://via.placeholder.com/50x30/76946A/000000?text=+)|
-|color3    |#C0A36E|![#C0A36E](https://via.placeholder.com/50x30/C0A36E/000000?text=+)|
-|color4    |#7E9CD8|![#7E9CD8](https://via.placeholder.com/50x30/7E9CD8/000000?text=+)|
-|color5    |#957FB8|![#957FB8](https://via.placeholder.com/50x30/957FB8/000000?text=+)|
-|color6    |#6A9589|![#6A9589](https://via.placeholder.com/50x30/6A9589/000000?text=+)|
-|color7    |#C8C093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
+|color1    |#c34043|![#C34043](https://via.placeholder.com/50x30/C34043/000000?text=+)|
+|color2    |#76946a|![#76946A](https://via.placeholder.com/50x30/76946A/000000?text=+)|
+|color3    |#c0a36e|![#C0A36E](https://via.placeholder.com/50x30/C0A36E/000000?text=+)|
+|color4    |#7e9cd8|![#7E9CD8](https://via.placeholder.com/50x30/7E9CD8/000000?text=+)|
+|color5    |#957fb8|![#957FB8](https://via.placeholder.com/50x30/957FB8/000000?text=+)|
+|color6    |#6a9589|![#6A9589](https://via.placeholder.com/50x30/6A9589/000000?text=+)|
+|color7    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
 |color8    |#727169|![#727169](https://via.placeholder.com/50x30/727169/000000?text=+)|
-|color9    |#E82424|![#E82424](https://via.placeholder.com/50x30/E82424/000000?text=+)|
-|color10   |#98BB6C|![#98BB6C](https://via.placeholder.com/50x30/98BB6C/000000?text=+)|
-|color11   |#E6C384|![#E6C384](https://via.placeholder.com/50x30/E6C384/000000?text=+)|
-|color12   |#7FB4CA|![#7FB4CA](https://via.placeholder.com/50x30/7FB4CA/000000?text=+)|
-|color13   |#938AA9|![#938AA9](https://via.placeholder.com/50x30/938AA9/000000?text=+)|
-|color14   |#7AA89F|![#7AA89F](https://via.placeholder.com/50x30/7AA89F/000000?text=+)|
-|color15   |#DCD7BA|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
-|color16   |#FFA066|![#FFA066](https://via.placeholder.com/50x30/FFA066/000000?text=+)|
-|color17   |#FF5D62|![#FF5D62](https://via.placeholder.com/50x30/FF5D62/000000?text=+)|
+|color9    |#e82424|![#E82424](https://via.placeholder.com/50x30/E82424/000000?text=+)|
+|color10   |#98bb6c|![#98BB6C](https://via.placeholder.com/50x30/98BB6C/000000?text=+)|
+|color11   |#e6c384|![#E6C384](https://via.placeholder.com/50x30/E6C384/000000?text=+)|
+|color12   |#7fb4ca|![#7FB4CA](https://via.placeholder.com/50x30/7FB4CA/000000?text=+)|
+|color13   |#938aa9|![#938AA9](https://via.placeholder.com/50x30/938AA9/000000?text=+)|
+|color14   |#7aa89f|![#7AA89F](https://via.placeholder.com/50x30/7AA89F/000000?text=+)|
+|color15   |#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
+|color16   |#ffa066|![#FFA066](https://via.placeholder.com/50x30/FFA066/000000?text=+)|
+|color17   |#ff5d62|![#FF5D62](https://via.placeholder.com/50x30/FF5D62/000000?text=+)|
 
 ### Candid
 
@@ -298,24 +298,24 @@ Pull requests are the best way to propose changes to the codebase (we use
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#272935|![#272935](https://via.placeholder.com/50x30/272935/000000?text=+)|
-|foreground|#EFF0EA|![#EFF0EA](https://via.placeholder.com/50x30/EFF0EA/000000?text=+)|
-|cursor    |#F7F7F7|![#F7F7F7](https://via.placeholder.com/50x30/F7F7F7/000000?text=+)|
+|foreground|#eff0ea|![#EFF0EA](https://via.placeholder.com/50x30/EFF0EA/000000?text=+)|
+|cursor    |#f7f7f7|![#F7F7F7](https://via.placeholder.com/50x30/F7F7F7/000000?text=+)|
 |color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
-|color1    |#FF5B56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
-|color2    |#5AF78D|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
-|color3    |#F3F99C|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
-|color4    |#57C7FE|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
-|color5    |#FF69C0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
-|color6    |#9AECFE|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
-|color7    |#F1F1F0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
+|color1    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
+|color2    |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
+|color3    |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
+|color4    |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
+|color5    |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
+|color6    |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
+|color7    |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
 |color8    |#686767|![#686767](https://via.placeholder.com/50x30/686767/000000?text=+)|
-|color9    |#FF5B56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
-|color10   |#5AF78D|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
-|color11   |#F3F99C|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
-|color12   |#57C7FE|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
-|color13   |#FF69C0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
-|color14   |#9AECFE|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
-|color15   |#F1F1F0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
+|color9    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
+|color10   |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
+|color11   |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
+|color12   |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
+|color13   |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
+|color14   |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
+|color15   |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
 
 ### Iceberg
 
@@ -378,7 +378,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 |background|#1a1b26|![#1a1b26](https://via.placeholder.com/50x30/1a1b26/000000?text=+)|
 |foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
 |cursor    |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
-|color0    |#15161E|![#15161E](https://via.placeholder.com/50x30/15161E/000000?text=+)|
+|color0    |#15161e|![#15161E](https://via.placeholder.com/50x30/15161E/000000?text=+)|
 |color1    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
 |color2    |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
 |color3    |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
@@ -401,25 +401,25 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#0A0E14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
-|foreground|#B3B1AD|![#B3B1AD](https://via.placeholder.com/50x30/B3B1AD/000000?text=+)|
-|cursor    |#4D5566|![#4D5566](https://via.placeholder.com/50x30/4D5566/000000?text=+)|
-|color0    |#0A0E14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
-|color1    |#FFB454|![#FFB454](https://via.placeholder.com/50x30/FFB454/000000?text=+)|
-|color2    |#59C2FF|![#59C2FF](https://via.placeholder.com/50x30/59C2FF/000000?text=+)|
-|color3    |#C2D94C|![#C2D94C](https://via.placeholder.com/50x30/C2D94C/000000?text=+)|
-|color4    |#95E6CB|![#95E6CB](https://via.placeholder.com/50x30/95E6CB/000000?text=+)|
-|color5    |#F07178|![#F07178](https://via.placeholder.com/50x30/F07178/000000?text=+)|
-|color6    |#FF8F40|![#FF8F40](https://via.placeholder.com/50x30/FF8F40/000000?text=+)|
-|color7    |#E6B673|![#E6B673](https://via.placeholder.com/50x30/E6B673/000000?text=+)|
-|color8    |#39BAE6|![#39BAE6](https://via.placeholder.com/50x30/39BAE6/000000?text=+)|
-|color9    |#FFEE99|![#FFEE99](https://via.placeholder.com/50x30/FFEE99/000000?text=+)|
-|color10   |#F29668|![#F29668](https://via.placeholder.com/50x30/F29668/000000?text=+)|
-|color11   |#FF3333|![#FF3333](https://via.placeholder.com/50x30/FF3333/000000?text=+)|
-|color12   |#91B362|![#91B362](https://via.placeholder.com/50x30/91B362/000000?text=+)|
-|color13   |#6994BF|![#6994BF](https://via.placeholder.com/50x30/6994BF/000000?text=+)|
-|color14   |#D96C75|![#D96C75](https://via.placeholder.com/50x30/D96C75/000000?text=+)|
-|color15   |#0A0E14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
+|background|#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
+|foreground|#b3b1ad|![#B3B1AD](https://via.placeholder.com/50x30/B3B1AD/000000?text=+)|
+|cursor    |#4d5566|![#4D5566](https://via.placeholder.com/50x30/4D5566/000000?text=+)|
+|color0    |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
+|color1    |#ffb454|![#FFB454](https://via.placeholder.com/50x30/FFB454/000000?text=+)|
+|color2    |#59c2ff|![#59C2FF](https://via.placeholder.com/50x30/59C2FF/000000?text=+)|
+|color3    |#c2d94c|![#C2D94C](https://via.placeholder.com/50x30/C2D94C/000000?text=+)|
+|color4    |#95e6cb|![#95E6CB](https://via.placeholder.com/50x30/95E6CB/000000?text=+)|
+|color5    |#f07178|![#F07178](https://via.placeholder.com/50x30/F07178/000000?text=+)|
+|color6    |#ff8f40|![#FF8F40](https://via.placeholder.com/50x30/FF8F40/000000?text=+)|
+|color7    |#e6b673|![#E6B673](https://via.placeholder.com/50x30/E6B673/000000?text=+)|
+|color8    |#39bae6|![#39BAE6](https://via.placeholder.com/50x30/39BAE6/000000?text=+)|
+|color9    |#ffee99|![#FFEE99](https://via.placeholder.com/50x30/FFEE99/000000?text=+)|
+|color10   |#f29668|![#F29668](https://via.placeholder.com/50x30/F29668/000000?text=+)|
+|color11   |#ff3333|![#FF3333](https://via.placeholder.com/50x30/FF3333/000000?text=+)|
+|color12   |#91b362|![#91B362](https://via.placeholder.com/50x30/91B362/000000?text=+)|
+|color13   |#6994bf|![#6994BF](https://via.placeholder.com/50x30/6994BF/000000?text=+)|
+|color14   |#d96c75|![#D96C75](https://via.placeholder.com/50x30/D96C75/000000?text=+)|
+|color15   |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
 
 ### Spaceduck
 
@@ -508,7 +508,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 |background|#24283b|![#24283b](https://via.placeholder.com/50x30/24283b/000000?text=+)|
 |foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
 |cursor    |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
-|color0    |#1D202F|![#1D202F](https://via.placeholder.com/50x30/1D202F/000000?text=+)|
+|color0    |#1d202f|![#1D202F](https://via.placeholder.com/50x30/1D202F/000000?text=+)|
 |color1    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
 |color2    |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
 |color3    |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
@@ -583,25 +583,25 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#1C1B19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+)|
-|foreground|#FCE8C3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+)|
-|cursor    |#FBB829|![#FBB829](https://via.placeholder.com/50x30/FBB829/000000?text=+)|
-|color0    |#1C1B19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+)|
-|color1    |#EF2F27|![#EF2F27](https://via.placeholder.com/50x30/EF2F27/000000?text=+)|
-|color2    |#519F50|![#519F50](https://via.placeholder.com/50x30/519F50/000000?text=+)|
-|color3    |#FBB829|![#FBB829](https://via.placeholder.com/50x30/FBB829/000000?text=+)|
-|color4    |#2C78BF|![#2C78BF](https://via.placeholder.com/50x30/2C78BF/000000?text=+)|
-|color5    |#E02C6D|![#E02C6D](https://via.placeholder.com/50x30/E02C6D/000000?text=+)|
-|color6    |#0AAEB3|![#0AAEB3](https://via.placeholder.com/50x30/0AAEB3/000000?text=+)|
-|color7    |#BAA67F|![#BAA67F](https://via.placeholder.com/50x30/BAA67F/000000?text=+)|
+|background|#1c1b19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+)|
+|foreground|#fce8c3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+)|
+|cursor    |#fbb829|![#FBB829](https://via.placeholder.com/50x30/FBB829/000000?text=+)|
+|color0    |#1c1b19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+)|
+|color1    |#ef2f27|![#EF2F27](https://via.placeholder.com/50x30/EF2F27/000000?text=+)|
+|color2    |#519f50|![#519F50](https://via.placeholder.com/50x30/519F50/000000?text=+)|
+|color3    |#fbb829|![#FBB829](https://via.placeholder.com/50x30/FBB829/000000?text=+)|
+|color4    |#2c78bf|![#2C78BF](https://via.placeholder.com/50x30/2C78BF/000000?text=+)|
+|color5    |#e02c6d|![#E02C6D](https://via.placeholder.com/50x30/E02C6D/000000?text=+)|
+|color6    |#0aaeb3|![#0AAEB3](https://via.placeholder.com/50x30/0AAEB3/000000?text=+)|
+|color7    |#baa67f|![#BAA67F](https://via.placeholder.com/50x30/BAA67F/000000?text=+)|
 |color8    |#918175|![#918175](https://via.placeholder.com/50x30/918175/000000?text=+)|
-|color9    |#F75341|![#F75341](https://via.placeholder.com/50x30/F75341/000000?text=+)|
-|color10   |#98BC37|![#98BC37](https://via.placeholder.com/50x30/98BC37/000000?text=+)|
-|color11   |#FED06E|![#FED06E](https://via.placeholder.com/50x30/FED06E/000000?text=+)|
-|color12   |#68A8E4|![#68A8E4](https://via.placeholder.com/50x30/68A8E4/000000?text=+)|
-|color13   |#FF5C8F|![#FF5C8F](https://via.placeholder.com/50x30/FF5C8F/000000?text=+)|
-|color14   |#2BE4D0|![#2BE4D0](https://via.placeholder.com/50x30/2BE4D0/000000?text=+)|
-|color15   |#FCE8C3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+)|
+|color9    |#f75341|![#F75341](https://via.placeholder.com/50x30/F75341/000000?text=+)|
+|color10   |#98bc37|![#98BC37](https://via.placeholder.com/50x30/98BC37/000000?text=+)|
+|color11   |#fed06e|![#FED06E](https://via.placeholder.com/50x30/FED06E/000000?text=+)|
+|color12   |#68a8e4|![#68A8E4](https://via.placeholder.com/50x30/68A8E4/000000?text=+)|
+|color13   |#ff5c8f|![#FF5C8F](https://via.placeholder.com/50x30/FF5C8F/000000?text=+)|
+|color14   |#2be4d0|![#2BE4D0](https://via.placeholder.com/50x30/2BE4D0/000000?text=+)|
+|color15   |#fce8c3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+)|
 
 ### Nord
 
