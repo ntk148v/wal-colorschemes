@@ -3,6 +3,7 @@ from pathlib import Path
 from turtle import color
 
 from pytablewriter import MarkdownTableWriter
+from pytablewriter.style import Style
 
 # Description
 desc = '''<div align="center">
@@ -99,7 +100,11 @@ def generate_preview():
             writer = MarkdownTableWriter(
                 headers=['Color', 'Hex', 'Preview'],
                 value_matrix=colormappings,
-                margin=1)
+                column_styles=[
+                    Style(),
+                    Style(font_weight="bold"),
+                    Style(align="center")
+                ])
             preview += writer.dumps() + "\n"
 
 
