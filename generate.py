@@ -102,7 +102,7 @@ def generate_preview():
                 value_matrix=colormappings,
                 column_styles=[
                     Style(),
-                    Style(font_weight="bold"),
+                    Style(align="center"),
                     Style(align="center")
                 ])
             preview += writer.dumps() + "\n"
