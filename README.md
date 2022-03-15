@@ -5,9 +5,7 @@
 		<a href="https://github.com/ntk148v/wal-colorschemes/blob/master/LICENSE">
 			<img alt="GitHub license" src="https://img.shields.io/github/license/ntk148v/wal-colorschemes?style=for-the-badge">
 		</a>
-		<a href="https://github.com/ntk148v/wal-colorschemes/stargazers">
-			<img alt="GitHub stars" src="https://img.shields.io/github/stars/ntk148v/wal-colorschemes?style=for-the-badge">
-		</a>
+		<a href="https://github.com/ntk148v/wal-colorschemes/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/ntk148v/wal-colorschemes?style=for-the-badge"> </a>
 		<br>
 	</p><br>
 </div>
@@ -85,6 +83,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/folke/tokyonight.nvim)
 
+![](./screenshots/tokyonight_day.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#e1e2e7|![#e1e2e7](https://via.placeholder.com/50x30/e1e2e7/000000?text=+)|
@@ -110,6 +110,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Ayu light
 
 [Reference](https://github.com/ayu-theme/ayu-colors)
+
+![](./screenshots/ayu-light.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -137,6 +139,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/sonph/onehalf)
 
+![](./screenshots/one-half-light.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000?text=+)|
@@ -162,6 +166,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Github light
 
 [Reference](https://github.com/cormacrelf/vim-colors-github)
+
+![](./screenshots/github-light.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -189,6 +195,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/bluz71/vim-nightfly-guicolors)
 
+![](./screenshots/nightfly.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#011627|![#011627](https://via.placeholder.com/50x30/011627/000000?text=+)|
@@ -214,6 +222,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Kanagawa
 
 [Reference](https://github.com/rebelot/kanagawa.nvim)
+
+![](./screenshots/kanagawa.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -243,6 +253,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/flrnd/candid.vim)
 
+![](./screenshots/candid.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
@@ -268,6 +280,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Horizon
 
 [Reference](https://github.com/ntk148v/vim-horizon)
+
+![](./screenshots/horizon.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -295,6 +309,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/connorholyday/vim-snazzy)
 
+![](./screenshots/snazzy.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#272935|![#272935](https://via.placeholder.com/50x30/272935/000000?text=+)|
@@ -320,6 +336,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Iceberg
 
 [Reference](https://github.com/cocopon/iceberg.vim)
+
+![](./screenshots/iceberg.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -347,6 +365,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/sjl/badwolf)
 
+![](./screenshots/badwolf.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+)|
@@ -372,6 +392,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Tokyonight night
 
 [Reference](https://github.com/folke/tokyonight.nvim)
+
+![](./screenshots/tokyonight_night.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -399,6 +421,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/ayu-theme/ayu-colors)
 
+![](./screenshots/ayu-dark.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
@@ -424,6 +448,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Spaceduck
 
 [Reference](https://github.com/pineapplegiant/spaceduck)
+
+![](./screenshots/spaceduck.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -451,6 +477,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/sonph/onehalf)
 
+![](./screenshots/one-half-dark.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+)|
@@ -476,6 +504,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Catppuccin
 
 [Reference](https://github.com/catppuccin/catppuccin)
+
+![](./screenshots/catppuccin.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -503,6 +533,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/folke/tokyonight.nvim)
 
+![](./screenshots/tokyonight_storm.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#24283b|![#24283b](https://via.placeholder.com/50x30/24283b/000000?text=+)|
@@ -528,6 +560,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Darker monokai
 
 [Reference](https://github.com/ntk148v/vscode-darker-monokai)
+
+![](./screenshots/darker-monokai.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
@@ -555,6 +589,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/jaredgorski/SpaceCamp)
 
+![](./screenshots/spacecamp.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#121212|![#121212](https://via.placeholder.com/50x30/121212/000000?text=+)|
@@ -581,6 +617,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 [Reference](https://github.com/srcery-colors/srcery-vim)
 
+![](./screenshots/srcery.png)
+
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#1c1b19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+)|
@@ -606,6 +644,8 @@ Pull requests are the best way to propose changes to the codebase (we use
 ### Nord
 
 [Reference](https://github.com/arcticicestudio/nord)
+
+![](./screenshots/nord.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
