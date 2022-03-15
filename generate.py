@@ -70,9 +70,9 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 # Table of content
 toc = '''
-- [Getting started](##getting-started)
-- [Contributing](##contributing)
-- [Preview](##preview)
+- [Getting started](#getting-started)
+- [Contributing](#contributing)
+- [Preview](#preview)
 '''
 
 preview = ""
@@ -83,7 +83,7 @@ def generate_preview():
     for path in Path('colorschemes').rglob('*.json'):
         with open(path.absolute(), 'r') as f:
             colorscheme = json.load(f)
-            toc += f"	- [{path.name[:-5].capitalize()}](###{path.name[:-5]})\n"
+            toc += f"	- [{path.name[:-5].capitalize()}](#{path.name[:-5]})\n"
             preview += f"### {path.name[:-5].capitalize()}\n\n"
             preview += f"[Reference]({colorscheme.get('refer', '#')})\n\n"
             colormappings = []

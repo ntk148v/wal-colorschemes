@@ -13,30 +13,30 @@
 </div>
 
 
-- [Getting started](##getting-started)
-- [Contributing](##contributing)
-- [Preview](##preview)
-	- [Tokyonight_day](###tokyonight_day)
-	- [Ayu-light](###ayu-light)
-	- [One-half-light](###one-half-light)
-	- [Github-light](###github-light)
-	- [Nightfly](###nightfly)
-	- [Kanagawa](###kanagawa)
-	- [Candid](###candid)
-	- [Horizon](###horizon)
-	- [Snazzy](###snazzy)
-	- [Iceberg](###iceberg)
-	- [Badwolf](###badwolf)
-	- [Tokyonight_night](###tokyonight_night)
-	- [Ayu-dark](###ayu-dark)
-	- [Spaceduck](###spaceduck)
-	- [One-half-dark](###one-half-dark)
-	- [Catppuccin](###catppuccin)
-	- [Tokyonight_storm](###tokyonight_storm)
-	- [Darker-monokai](###darker-monokai)
-	- [Spacecamp](###spacecamp)
-	- [Srcery](###srcery)
-	- [Nord](###nord)
+- [Getting started](#getting-started)
+- [Contributing](#contributing)
+- [Preview](#preview)
+	- [Tokyonight_day](#tokyonight_day)
+	- [Ayu-light](#ayu-light)
+	- [One-half-light](#one-half-light)
+	- [Github-light](#github-light)
+	- [Nightfly](#nightfly)
+	- [Kanagawa](#kanagawa)
+	- [Candid](#candid)
+	- [Horizon](#horizon)
+	- [Snazzy](#snazzy)
+	- [Iceberg](#iceberg)
+	- [Badwolf](#badwolf)
+	- [Tokyonight_night](#tokyonight_night)
+	- [Ayu-dark](#ayu-dark)
+	- [Spaceduck](#spaceduck)
+	- [One-half-dark](#one-half-dark)
+	- [Catppuccin](#catppuccin)
+	- [Tokyonight_storm](#tokyonight_storm)
+	- [Darker-monokai](#darker-monokai)
+	- [Spacecamp](#spacecamp)
+	- [Srcery](#srcery)
+	- [Nord](#nord)
 
 
 ## Getting started
@@ -86,7 +86,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/folke/tokyonight.nvim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #e1e2e7 | ![#e1e2e7](https://via.placeholder.com/50x30/e1e2e7/000000?text=+) |
 | foreground | #3760bf | ![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+) |
 | cursor     | #3760bf | ![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+) |
@@ -112,7 +112,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/ayu-theme/ayu-colors)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #FAFAFA | ![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000?text=+) |
 | foreground | #575F66 | ![#575F66](https://via.placeholder.com/50x30/575F66/000000?text=+) |
 | cursor     | #8A9199 | ![#8A9199](https://via.placeholder.com/50x30/8A9199/000000?text=+) |
@@ -138,7 +138,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/sonph/onehalf)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #fafafa | ![#fafafa](https://via.placeholder.com/50x30/fafafa/000000?text=+) |
 | foreground | #383a42 | ![#383a42](https://via.placeholder.com/50x30/383a42/000000?text=+) |
 | cursor     | #f0f0f0 | ![#f0f0f0](https://via.placeholder.com/50x30/f0f0f0/000000?text=+) |
@@ -164,7 +164,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/cormacrelf/vim-colors-github)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #ffffff | ![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+) |
 | foreground | #24292e | ![#24292e](https://via.placeholder.com/50x30/24292e/000000?text=+) |
 | cursor     | #2b3137 | ![#2b3137](https://via.placeholder.com/50x30/2b3137/000000?text=+) |
@@ -190,7 +190,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/bluz71/vim-nightfly-guicolors)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #011627 | ![#011627](https://via.placeholder.com/50x30/011627/000000?text=+) |
 | foreground | #acb4c2 | ![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+) |
 | cursor     | #acb4c2 | ![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+) |
@@ -216,7 +216,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/rebelot/kanagawa.nvim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | foreground | #DCD7BA | ![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+) |
 | background | #1F1F28 | ![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000?text=+) |
 | cursor     | #C8C093 | ![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+) |
@@ -244,7 +244,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/flrnd/candid.vim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #2f343f | ![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+) |
 | foreground | #efeeea | ![#efeeea](https://via.placeholder.com/50x30/efeeea/000000?text=+) |
 | cursor     | #fb7da7 | ![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+) |
@@ -270,7 +270,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/ntk148v/vim-horizon)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #1c1e26 | ![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+) |
 | foreground | #d5d8da | ![#d5d8da](https://via.placeholder.com/50x30/d5d8da/000000?text=+) |
 | cursor     | #3d425b | ![#3d425b](https://via.placeholder.com/50x30/3d425b/000000?text=+) |
@@ -296,7 +296,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/connorholyday/vim-snazzy)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #272935 | ![#272935](https://via.placeholder.com/50x30/272935/000000?text=+) |
 | foreground | #EFF0EA | ![#EFF0EA](https://via.placeholder.com/50x30/EFF0EA/000000?text=+) |
 | cursor     | #F7F7F7 | ![#F7F7F7](https://via.placeholder.com/50x30/F7F7F7/000000?text=+) |
@@ -322,7 +322,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/cocopon/iceberg.vim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #161821 | ![#161821](https://via.placeholder.com/50x30/161821/000000?text=+) |
 | foreground | #c6c8d1 | ![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+) |
 | cursor     | #c6c8d1 | ![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+) |
@@ -348,7 +348,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/sjl/badwolf)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #1c1b1a | ![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+) |
 | foreground | #f8f6f2 | ![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+) |
 | cursor     | #f8f6f2 | ![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+) |
@@ -374,7 +374,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/folke/tokyonight.nvim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #1a1b26 | ![#1a1b26](https://via.placeholder.com/50x30/1a1b26/000000?text=+) |
 | foreground | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
 | cursor     | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
@@ -400,7 +400,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/ayu-theme/ayu-colors)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #0A0E14 | ![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+) |
 | foreground | #B3B1AD | ![#B3B1AD](https://via.placeholder.com/50x30/B3B1AD/000000?text=+) |
 | cursor     | #4D5566 | ![#4D5566](https://via.placeholder.com/50x30/4D5566/000000?text=+) |
@@ -426,7 +426,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/pineapplegiant/spaceduck)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #0f111b | ![#0f111b](https://via.placeholder.com/50x30/0f111b/000000?text=+) |
 | foreground | #ecf0c1 | ![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+) |
 | cursor     | #ecf0c1 | ![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+) |
@@ -452,7 +452,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/sonph/onehalf)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #282c34 | ![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+) |
 | foreground | #dcdfe4 | ![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+) |
 | cursor     | #dcdfe4 | ![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+) |
@@ -478,7 +478,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/catppuccin/catppuccin)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #1e1e29 | ![#1e1e29](https://via.placeholder.com/50x30/1e1e29/000000?text=+) |
 | foreground | #f2cdcd | ![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+) |
 | cursor     | #f2cdcd | ![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+) |
@@ -504,7 +504,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/folke/tokyonight.nvim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #24283b | ![#24283b](https://via.placeholder.com/50x30/24283b/000000?text=+) |
 | foreground | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
 | cursor     | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
@@ -530,7 +530,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/ntk148v/vscode-darker-monokai)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #161821 | ![#161821](https://via.placeholder.com/50x30/161821/000000?text=+) |
 | foreground | #f8f8f2 | ![#f8f8f2](https://via.placeholder.com/50x30/f8f8f2/000000?text=+) |
 | cursor     | #f92672 | ![#f92672](https://via.placeholder.com/50x30/f92672/000000?text=+) |
@@ -556,7 +556,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/jaredgorski/SpaceCamp)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #121212 | ![#121212](https://via.placeholder.com/50x30/121212/000000?text=+) |
 | foreground | #d0d0d0 | ![#d0d0d0](https://via.placeholder.com/50x30/d0d0d0/000000?text=+) |
 | cursor     | #d0d0d0 | ![#d0d0d0](https://via.placeholder.com/50x30/d0d0d0/000000?text=+) |
@@ -582,7 +582,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/srcery-colors/srcery-vim)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #1C1B19 | ![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000?text=+) |
 | foreground | #FCE8C3 | ![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+) |
 | cursor     | #FBB829 | ![#FBB829](https://via.placeholder.com/50x30/FBB829/000000?text=+) |
@@ -608,7 +608,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 [Reference](https://github.com/arcticicestudio/nord)
 
 |   Color    |   Hex   |                              Preview                               |
-|------------|---------|--------------------------------------------------------------------|
+| ---------- | ------- | ------------------------------------------------------------------ |
 | background | #2e3440 | ![#2e3440](https://via.placeholder.com/50x30/2e3440/000000?text=+) |
 | foreground | #d8dee9 | ![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+) |
 | cursor     | #d8dee9 | ![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+) |
