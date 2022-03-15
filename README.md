@@ -16,10 +16,10 @@
 - [Getting started](#getting-started)
 - [Contributing](#contributing)
 - [Preview](#preview)
-	- [Tokyonight_day](#tokyonight_day)
-	- [Ayu-light](#ayu-light)
-	- [One-half-light](#one-half-light)
-	- [Github-light](#github-light)
+	- [Tokyonight day](#tokyonight-day)
+	- [Ayu light](#ayu-light)
+	- [One half light](#one-half-light)
+	- [Github light](#github-light)
 	- [Nightfly](#nightfly)
 	- [Kanagawa](#kanagawa)
 	- [Candid](#candid)
@@ -27,13 +27,13 @@
 	- [Snazzy](#snazzy)
 	- [Iceberg](#iceberg)
 	- [Badwolf](#badwolf)
-	- [Tokyonight_night](#tokyonight_night)
-	- [Ayu-dark](#ayu-dark)
+	- [Tokyonight night](#tokyonight-night)
+	- [Ayu dark](#ayu-dark)
 	- [Spaceduck](#spaceduck)
-	- [One-half-dark](#one-half-dark)
+	- [One half dark](#one-half-dark)
 	- [Catppuccin](#catppuccin)
-	- [Tokyonight_storm](#tokyonight_storm)
-	- [Darker-monokai](#darker-monokai)
+	- [Tokyonight storm](#tokyonight-storm)
+	- [Darker monokai](#darker-monokai)
 	- [Spacecamp](#spacecamp)
 	- [Srcery](#srcery)
 	- [Nord](#nord)
@@ -81,7 +81,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 ## Preview
 
-### Tokyonight_day
+### Tokyonight day
 
 [Reference](https://github.com/folke/tokyonight.nvim)
 
@@ -107,7 +107,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #007197 | ![#007197](https://via.placeholder.com/50x30/007197/000000?text=+) |
 | color15    | #3760bf | ![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+) |
 
-### Ayu-light
+### Ayu light
 
 [Reference](https://github.com/ayu-theme/ayu-colors)
 
@@ -133,7 +133,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #F27983 | ![#F27983](https://via.placeholder.com/50x30/F27983/000000?text=+) |
 | color15    | #F8F9FA | ![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000?text=+) |
 
-### One-half-light
+### One half light
 
 [Reference](https://github.com/sonph/onehalf)
 
@@ -159,7 +159,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #0997b3 | ![#0997b3](https://via.placeholder.com/50x30/0997b3/000000?text=+) |
 | color15    | #fafafa | ![#fafafa](https://via.placeholder.com/50x30/fafafa/000000?text=+) |
 
-### Github-light
+### Github light
 
 [Reference](https://github.com/cormacrelf/vim-colors-github)
 
@@ -369,7 +369,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #fade3e | ![#fade3e](https://via.placeholder.com/50x30/fade3e/000000?text=+) |
 | color15    | #ffffff | ![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+) |
 
-### Tokyonight_night
+### Tokyonight night
 
 [Reference](https://github.com/folke/tokyonight.nvim)
 
@@ -395,7 +395,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #7dcfff | ![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+) |
 | color15    | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
 
-### Ayu-dark
+### Ayu dark
 
 [Reference](https://github.com/ayu-theme/ayu-colors)
 
@@ -447,7 +447,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #7a5ccc | ![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000?text=+) |
 | color15    | #f0f1ce | ![#f0f1ce](https://via.placeholder.com/50x30/f0f1ce/000000?text=+) |
 
-### One-half-dark
+### One half dark
 
 [Reference](https://github.com/sonph/onehalf)
 
@@ -499,7 +499,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #89dceb | ![#89dceb](https://via.placeholder.com/50x30/89dceb/000000?text=+) |
 | color15    | #d9e0ee | ![#d9e0ee](https://via.placeholder.com/50x30/d9e0ee/000000?text=+) |
 
-### Tokyonight_storm
+### Tokyonight storm
 
 [Reference](https://github.com/folke/tokyonight.nvim)
 
@@ -525,7 +525,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 | color14    | #7dcfff | ![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+) |
 | color15    | #c0caf5 | ![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+) |
 
-### Darker-monokai
+### Darker monokai
 
 [Reference](https://github.com/ntk148v/vscode-darker-monokai)
 

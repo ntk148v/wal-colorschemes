@@ -83,8 +83,11 @@ def generate_preview():
     for path in Path('colorschemes').rglob('*.json'):
         with open(path.absolute(), 'r') as f:
             colorscheme = json.load(f)
-            toc += f"	- [{path.name[:-5].capitalize()}](#{path.name[:-5]})\n"
-            preview += f"### {path.name[:-5].capitalize()}\n\n"
+            name = path.name[:-5].replace('_', ' ').\
+                replace('-', ' ').\
+                capitalize()
+            toc += f"	- [{name}](#{path.name[:-5].replace('_', '-')})\n"
+            preview += f"### {name}\n\n"
             preview += f"[Reference]({colorscheme.get('refer', '#')})\n\n"
             colormappings = []
             for k, v in colorscheme['special'].items():
