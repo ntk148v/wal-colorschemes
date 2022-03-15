@@ -4,6 +4,7 @@ from turtle import color
 
 from pytablewriter import MarkdownTableWriter
 
+# Description
 desc = '''<div align="center">
 	<h1>PyWal colorschemes</h1>
 	<blockquote align="center">Collection of awesome color schemes for PyWal</blockquote>
@@ -17,6 +18,11 @@ desc = '''<div align="center">
 		<br>
 	</p><br>
 </div>
+
+'''
+
+# Getting started
+gs = '''
 
 ## Getting started
 
@@ -53,6 +59,7 @@ $ wal --theme <colorscheme>
 
 Pull requests are the best way to propose changes to the codebase (we use
 [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+
 - Fork the repo and create your branch from master.
 - Make changes.
 - Issue that pull request!
@@ -61,32 +68,42 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 '''
 
+# Table of content
+toc = '''
+- [Getting started](##getting-started)
+- [Contributing](##contributing)
+- [Preview](##preview)
+'''
+
+preview = ""
+
 
 def generate_preview():
-    preview = ""
+    global preview, toc
     for path in Path('colorschemes').rglob('*.json'):
         with open(path.absolute(), 'r') as f:
             colorscheme = json.load(f)
+            toc += f"	- [{path.name[:-5].capitalize()}](###{path.name[:-5]})\n"
             preview += f"### {path.name[:-5].capitalize()}\n\n"
             preview += f"[Reference]({colorscheme.get('refer', '#')})\n\n"
             colormappings = []
             for k, v in colorscheme['special'].items():
-                v = v.strip('#')
                 colormappings.append(
-                    [k, f'![{v}](https://via.placeholder.com/60x40/{v}/000000?text={v})'])
+                    [k, v, f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000?text=+)'])
             for k, v in colorscheme['colors'].items():
-                v = v.strip('#')
                 colormappings.append(
-                    [k, f'![{v}](https://via.placeholder.com/60x40/{v}/000000?text={v})'])
+                    [k, v, f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000?text=+)'])
             writer = MarkdownTableWriter(
-                headers=['Color', 'Preview'],
+                headers=['Color', 'Hex', 'Preview'],
                 value_matrix=colormappings,
                 margin=1)
             preview += writer.dumps() + "\n"
-    return preview
 
 
 if __name__ == '__main__':
+    generate_preview()
     with open('README.md', 'w') as f:
         f.write(desc)
-        f.write(generate_preview())
+        f.write(toc)
+        f.write(gs)
+        f.write(preview)
