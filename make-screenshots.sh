@@ -1,8 +1,5 @@
 #!/bin/bash
-
-# Use eg: `xwininfo -int` to get the id of a wezterm
-# and pass it to this script
-WINID=$1
+WINID=$(xdotool getmouselocation --shell | sed -n '/^WINDOW/s/.*=//p')
 
 shots=./screenshots
 rm -rf ./screenshots
