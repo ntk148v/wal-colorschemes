@@ -14,27 +14,28 @@
 - [Getting started](#getting-started)
 - [Contributing](#contributing)
 - [Preview](#preview)
-	- [Tokyonight day](#tokyonight-day)
-	- [Ayu light](#ayu-light)
-	- [One half light](#one-half-light)
 	- [Github light](#github-light)
-	- [Nightfly](#nightfly)
-	- [Kanagawa](#kanagawa)
-	- [Candid](#candid)
-	- [Horizon](#horizon)
-	- [Snazzy](#snazzy)
-	- [Iceberg](#iceberg)
-	- [Badwolf](#badwolf)
+	- [One half light](#one-half-light)
+	- [Ayu light](#ayu-light)
+	- [Tokyonight day](#tokyonight-day)
 	- [Tokyonight night](#tokyonight-night)
-	- [Ayu dark](#ayu-dark)
-	- [Spaceduck](#spaceduck)
-	- [One half dark](#one-half-dark)
-	- [Catppuccin](#catppuccin)
-	- [Tokyonight storm](#tokyonight-storm)
 	- [Darker monokai](#darker-monokai)
+	- [Tokyonight storm](#tokyonight-storm)
+	- [Catppuccin](#catppuccin)
+	- [Kanagawa](#kanagawa)
+	- [Nord](#nord)
+	- [Horizon](#horizon)
+	- [Nightfly](#nightfly)
+	- [Iceberg](#iceberg)
+	- [Spaceduck](#spaceduck)
 	- [Spacecamp](#spacecamp)
 	- [Srcery](#srcery)
-	- [Nord](#nord)
+	- [Badwolf](#badwolf)
+	- [Snazzy](#snazzy)
+	- [One half dark](#one-half-dark)
+	- [Sonokai](#sonokai)
+	- [Candid](#candid)
+	- [Ayu dark](#ayu-dark)
 
 
 ## Getting started
@@ -79,61 +80,33 @@ Pull requests are the best way to propose changes to the codebase (we use
 
 ## Preview
 
-### Tokyonight day
+### Github light
 
-[Reference](https://github.com/folke/tokyonight.nvim)
+[Reference](https://github.com/cormacrelf/vim-colors-github)
 
-![](./screenshots/tokyonight_day.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#e1e2e7|![#e1e2e7](https://via.placeholder.com/50x30/e1e2e7/000000?text=+)|
-|foreground|#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
-|cursor    |#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
-|color0    |#e9e9ed|![#e9e9ed](https://via.placeholder.com/50x30/e9e9ed/000000?text=+)|
-|color1    |#f52a65|![#f52a65](https://via.placeholder.com/50x30/f52a65/000000?text=+)|
-|color2    |#587539|![#587539](https://via.placeholder.com/50x30/587539/000000?text=+)|
-|color3    |#8c6c3e|![#8c6c3e](https://via.placeholder.com/50x30/8c6c3e/000000?text=+)|
-|color4    |#2e7de9|![#2e7de9](https://via.placeholder.com/50x30/2e7de9/000000?text=+)|
-|color5    |#9854f1|![#9854f1](https://via.placeholder.com/50x30/9854f1/000000?text=+)|
-|color6    |#007197|![#007197](https://via.placeholder.com/50x30/007197/000000?text=+)|
-|color7    |#6172b0|![#6172b0](https://via.placeholder.com/50x30/6172b0/000000?text=+)|
-|color8    |#a1a6c5|![#a1a6c5](https://via.placeholder.com/50x30/a1a6c5/000000?text=+)|
-|color9    |#f52a65|![#f52a65](https://via.placeholder.com/50x30/f52a65/000000?text=+)|
-|color10   |#587539|![#587539](https://via.placeholder.com/50x30/587539/000000?text=+)|
-|color11   |#8c6c3e|![#8c6c3e](https://via.placeholder.com/50x30/8c6c3e/000000?text=+)|
-|color12   |#2e7de9|![#2e7de9](https://via.placeholder.com/50x30/2e7de9/000000?text=+)|
-|color13   |#9854f1|![#9854f1](https://via.placeholder.com/50x30/9854f1/000000?text=+)|
-|color14   |#007197|![#007197](https://via.placeholder.com/50x30/007197/000000?text=+)|
-|color15   |#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
-
-### Ayu light
-
-[Reference](https://github.com/ayu-theme/ayu-colors)
-
-![](./screenshots/ayu-light.png)
+![](./screenshots/github-light.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#fafafa|![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000?text=+)|
-|foreground|#575f66|![#575F66](https://via.placeholder.com/50x30/575F66/000000?text=+)|
-|cursor    |#8a9199|![#8A9199](https://via.placeholder.com/50x30/8A9199/000000?text=+)|
-|color0    |#55b4d4|![#55B4D4](https://via.placeholder.com/50x30/55B4D4/000000?text=+)|
-|color1    |#f2ae49|![#F2AE49](https://via.placeholder.com/50x30/F2AE49/000000?text=+)|
-|color2    |#399ee6|![#399EE6](https://via.placeholder.com/50x30/399EE6/000000?text=+)|
-|color3    |#86b300|![#86B300](https://via.placeholder.com/50x30/86B300/000000?text=+)|
-|color4    |#4cbf99|![#4CBF99](https://via.placeholder.com/50x30/4CBF99/000000?text=+)|
-|color5    |#f07171|![#F07171](https://via.placeholder.com/50x30/F07171/000000?text=+)|
-|color6    |#fa8d3e|![#FA8D3E](https://via.placeholder.com/50x30/FA8D3E/000000?text=+)|
-|color7    |#e6ba7e|![#E6BA7E](https://via.placeholder.com/50x30/E6BA7E/000000?text=+)|
-|color8    |#abb0b6|![#ABB0B6](https://via.placeholder.com/50x30/ABB0B6/000000?text=+)|
-|color9    |#a37acc|![#A37ACC](https://via.placeholder.com/50x30/A37ACC/000000?text=+)|
-|color10   |#ed9366|![#ED9366](https://via.placeholder.com/50x30/ED9366/000000?text=+)|
-|color11   |#f51818|![#F51818](https://via.placeholder.com/50x30/F51818/000000?text=+)|
-|color12   |#99bf4d|![#99BF4D](https://via.placeholder.com/50x30/99BF4D/000000?text=+)|
-|color13   |#709ecc|![#709ECC](https://via.placeholder.com/50x30/709ECC/000000?text=+)|
-|color14   |#f27983|![#F27983](https://via.placeholder.com/50x30/F27983/000000?text=+)|
-|color15   |#f8f9fa|![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000?text=+)|
+|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+|foreground|#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000?text=+)|
+|cursor    |#2b3137|![#2b3137](https://via.placeholder.com/50x30/2b3137/000000?text=+)|
+|color0    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+|color1    |#e36209|![#e36209](https://via.placeholder.com/50x30/e36209/000000?text=+)|
+|color2    |#005cc5|![#005cc5](https://via.placeholder.com/50x30/005cc5/000000?text=+)|
+|color3    |#6f42c1|![#6f42c1](https://via.placeholder.com/50x30/6f42c1/000000?text=+)|
+|color4    |#22863a|![#22863a](https://via.placeholder.com/50x30/22863a/000000?text=+)|
+|color5    |#d73a49|![#d73a49](https://via.placeholder.com/50x30/d73a49/000000?text=+)|
+|color6    |#669cc2|![#669cc2](https://via.placeholder.com/50x30/669cc2/000000?text=+)|
+|color7    |#2b3137|![#2b3137](https://via.placeholder.com/50x30/2b3137/000000?text=+)|
+|color8    |#c8d1db|![#c8d1db](https://via.placeholder.com/50x30/c8d1db/000000?text=+)|
+|color9    |#f18338|![#f18338](https://via.placeholder.com/50x30/f18338/000000?text=+)|
+|color10   |#032f62|![#032f62](https://via.placeholder.com/50x30/032f62/000000?text=+)|
+|color11   |#45267d|![#45267d](https://via.placeholder.com/50x30/45267d/000000?text=+)|
+|color12   |#3ebc5c|![#3ebc5c](https://via.placeholder.com/50x30/3ebc5c/000000?text=+)|
+|color13   |#b31d28|![#b31d28](https://via.placeholder.com/50x30/b31d28/000000?text=+)|
+|color14   |#f16636|![#f16636](https://via.placeholder.com/50x30/f16636/000000?text=+)|
+|color15   |#2d343a|![#2d343a](https://via.placeholder.com/50x30/2d343a/000000?text=+)|
 
 ### One half light
 
@@ -163,231 +136,61 @@ Pull requests are the best way to propose changes to the codebase (we use
 |color14   |#0997b3|![#0997b3](https://via.placeholder.com/50x30/0997b3/000000?text=+)|
 |color15   |#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000?text=+)|
 
-### Github light
+### Ayu light
 
-[Reference](https://github.com/cormacrelf/vim-colors-github)
+[Reference](https://github.com/ayu-theme/ayu-colors)
 
-![](./screenshots/github-light.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
-|foreground|#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000?text=+)|
-|cursor    |#2b3137|![#2b3137](https://via.placeholder.com/50x30/2b3137/000000?text=+)|
-|color0    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
-|color1    |#e36209|![#e36209](https://via.placeholder.com/50x30/e36209/000000?text=+)|
-|color2    |#005cc5|![#005cc5](https://via.placeholder.com/50x30/005cc5/000000?text=+)|
-|color3    |#6f42c1|![#6f42c1](https://via.placeholder.com/50x30/6f42c1/000000?text=+)|
-|color4    |#22863a|![#22863a](https://via.placeholder.com/50x30/22863a/000000?text=+)|
-|color5    |#d73a49|![#d73a49](https://via.placeholder.com/50x30/d73a49/000000?text=+)|
-|color6    |#669cc2|![#669cc2](https://via.placeholder.com/50x30/669cc2/000000?text=+)|
-|color7    |#2b3137|![#2b3137](https://via.placeholder.com/50x30/2b3137/000000?text=+)|
-|color8    |#c8d1db|![#c8d1db](https://via.placeholder.com/50x30/c8d1db/000000?text=+)|
-|color9    |#f18338|![#f18338](https://via.placeholder.com/50x30/f18338/000000?text=+)|
-|color10   |#032f62|![#032f62](https://via.placeholder.com/50x30/032f62/000000?text=+)|
-|color11   |#45267d|![#45267d](https://via.placeholder.com/50x30/45267d/000000?text=+)|
-|color12   |#3ebc5c|![#3ebc5c](https://via.placeholder.com/50x30/3ebc5c/000000?text=+)|
-|color13   |#b31d28|![#b31d28](https://via.placeholder.com/50x30/b31d28/000000?text=+)|
-|color14   |#f16636|![#f16636](https://via.placeholder.com/50x30/f16636/000000?text=+)|
-|color15   |#2d343a|![#2d343a](https://via.placeholder.com/50x30/2d343a/000000?text=+)|
-
-### Nightfly
-
-[Reference](https://github.com/bluz71/vim-nightfly-guicolors)
-
-![](./screenshots/nightfly.png)
+![](./screenshots/ayu-light.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#011627|![#011627](https://via.placeholder.com/50x30/011627/000000?text=+)|
-|foreground|#acb4c2|![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+)|
-|cursor    |#acb4c2|![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+)|
-|color0    |#1d3b53|![#1d3b53](https://via.placeholder.com/50x30/1d3b53/000000?text=+)|
-|color1    |#fc514e|![#fc514e](https://via.placeholder.com/50x30/fc514e/000000?text=+)|
-|color2    |#a1cd5e|![#a1cd5e](https://via.placeholder.com/50x30/a1cd5e/000000?text=+)|
-|color3    |#e3d18a|![#e3d18a](https://via.placeholder.com/50x30/e3d18a/000000?text=+)|
-|color4    |#82aaff|![#82aaff](https://via.placeholder.com/50x30/82aaff/000000?text=+)|
-|color5    |#c792ea|![#c792ea](https://via.placeholder.com/50x30/c792ea/000000?text=+)|
-|color6    |#7fdbca|![#7fdbca](https://via.placeholder.com/50x30/7fdbca/000000?text=+)|
-|color7    |#a1aab8|![#a1aab8](https://via.placeholder.com/50x30/a1aab8/000000?text=+)|
-|color8    |#7c8f8f|![#7c8f8f](https://via.placeholder.com/50x30/7c8f8f/000000?text=+)|
-|color9    |#ff5874|![#ff5874](https://via.placeholder.com/50x30/ff5874/000000?text=+)|
-|color10   |#21c7a8|![#21c7a8](https://via.placeholder.com/50x30/21c7a8/000000?text=+)|
-|color11   |#ecc48d|![#ecc48d](https://via.placeholder.com/50x30/ecc48d/000000?text=+)|
-|color12   |#82aaff|![#82aaff](https://via.placeholder.com/50x30/82aaff/000000?text=+)|
-|color13   |#ae81ff|![#ae81ff](https://via.placeholder.com/50x30/ae81ff/000000?text=+)|
-|color14   |#7fdbca|![#7fdbca](https://via.placeholder.com/50x30/7fdbca/000000?text=+)|
-|color15   |#d6deeb|![#d6deeb](https://via.placeholder.com/50x30/d6deeb/000000?text=+)|
+|background|#fafafa|![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000?text=+)|
+|foreground|#575f66|![#575F66](https://via.placeholder.com/50x30/575F66/000000?text=+)|
+|cursor    |#8a9199|![#8A9199](https://via.placeholder.com/50x30/8A9199/000000?text=+)|
+|color0    |#55b4d4|![#55B4D4](https://via.placeholder.com/50x30/55B4D4/000000?text=+)|
+|color1    |#f2ae49|![#F2AE49](https://via.placeholder.com/50x30/F2AE49/000000?text=+)|
+|color2    |#399ee6|![#399EE6](https://via.placeholder.com/50x30/399EE6/000000?text=+)|
+|color3    |#86b300|![#86B300](https://via.placeholder.com/50x30/86B300/000000?text=+)|
+|color4    |#4cbf99|![#4CBF99](https://via.placeholder.com/50x30/4CBF99/000000?text=+)|
+|color5    |#f07171|![#F07171](https://via.placeholder.com/50x30/F07171/000000?text=+)|
+|color6    |#fa8d3e|![#FA8D3E](https://via.placeholder.com/50x30/FA8D3E/000000?text=+)|
+|color7    |#e6ba7e|![#E6BA7E](https://via.placeholder.com/50x30/E6BA7E/000000?text=+)|
+|color8    |#abb0b6|![#ABB0B6](https://via.placeholder.com/50x30/ABB0B6/000000?text=+)|
+|color9    |#a37acc|![#A37ACC](https://via.placeholder.com/50x30/A37ACC/000000?text=+)|
+|color10   |#ed9366|![#ED9366](https://via.placeholder.com/50x30/ED9366/000000?text=+)|
+|color11   |#f51818|![#F51818](https://via.placeholder.com/50x30/F51818/000000?text=+)|
+|color12   |#99bf4d|![#99BF4D](https://via.placeholder.com/50x30/99BF4D/000000?text=+)|
+|color13   |#709ecc|![#709ECC](https://via.placeholder.com/50x30/709ECC/000000?text=+)|
+|color14   |#f27983|![#F27983](https://via.placeholder.com/50x30/F27983/000000?text=+)|
+|color15   |#f8f9fa|![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000?text=+)|
 
-### Kanagawa
+### Tokyonight day
 
-[Reference](https://github.com/rebelot/kanagawa.nvim)
+[Reference](https://github.com/folke/tokyonight.nvim)
 
-![](./screenshots/kanagawa.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|foreground|#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
-|background|#1f1f28|![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000?text=+)|
-|cursor    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
-|color0    |#090618|![#090618](https://via.placeholder.com/50x30/090618/000000?text=+)|
-|color1    |#c34043|![#C34043](https://via.placeholder.com/50x30/C34043/000000?text=+)|
-|color2    |#76946a|![#76946A](https://via.placeholder.com/50x30/76946A/000000?text=+)|
-|color3    |#c0a36e|![#C0A36E](https://via.placeholder.com/50x30/C0A36E/000000?text=+)|
-|color4    |#7e9cd8|![#7E9CD8](https://via.placeholder.com/50x30/7E9CD8/000000?text=+)|
-|color5    |#957fb8|![#957FB8](https://via.placeholder.com/50x30/957FB8/000000?text=+)|
-|color6    |#6a9589|![#6A9589](https://via.placeholder.com/50x30/6A9589/000000?text=+)|
-|color7    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
-|color8    |#727169|![#727169](https://via.placeholder.com/50x30/727169/000000?text=+)|
-|color9    |#e82424|![#E82424](https://via.placeholder.com/50x30/E82424/000000?text=+)|
-|color10   |#98bb6c|![#98BB6C](https://via.placeholder.com/50x30/98BB6C/000000?text=+)|
-|color11   |#e6c384|![#E6C384](https://via.placeholder.com/50x30/E6C384/000000?text=+)|
-|color12   |#7fb4ca|![#7FB4CA](https://via.placeholder.com/50x30/7FB4CA/000000?text=+)|
-|color13   |#938aa9|![#938AA9](https://via.placeholder.com/50x30/938AA9/000000?text=+)|
-|color14   |#7aa89f|![#7AA89F](https://via.placeholder.com/50x30/7AA89F/000000?text=+)|
-|color15   |#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
-|color16   |#ffa066|![#FFA066](https://via.placeholder.com/50x30/FFA066/000000?text=+)|
-|color17   |#ff5d62|![#FF5D62](https://via.placeholder.com/50x30/FF5D62/000000?text=+)|
-
-### Candid
-
-[Reference](https://github.com/flrnd/candid.vim)
-
-![](./screenshots/candid.png)
+![](./screenshots/tokyonight_day.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
-|foreground|#efeeea|![#efeeea](https://via.placeholder.com/50x30/efeeea/000000?text=+)|
-|cursor    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
-|color0    |#818e8e|![#818e8e](https://via.placeholder.com/50x30/818e8e/000000?text=+)|
-|color1    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
-|color2    |#2cda9d|![#2cda9d](https://via.placeholder.com/50x30/2cda9d/000000?text=+)|
-|color3    |#ffce5b|![#ffce5b](https://via.placeholder.com/50x30/ffce5b/000000?text=+)|
-|color4    |#50c6d8|![#50c6d8](https://via.placeholder.com/50x30/50c6d8/000000?text=+)|
-|color5    |#a18bd3|![#a18bd3](https://via.placeholder.com/50x30/a18bd3/000000?text=+)|
-|color6    |#4c8273|![#4c8273](https://via.placeholder.com/50x30/4c8273/000000?text=+)|
-|color7    |#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
-|color8    |#818e8e|![#818e8e](https://via.placeholder.com/50x30/818e8e/000000?text=+)|
-|color9    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
-|color10   |#2cda9d|![#2cda9d](https://via.placeholder.com/50x30/2cda9d/000000?text=+)|
-|color11   |#ffce5b|![#ffce5b](https://via.placeholder.com/50x30/ffce5b/000000?text=+)|
-|color12   |#50c6d8|![#50c6d8](https://via.placeholder.com/50x30/50c6d8/000000?text=+)|
-|color13   |#a18bd3|![#a18bd3](https://via.placeholder.com/50x30/a18bd3/000000?text=+)|
-|color14   |#4c8273|![#4c8273](https://via.placeholder.com/50x30/4c8273/000000?text=+)|
-|color15   |#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
-
-### Horizon
-
-[Reference](https://github.com/ntk148v/vim-horizon)
-
-![](./screenshots/horizon.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
-|foreground|#d5d8da|![#d5d8da](https://via.placeholder.com/50x30/d5d8da/000000?text=+)|
-|cursor    |#3d425b|![#3d425b](https://via.placeholder.com/50x30/3d425b/000000?text=+)|
-|color0    |#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
-|color1    |#e95378|![#e95378](https://via.placeholder.com/50x30/e95378/000000?text=+)|
-|color2    |#27d797|![#27d797](https://via.placeholder.com/50x30/27d797/000000?text=+)|
-|color3    |#f09483|![#f09483](https://via.placeholder.com/50x30/f09483/000000?text=+)|
-|color4    |#25b0bc|![#25b0bc](https://via.placeholder.com/50x30/25b0bc/000000?text=+)|
-|color5    |#6c6f93|![#6c6f93](https://via.placeholder.com/50x30/6c6f93/000000?text=+)|
-|color6    |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000?text=+)|
-|color7    |#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
-|color8    |#6c6f93|![#6c6f93](https://via.placeholder.com/50x30/6c6f93/000000?text=+)|
-|color9    |#ec6a88|![#ec6a88](https://via.placeholder.com/50x30/ec6a88/000000?text=+)|
-|color10   |#6bdfe6|![#6bdfe6](https://via.placeholder.com/50x30/6bdfe6/000000?text=+)|
-|color11   |#fab38e|![#fab38e](https://via.placeholder.com/50x30/fab38e/000000?text=+)|
-|color12   |#21bfc2|![#21bfc2](https://via.placeholder.com/50x30/21bfc2/000000?text=+)|
-|color13   |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000?text=+)|
-|color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000?text=+)|
-|color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000?text=+)|
-
-### Snazzy
-
-[Reference](https://github.com/connorholyday/vim-snazzy)
-
-![](./screenshots/snazzy.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#272935|![#272935](https://via.placeholder.com/50x30/272935/000000?text=+)|
-|foreground|#eff0ea|![#EFF0EA](https://via.placeholder.com/50x30/EFF0EA/000000?text=+)|
-|cursor    |#f7f7f7|![#F7F7F7](https://via.placeholder.com/50x30/F7F7F7/000000?text=+)|
-|color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
-|color1    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
-|color2    |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
-|color3    |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
-|color4    |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
-|color5    |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
-|color6    |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
-|color7    |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
-|color8    |#686767|![#686767](https://via.placeholder.com/50x30/686767/000000?text=+)|
-|color9    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
-|color10   |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
-|color11   |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
-|color12   |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
-|color13   |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
-|color14   |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
-|color15   |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
-
-### Iceberg
-
-[Reference](https://github.com/cocopon/iceberg.vim)
-
-![](./screenshots/iceberg.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#161821|![#161821](https://via.placeholder.com/50x30/161821/000000?text=+)|
-|foreground|#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
-|cursor    |#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
-|color0    |#1e2132|![#1e2132](https://via.placeholder.com/50x30/1e2132/000000?text=+)|
-|color1    |#e27878|![#e27878](https://via.placeholder.com/50x30/e27878/000000?text=+)|
-|color2    |#b4be82|![#b4be82](https://via.placeholder.com/50x30/b4be82/000000?text=+)|
-|color3    |#e2a478|![#e2a478](https://via.placeholder.com/50x30/e2a478/000000?text=+)|
-|color4    |#84a0c6|![#84a0c6](https://via.placeholder.com/50x30/84a0c6/000000?text=+)|
-|color5    |#a093c7|![#a093c7](https://via.placeholder.com/50x30/a093c7/000000?text=+)|
-|color6    |#89b8c2|![#89b8c2](https://via.placeholder.com/50x30/89b8c2/000000?text=+)|
-|color7    |#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
-|color8    |#6b7089|![#6b7089](https://via.placeholder.com/50x30/6b7089/000000?text=+)|
-|color9    |#e98989|![#e98989](https://via.placeholder.com/50x30/e98989/000000?text=+)|
-|color10   |#c0ca8e|![#c0ca8e](https://via.placeholder.com/50x30/c0ca8e/000000?text=+)|
-|color11   |#e9b189|![#e9b189](https://via.placeholder.com/50x30/e9b189/000000?text=+)|
-|color12   |#91acd1|![#91acd1](https://via.placeholder.com/50x30/91acd1/000000?text=+)|
-|color13   |#ada0d3|![#ada0d3](https://via.placeholder.com/50x30/ada0d3/000000?text=+)|
-|color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000?text=+)|
-|color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000?text=+)|
-
-### Badwolf
-
-[Reference](https://github.com/sjl/badwolf)
-
-![](./screenshots/badwolf.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+)|
-|foreground|#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+)|
-|cursor    |#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+)|
-|color0    |#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+)|
-|color1    |#ff2c4b|![#ff2c4b](https://via.placeholder.com/50x30/ff2c4b/000000?text=+)|
-|color2    |#8cffba|![#8cffba](https://via.placeholder.com/50x30/8cffba/000000?text=+)|
-|color3    |#f4cf86|![#f4cf86](https://via.placeholder.com/50x30/f4cf86/000000?text=+)|
-|color4    |#0a9dff|![#0a9dff](https://via.placeholder.com/50x30/0a9dff/000000?text=+)|
-|color5    |#ff9eb8|![#ff9eb8](https://via.placeholder.com/50x30/ff9eb8/000000?text=+)|
-|color6    |#ffa724|![#ffa724](https://via.placeholder.com/50x30/ffa724/000000?text=+)|
-|color7    |#e5e9f0|![#e5e9f0](https://via.placeholder.com/50x30/e5e9f0/000000?text=+)|
-|color8    |#4c566a|![#4c566a](https://via.placeholder.com/50x30/4c566a/000000?text=+)|
-|color9    |#ff2c4b|![#ff2c4b](https://via.placeholder.com/50x30/ff2c4b/000000?text=+)|
-|color10   |#8cffba|![#8cffba](https://via.placeholder.com/50x30/8cffba/000000?text=+)|
-|color11   |#f4cf86|![#f4cf86](https://via.placeholder.com/50x30/f4cf86/000000?text=+)|
-|color12   |#0a9dff|![#0a9dff](https://via.placeholder.com/50x30/0a9dff/000000?text=+)|
-|color13   |#ff9eb8|![#ff9eb8](https://via.placeholder.com/50x30/ff9eb8/000000?text=+)|
-|color14   |#fade3e|![#fade3e](https://via.placeholder.com/50x30/fade3e/000000?text=+)|
-|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+|background|#e1e2e7|![#e1e2e7](https://via.placeholder.com/50x30/e1e2e7/000000?text=+)|
+|foreground|#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
+|cursor    |#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
+|color0    |#e9e9ed|![#e9e9ed](https://via.placeholder.com/50x30/e9e9ed/000000?text=+)|
+|color1    |#f52a65|![#f52a65](https://via.placeholder.com/50x30/f52a65/000000?text=+)|
+|color2    |#587539|![#587539](https://via.placeholder.com/50x30/587539/000000?text=+)|
+|color3    |#8c6c3e|![#8c6c3e](https://via.placeholder.com/50x30/8c6c3e/000000?text=+)|
+|color4    |#2e7de9|![#2e7de9](https://via.placeholder.com/50x30/2e7de9/000000?text=+)|
+|color5    |#9854f1|![#9854f1](https://via.placeholder.com/50x30/9854f1/000000?text=+)|
+|color6    |#007197|![#007197](https://via.placeholder.com/50x30/007197/000000?text=+)|
+|color7    |#6172b0|![#6172b0](https://via.placeholder.com/50x30/6172b0/000000?text=+)|
+|color8    |#a1a6c5|![#a1a6c5](https://via.placeholder.com/50x30/a1a6c5/000000?text=+)|
+|color9    |#f52a65|![#f52a65](https://via.placeholder.com/50x30/f52a65/000000?text=+)|
+|color10   |#587539|![#587539](https://via.placeholder.com/50x30/587539/000000?text=+)|
+|color11   |#8c6c3e|![#8c6c3e](https://via.placeholder.com/50x30/8c6c3e/000000?text=+)|
+|color12   |#2e7de9|![#2e7de9](https://via.placeholder.com/50x30/2e7de9/000000?text=+)|
+|color13   |#9854f1|![#9854f1](https://via.placeholder.com/50x30/9854f1/000000?text=+)|
+|color14   |#007197|![#007197](https://via.placeholder.com/50x30/007197/000000?text=+)|
+|color15   |#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000?text=+)|
 
 ### Tokyonight night
 
@@ -401,146 +204,6 @@ Pull requests are the best way to propose changes to the codebase (we use
 |foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
 |cursor    |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
 |color0    |#15161e|![#15161E](https://via.placeholder.com/50x30/15161E/000000?text=+)|
-|color1    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
-|color2    |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
-|color3    |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
-|color4    |#7aa2f7|![#7aa2f7](https://via.placeholder.com/50x30/7aa2f7/000000?text=+)|
-|color5    |#bb9af7|![#bb9af7](https://via.placeholder.com/50x30/bb9af7/000000?text=+)|
-|color6    |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+)|
-|color7    |#a9b1d6|![#a9b1d6](https://via.placeholder.com/50x30/a9b1d6/000000?text=+)|
-|color8    |#414868|![#414868](https://via.placeholder.com/50x30/414868/000000?text=+)|
-|color9    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
-|color10   |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
-|color11   |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
-|color12   |#7aa2f7|![#7aa2f7](https://via.placeholder.com/50x30/7aa2f7/000000?text=+)|
-|color13   |#bb9af7|![#bb9af7](https://via.placeholder.com/50x30/bb9af7/000000?text=+)|
-|color14   |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+)|
-|color15   |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
-
-### Ayu dark
-
-[Reference](https://github.com/ayu-theme/ayu-colors)
-
-![](./screenshots/ayu-dark.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
-|foreground|#b3b1ad|![#B3B1AD](https://via.placeholder.com/50x30/B3B1AD/000000?text=+)|
-|cursor    |#4d5566|![#4D5566](https://via.placeholder.com/50x30/4D5566/000000?text=+)|
-|color0    |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
-|color1    |#ffb454|![#FFB454](https://via.placeholder.com/50x30/FFB454/000000?text=+)|
-|color2    |#59c2ff|![#59C2FF](https://via.placeholder.com/50x30/59C2FF/000000?text=+)|
-|color3    |#c2d94c|![#C2D94C](https://via.placeholder.com/50x30/C2D94C/000000?text=+)|
-|color4    |#95e6cb|![#95E6CB](https://via.placeholder.com/50x30/95E6CB/000000?text=+)|
-|color5    |#f07178|![#F07178](https://via.placeholder.com/50x30/F07178/000000?text=+)|
-|color6    |#ff8f40|![#FF8F40](https://via.placeholder.com/50x30/FF8F40/000000?text=+)|
-|color7    |#e6b673|![#E6B673](https://via.placeholder.com/50x30/E6B673/000000?text=+)|
-|color8    |#39bae6|![#39BAE6](https://via.placeholder.com/50x30/39BAE6/000000?text=+)|
-|color9    |#ffee99|![#FFEE99](https://via.placeholder.com/50x30/FFEE99/000000?text=+)|
-|color10   |#f29668|![#F29668](https://via.placeholder.com/50x30/F29668/000000?text=+)|
-|color11   |#ff3333|![#FF3333](https://via.placeholder.com/50x30/FF3333/000000?text=+)|
-|color12   |#91b362|![#91B362](https://via.placeholder.com/50x30/91B362/000000?text=+)|
-|color13   |#6994bf|![#6994BF](https://via.placeholder.com/50x30/6994BF/000000?text=+)|
-|color14   |#d96c75|![#D96C75](https://via.placeholder.com/50x30/D96C75/000000?text=+)|
-|color15   |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
-
-### Spaceduck
-
-[Reference](https://github.com/pineapplegiant/spaceduck)
-
-![](./screenshots/spaceduck.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#0f111b|![#0f111b](https://via.placeholder.com/50x30/0f111b/000000?text=+)|
-|foreground|#ecf0c1|![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+)|
-|cursor    |#ecf0c1|![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+)|
-|color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
-|color1    |#e33400|![#e33400](https://via.placeholder.com/50x30/e33400/000000?text=+)|
-|color2    |#5ccc96|![#5ccc96](https://via.placeholder.com/50x30/5ccc96/000000?text=+)|
-|color3    |#b3a1e6|![#b3a1e6](https://via.placeholder.com/50x30/b3a1e6/000000?text=+)|
-|color4    |#00a3cc|![#00a3cc](https://via.placeholder.com/50x30/00a3cc/000000?text=+)|
-|color5    |#f2ce00|![#f2ce00](https://via.placeholder.com/50x30/f2ce00/000000?text=+)|
-|color6    |#7a5ccc|![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000?text=+)|
-|color7    |#686f9a|![#686f9a](https://via.placeholder.com/50x30/686f9a/000000?text=+)|
-|color8    |#686f9a|![#686f9a](https://via.placeholder.com/50x30/686f9a/000000?text=+)|
-|color9    |#e33400|![#e33400](https://via.placeholder.com/50x30/e33400/000000?text=+)|
-|color10   |#5ccc96|![#5ccc96](https://via.placeholder.com/50x30/5ccc96/000000?text=+)|
-|color11   |#b3a1e6|![#b3a1e6](https://via.placeholder.com/50x30/b3a1e6/000000?text=+)|
-|color12   |#00a3cc|![#00a3cc](https://via.placeholder.com/50x30/00a3cc/000000?text=+)|
-|color13   |#f2ce00|![#f2ce00](https://via.placeholder.com/50x30/f2ce00/000000?text=+)|
-|color14   |#7a5ccc|![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000?text=+)|
-|color15   |#f0f1ce|![#f0f1ce](https://via.placeholder.com/50x30/f0f1ce/000000?text=+)|
-
-### One half dark
-
-[Reference](https://github.com/sonph/onehalf)
-
-![](./screenshots/one-half-dark.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+)|
-|foreground|#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
-|cursor    |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
-|color0    |#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+)|
-|color1    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000?text=+)|
-|color2    |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000?text=+)|
-|color3    |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000?text=+)|
-|color4    |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
-|color5    |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000?text=+)|
-|color6    |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000?text=+)|
-|color7    |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
-|color8    |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
-|color9    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000?text=+)|
-|color10   |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000?text=+)|
-|color11   |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000?text=+)|
-|color12   |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
-|color13   |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000?text=+)|
-|color14   |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000?text=+)|
-|color15   |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
-
-### Catppuccin
-
-[Reference](https://github.com/catppuccin/catppuccin)
-
-![](./screenshots/catppuccin.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#1e1e29|![#1e1e29](https://via.placeholder.com/50x30/1e1e29/000000?text=+)|
-|foreground|#f2cdcd|![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+)|
-|cursor    |#f2cdcd|![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+)|
-|color0    |#6e6c7c|![#6e6c7c](https://via.placeholder.com/50x30/6e6c7c/000000?text=+)|
-|color1    |#f28fad|![#f28fad](https://via.placeholder.com/50x30/f28fad/000000?text=+)|
-|color2    |#abe9b3|![#abe9b3](https://via.placeholder.com/50x30/abe9b3/000000?text=+)|
-|color3    |#fae3b0|![#fae3b0](https://via.placeholder.com/50x30/fae3b0/000000?text=+)|
-|color4    |#96cdfb|![#96cdfb](https://via.placeholder.com/50x30/96cdfb/000000?text=+)|
-|color5    |#f5c2e7|![#f5c2e7](https://via.placeholder.com/50x30/f5c2e7/000000?text=+)|
-|color6    |#89dceb|![#89dceb](https://via.placeholder.com/50x30/89dceb/000000?text=+)|
-|color7    |#c3bac6|![#c3bac6](https://via.placeholder.com/50x30/c3bac6/000000?text=+)|
-|color8    |#988ba2|![#988ba2](https://via.placeholder.com/50x30/988ba2/000000?text=+)|
-|color9    |#f28fad|![#f28fad](https://via.placeholder.com/50x30/f28fad/000000?text=+)|
-|color10   |#abe9b3|![#abe9b3](https://via.placeholder.com/50x30/abe9b3/000000?text=+)|
-|color11   |#fae3b0|![#fae3b0](https://via.placeholder.com/50x30/fae3b0/000000?text=+)|
-|color12   |#96cdfb|![#96cdfb](https://via.placeholder.com/50x30/96cdfb/000000?text=+)|
-|color13   |#f5c2e7|![#f5c2e7](https://via.placeholder.com/50x30/f5c2e7/000000?text=+)|
-|color14   |#89dceb|![#89dceb](https://via.placeholder.com/50x30/89dceb/000000?text=+)|
-|color15   |#d9e0ee|![#d9e0ee](https://via.placeholder.com/50x30/d9e0ee/000000?text=+)|
-
-### Tokyonight storm
-
-[Reference](https://github.com/folke/tokyonight.nvim)
-
-![](./screenshots/tokyonight_storm.png)
-
-|  Color   |  Hex  |                             Preview                              |
-|----------|:-----:|:----------------------------------------------------------------:|
-|background|#24283b|![#24283b](https://via.placeholder.com/50x30/24283b/000000?text=+)|
-|foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
-|cursor    |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
-|color0    |#1d202f|![#1D202F](https://via.placeholder.com/50x30/1D202F/000000?text=+)|
 |color1    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
 |color2    |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
 |color3    |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
@@ -584,6 +247,232 @@ Pull requests are the best way to propose changes to the codebase (we use
 |color13   |#ae81ff|![#ae81ff](https://via.placeholder.com/50x30/ae81ff/000000?text=+)|
 |color14   |#a1efe4|![#a1efe4](https://via.placeholder.com/50x30/a1efe4/000000?text=+)|
 |color15   |#f9f8f5|![#f9f8f5](https://via.placeholder.com/50x30/f9f8f5/000000?text=+)|
+
+### Tokyonight storm
+
+[Reference](https://github.com/folke/tokyonight.nvim)
+
+![](./screenshots/tokyonight_storm.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#24283b|![#24283b](https://via.placeholder.com/50x30/24283b/000000?text=+)|
+|foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
+|cursor    |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
+|color0    |#1d202f|![#1D202F](https://via.placeholder.com/50x30/1D202F/000000?text=+)|
+|color1    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
+|color2    |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
+|color3    |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
+|color4    |#7aa2f7|![#7aa2f7](https://via.placeholder.com/50x30/7aa2f7/000000?text=+)|
+|color5    |#bb9af7|![#bb9af7](https://via.placeholder.com/50x30/bb9af7/000000?text=+)|
+|color6    |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+)|
+|color7    |#a9b1d6|![#a9b1d6](https://via.placeholder.com/50x30/a9b1d6/000000?text=+)|
+|color8    |#414868|![#414868](https://via.placeholder.com/50x30/414868/000000?text=+)|
+|color9    |#f7768e|![#f7768e](https://via.placeholder.com/50x30/f7768e/000000?text=+)|
+|color10   |#9ece6a|![#9ece6a](https://via.placeholder.com/50x30/9ece6a/000000?text=+)|
+|color11   |#e0af68|![#e0af68](https://via.placeholder.com/50x30/e0af68/000000?text=+)|
+|color12   |#7aa2f7|![#7aa2f7](https://via.placeholder.com/50x30/7aa2f7/000000?text=+)|
+|color13   |#bb9af7|![#bb9af7](https://via.placeholder.com/50x30/bb9af7/000000?text=+)|
+|color14   |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000?text=+)|
+|color15   |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000?text=+)|
+
+### Catppuccin
+
+[Reference](https://github.com/catppuccin/catppuccin)
+
+![](./screenshots/catppuccin.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#1e1e29|![#1e1e29](https://via.placeholder.com/50x30/1e1e29/000000?text=+)|
+|foreground|#f2cdcd|![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+)|
+|cursor    |#f2cdcd|![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000?text=+)|
+|color0    |#6e6c7c|![#6e6c7c](https://via.placeholder.com/50x30/6e6c7c/000000?text=+)|
+|color1    |#f28fad|![#f28fad](https://via.placeholder.com/50x30/f28fad/000000?text=+)|
+|color2    |#abe9b3|![#abe9b3](https://via.placeholder.com/50x30/abe9b3/000000?text=+)|
+|color3    |#fae3b0|![#fae3b0](https://via.placeholder.com/50x30/fae3b0/000000?text=+)|
+|color4    |#96cdfb|![#96cdfb](https://via.placeholder.com/50x30/96cdfb/000000?text=+)|
+|color5    |#f5c2e7|![#f5c2e7](https://via.placeholder.com/50x30/f5c2e7/000000?text=+)|
+|color6    |#89dceb|![#89dceb](https://via.placeholder.com/50x30/89dceb/000000?text=+)|
+|color7    |#c3bac6|![#c3bac6](https://via.placeholder.com/50x30/c3bac6/000000?text=+)|
+|color8    |#988ba2|![#988ba2](https://via.placeholder.com/50x30/988ba2/000000?text=+)|
+|color9    |#f28fad|![#f28fad](https://via.placeholder.com/50x30/f28fad/000000?text=+)|
+|color10   |#abe9b3|![#abe9b3](https://via.placeholder.com/50x30/abe9b3/000000?text=+)|
+|color11   |#fae3b0|![#fae3b0](https://via.placeholder.com/50x30/fae3b0/000000?text=+)|
+|color12   |#96cdfb|![#96cdfb](https://via.placeholder.com/50x30/96cdfb/000000?text=+)|
+|color13   |#f5c2e7|![#f5c2e7](https://via.placeholder.com/50x30/f5c2e7/000000?text=+)|
+|color14   |#89dceb|![#89dceb](https://via.placeholder.com/50x30/89dceb/000000?text=+)|
+|color15   |#d9e0ee|![#d9e0ee](https://via.placeholder.com/50x30/d9e0ee/000000?text=+)|
+
+### Kanagawa
+
+[Reference](https://github.com/rebelot/kanagawa.nvim)
+
+![](./screenshots/kanagawa.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|foreground|#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
+|background|#1f1f28|![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000?text=+)|
+|cursor    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
+|color0    |#090618|![#090618](https://via.placeholder.com/50x30/090618/000000?text=+)|
+|color1    |#c34043|![#C34043](https://via.placeholder.com/50x30/C34043/000000?text=+)|
+|color2    |#76946a|![#76946A](https://via.placeholder.com/50x30/76946A/000000?text=+)|
+|color3    |#c0a36e|![#C0A36E](https://via.placeholder.com/50x30/C0A36E/000000?text=+)|
+|color4    |#7e9cd8|![#7E9CD8](https://via.placeholder.com/50x30/7E9CD8/000000?text=+)|
+|color5    |#957fb8|![#957FB8](https://via.placeholder.com/50x30/957FB8/000000?text=+)|
+|color6    |#6a9589|![#6A9589](https://via.placeholder.com/50x30/6A9589/000000?text=+)|
+|color7    |#c8c093|![#C8C093](https://via.placeholder.com/50x30/C8C093/000000?text=+)|
+|color8    |#727169|![#727169](https://via.placeholder.com/50x30/727169/000000?text=+)|
+|color9    |#e82424|![#E82424](https://via.placeholder.com/50x30/E82424/000000?text=+)|
+|color10   |#98bb6c|![#98BB6C](https://via.placeholder.com/50x30/98BB6C/000000?text=+)|
+|color11   |#e6c384|![#E6C384](https://via.placeholder.com/50x30/E6C384/000000?text=+)|
+|color12   |#7fb4ca|![#7FB4CA](https://via.placeholder.com/50x30/7FB4CA/000000?text=+)|
+|color13   |#938aa9|![#938AA9](https://via.placeholder.com/50x30/938AA9/000000?text=+)|
+|color14   |#7aa89f|![#7AA89F](https://via.placeholder.com/50x30/7AA89F/000000?text=+)|
+|color15   |#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000?text=+)|
+|color16   |#ffa066|![#FFA066](https://via.placeholder.com/50x30/FFA066/000000?text=+)|
+|color17   |#ff5d62|![#FF5D62](https://via.placeholder.com/50x30/FF5D62/000000?text=+)|
+
+### Nord
+
+[Reference](https://github.com/arcticicestudio/nord)
+
+![](./screenshots/nord.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#2e3440|![#2e3440](https://via.placeholder.com/50x30/2e3440/000000?text=+)|
+|foreground|#d8dee9|![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+)|
+|cursor    |#d8dee9|![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+)|
+|color0    |#2e3440|![#2e3440](https://via.placeholder.com/50x30/2e3440/000000?text=+)|
+|color1    |#bf616a|![#bf616a](https://via.placeholder.com/50x30/bf616a/000000?text=+)|
+|color2    |#a3be8c|![#a3be8c](https://via.placeholder.com/50x30/a3be8c/000000?text=+)|
+|color3    |#ebcb8b|![#ebcb8b](https://via.placeholder.com/50x30/ebcb8b/000000?text=+)|
+|color4    |#81a1c1|![#81a1c1](https://via.placeholder.com/50x30/81a1c1/000000?text=+)|
+|color5    |#b48ead|![#b48ead](https://via.placeholder.com/50x30/b48ead/000000?text=+)|
+|color6    |#88c0d0|![#88c0d0](https://via.placeholder.com/50x30/88c0d0/000000?text=+)|
+|color7    |#e5e9f0|![#e5e9f0](https://via.placeholder.com/50x30/e5e9f0/000000?text=+)|
+|color8    |#4c566a|![#4c566a](https://via.placeholder.com/50x30/4c566a/000000?text=+)|
+|color9    |#bf616a|![#bf616a](https://via.placeholder.com/50x30/bf616a/000000?text=+)|
+|color10   |#a3be8c|![#a3be8c](https://via.placeholder.com/50x30/a3be8c/000000?text=+)|
+|color11   |#ebcb8b|![#ebcb8b](https://via.placeholder.com/50x30/ebcb8b/000000?text=+)|
+|color12   |#81a1c1|![#81a1c1](https://via.placeholder.com/50x30/81a1c1/000000?text=+)|
+|color13   |#b48ead|![#b48ead](https://via.placeholder.com/50x30/b48ead/000000?text=+)|
+|color14   |#8fbcbb|![#8fbcbb](https://via.placeholder.com/50x30/8fbcbb/000000?text=+)|
+|color15   |#eceff4|![#eceff4](https://via.placeholder.com/50x30/eceff4/000000?text=+)|
+
+### Horizon
+
+[Reference](https://github.com/ntk148v/vim-horizon)
+
+![](./screenshots/horizon.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
+|foreground|#d5d8da|![#d5d8da](https://via.placeholder.com/50x30/d5d8da/000000?text=+)|
+|cursor    |#3d425b|![#3d425b](https://via.placeholder.com/50x30/3d425b/000000?text=+)|
+|color0    |#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
+|color1    |#e95378|![#e95378](https://via.placeholder.com/50x30/e95378/000000?text=+)|
+|color2    |#27d797|![#27d797](https://via.placeholder.com/50x30/27d797/000000?text=+)|
+|color3    |#f09483|![#f09483](https://via.placeholder.com/50x30/f09483/000000?text=+)|
+|color4    |#25b0bc|![#25b0bc](https://via.placeholder.com/50x30/25b0bc/000000?text=+)|
+|color5    |#6c6f93|![#6c6f93](https://via.placeholder.com/50x30/6c6f93/000000?text=+)|
+|color6    |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000?text=+)|
+|color7    |#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000?text=+)|
+|color8    |#6c6f93|![#6c6f93](https://via.placeholder.com/50x30/6c6f93/000000?text=+)|
+|color9    |#ec6a88|![#ec6a88](https://via.placeholder.com/50x30/ec6a88/000000?text=+)|
+|color10   |#6bdfe6|![#6bdfe6](https://via.placeholder.com/50x30/6bdfe6/000000?text=+)|
+|color11   |#fab38e|![#fab38e](https://via.placeholder.com/50x30/fab38e/000000?text=+)|
+|color12   |#21bfc2|![#21bfc2](https://via.placeholder.com/50x30/21bfc2/000000?text=+)|
+|color13   |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000?text=+)|
+|color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000?text=+)|
+|color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000?text=+)|
+
+### Nightfly
+
+[Reference](https://github.com/bluz71/vim-nightfly-guicolors)
+
+![](./screenshots/nightfly.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#011627|![#011627](https://via.placeholder.com/50x30/011627/000000?text=+)|
+|foreground|#acb4c2|![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+)|
+|cursor    |#acb4c2|![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000?text=+)|
+|color0    |#1d3b53|![#1d3b53](https://via.placeholder.com/50x30/1d3b53/000000?text=+)|
+|color1    |#fc514e|![#fc514e](https://via.placeholder.com/50x30/fc514e/000000?text=+)|
+|color2    |#a1cd5e|![#a1cd5e](https://via.placeholder.com/50x30/a1cd5e/000000?text=+)|
+|color3    |#e3d18a|![#e3d18a](https://via.placeholder.com/50x30/e3d18a/000000?text=+)|
+|color4    |#82aaff|![#82aaff](https://via.placeholder.com/50x30/82aaff/000000?text=+)|
+|color5    |#c792ea|![#c792ea](https://via.placeholder.com/50x30/c792ea/000000?text=+)|
+|color6    |#7fdbca|![#7fdbca](https://via.placeholder.com/50x30/7fdbca/000000?text=+)|
+|color7    |#a1aab8|![#a1aab8](https://via.placeholder.com/50x30/a1aab8/000000?text=+)|
+|color8    |#7c8f8f|![#7c8f8f](https://via.placeholder.com/50x30/7c8f8f/000000?text=+)|
+|color9    |#ff5874|![#ff5874](https://via.placeholder.com/50x30/ff5874/000000?text=+)|
+|color10   |#21c7a8|![#21c7a8](https://via.placeholder.com/50x30/21c7a8/000000?text=+)|
+|color11   |#ecc48d|![#ecc48d](https://via.placeholder.com/50x30/ecc48d/000000?text=+)|
+|color12   |#82aaff|![#82aaff](https://via.placeholder.com/50x30/82aaff/000000?text=+)|
+|color13   |#ae81ff|![#ae81ff](https://via.placeholder.com/50x30/ae81ff/000000?text=+)|
+|color14   |#7fdbca|![#7fdbca](https://via.placeholder.com/50x30/7fdbca/000000?text=+)|
+|color15   |#d6deeb|![#d6deeb](https://via.placeholder.com/50x30/d6deeb/000000?text=+)|
+
+### Iceberg
+
+[Reference](https://github.com/cocopon/iceberg.vim)
+
+![](./screenshots/iceberg.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#161821|![#161821](https://via.placeholder.com/50x30/161821/000000?text=+)|
+|foreground|#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
+|cursor    |#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
+|color0    |#1e2132|![#1e2132](https://via.placeholder.com/50x30/1e2132/000000?text=+)|
+|color1    |#e27878|![#e27878](https://via.placeholder.com/50x30/e27878/000000?text=+)|
+|color2    |#b4be82|![#b4be82](https://via.placeholder.com/50x30/b4be82/000000?text=+)|
+|color3    |#e2a478|![#e2a478](https://via.placeholder.com/50x30/e2a478/000000?text=+)|
+|color4    |#84a0c6|![#84a0c6](https://via.placeholder.com/50x30/84a0c6/000000?text=+)|
+|color5    |#a093c7|![#a093c7](https://via.placeholder.com/50x30/a093c7/000000?text=+)|
+|color6    |#89b8c2|![#89b8c2](https://via.placeholder.com/50x30/89b8c2/000000?text=+)|
+|color7    |#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000?text=+)|
+|color8    |#6b7089|![#6b7089](https://via.placeholder.com/50x30/6b7089/000000?text=+)|
+|color9    |#e98989|![#e98989](https://via.placeholder.com/50x30/e98989/000000?text=+)|
+|color10   |#c0ca8e|![#c0ca8e](https://via.placeholder.com/50x30/c0ca8e/000000?text=+)|
+|color11   |#e9b189|![#e9b189](https://via.placeholder.com/50x30/e9b189/000000?text=+)|
+|color12   |#91acd1|![#91acd1](https://via.placeholder.com/50x30/91acd1/000000?text=+)|
+|color13   |#ada0d3|![#ada0d3](https://via.placeholder.com/50x30/ada0d3/000000?text=+)|
+|color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000?text=+)|
+|color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000?text=+)|
+
+### Spaceduck
+
+[Reference](https://github.com/pineapplegiant/spaceduck)
+
+![](./screenshots/spaceduck.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#0f111b|![#0f111b](https://via.placeholder.com/50x30/0f111b/000000?text=+)|
+|foreground|#ecf0c1|![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+)|
+|cursor    |#ecf0c1|![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000?text=+)|
+|color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|color1    |#e33400|![#e33400](https://via.placeholder.com/50x30/e33400/000000?text=+)|
+|color2    |#5ccc96|![#5ccc96](https://via.placeholder.com/50x30/5ccc96/000000?text=+)|
+|color3    |#b3a1e6|![#b3a1e6](https://via.placeholder.com/50x30/b3a1e6/000000?text=+)|
+|color4    |#00a3cc|![#00a3cc](https://via.placeholder.com/50x30/00a3cc/000000?text=+)|
+|color5    |#f2ce00|![#f2ce00](https://via.placeholder.com/50x30/f2ce00/000000?text=+)|
+|color6    |#7a5ccc|![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000?text=+)|
+|color7    |#686f9a|![#686f9a](https://via.placeholder.com/50x30/686f9a/000000?text=+)|
+|color8    |#686f9a|![#686f9a](https://via.placeholder.com/50x30/686f9a/000000?text=+)|
+|color9    |#e33400|![#e33400](https://via.placeholder.com/50x30/e33400/000000?text=+)|
+|color10   |#5ccc96|![#5ccc96](https://via.placeholder.com/50x30/5ccc96/000000?text=+)|
+|color11   |#b3a1e6|![#b3a1e6](https://via.placeholder.com/50x30/b3a1e6/000000?text=+)|
+|color12   |#00a3cc|![#00a3cc](https://via.placeholder.com/50x30/00a3cc/000000?text=+)|
+|color13   |#f2ce00|![#f2ce00](https://via.placeholder.com/50x30/f2ce00/000000?text=+)|
+|color14   |#7a5ccc|![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000?text=+)|
+|color15   |#f0f1ce|![#f0f1ce](https://via.placeholder.com/50x30/f0f1ce/000000?text=+)|
 
 ### Spacecamp
 
@@ -641,31 +530,171 @@ Pull requests are the best way to propose changes to the codebase (we use
 |color14   |#2be4d0|![#2BE4D0](https://via.placeholder.com/50x30/2BE4D0/000000?text=+)|
 |color15   |#fce8c3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000?text=+)|
 
-### Nord
+### Badwolf
 
-[Reference](https://github.com/arcticicestudio/nord)
+[Reference](https://github.com/sjl/badwolf)
 
-![](./screenshots/nord.png)
+![](./screenshots/badwolf.png)
 
 |  Color   |  Hex  |                             Preview                              |
 |----------|:-----:|:----------------------------------------------------------------:|
-|background|#2e3440|![#2e3440](https://via.placeholder.com/50x30/2e3440/000000?text=+)|
-|foreground|#d8dee9|![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+)|
-|cursor    |#d8dee9|![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000?text=+)|
-|color0    |#2e3440|![#2e3440](https://via.placeholder.com/50x30/2e3440/000000?text=+)|
-|color1    |#bf616a|![#bf616a](https://via.placeholder.com/50x30/bf616a/000000?text=+)|
-|color2    |#a3be8c|![#a3be8c](https://via.placeholder.com/50x30/a3be8c/000000?text=+)|
-|color3    |#ebcb8b|![#ebcb8b](https://via.placeholder.com/50x30/ebcb8b/000000?text=+)|
-|color4    |#81a1c1|![#81a1c1](https://via.placeholder.com/50x30/81a1c1/000000?text=+)|
-|color5    |#b48ead|![#b48ead](https://via.placeholder.com/50x30/b48ead/000000?text=+)|
-|color6    |#88c0d0|![#88c0d0](https://via.placeholder.com/50x30/88c0d0/000000?text=+)|
+|background|#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+)|
+|foreground|#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+)|
+|cursor    |#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000?text=+)|
+|color0    |#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000?text=+)|
+|color1    |#ff2c4b|![#ff2c4b](https://via.placeholder.com/50x30/ff2c4b/000000?text=+)|
+|color2    |#8cffba|![#8cffba](https://via.placeholder.com/50x30/8cffba/000000?text=+)|
+|color3    |#f4cf86|![#f4cf86](https://via.placeholder.com/50x30/f4cf86/000000?text=+)|
+|color4    |#0a9dff|![#0a9dff](https://via.placeholder.com/50x30/0a9dff/000000?text=+)|
+|color5    |#ff9eb8|![#ff9eb8](https://via.placeholder.com/50x30/ff9eb8/000000?text=+)|
+|color6    |#ffa724|![#ffa724](https://via.placeholder.com/50x30/ffa724/000000?text=+)|
 |color7    |#e5e9f0|![#e5e9f0](https://via.placeholder.com/50x30/e5e9f0/000000?text=+)|
 |color8    |#4c566a|![#4c566a](https://via.placeholder.com/50x30/4c566a/000000?text=+)|
-|color9    |#bf616a|![#bf616a](https://via.placeholder.com/50x30/bf616a/000000?text=+)|
-|color10   |#a3be8c|![#a3be8c](https://via.placeholder.com/50x30/a3be8c/000000?text=+)|
-|color11   |#ebcb8b|![#ebcb8b](https://via.placeholder.com/50x30/ebcb8b/000000?text=+)|
-|color12   |#81a1c1|![#81a1c1](https://via.placeholder.com/50x30/81a1c1/000000?text=+)|
-|color13   |#b48ead|![#b48ead](https://via.placeholder.com/50x30/b48ead/000000?text=+)|
-|color14   |#8fbcbb|![#8fbcbb](https://via.placeholder.com/50x30/8fbcbb/000000?text=+)|
-|color15   |#eceff4|![#eceff4](https://via.placeholder.com/50x30/eceff4/000000?text=+)|
+|color9    |#ff2c4b|![#ff2c4b](https://via.placeholder.com/50x30/ff2c4b/000000?text=+)|
+|color10   |#8cffba|![#8cffba](https://via.placeholder.com/50x30/8cffba/000000?text=+)|
+|color11   |#f4cf86|![#f4cf86](https://via.placeholder.com/50x30/f4cf86/000000?text=+)|
+|color12   |#0a9dff|![#0a9dff](https://via.placeholder.com/50x30/0a9dff/000000?text=+)|
+|color13   |#ff9eb8|![#ff9eb8](https://via.placeholder.com/50x30/ff9eb8/000000?text=+)|
+|color14   |#fade3e|![#fade3e](https://via.placeholder.com/50x30/fade3e/000000?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+
+### Snazzy
+
+[Reference](https://github.com/connorholyday/vim-snazzy)
+
+![](./screenshots/snazzy.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#272935|![#272935](https://via.placeholder.com/50x30/272935/000000?text=+)|
+|foreground|#eff0ea|![#EFF0EA](https://via.placeholder.com/50x30/EFF0EA/000000?text=+)|
+|cursor    |#f7f7f7|![#F7F7F7](https://via.placeholder.com/50x30/F7F7F7/000000?text=+)|
+|color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|color1    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
+|color2    |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
+|color3    |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
+|color4    |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
+|color5    |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
+|color6    |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
+|color7    |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
+|color8    |#686767|![#686767](https://via.placeholder.com/50x30/686767/000000?text=+)|
+|color9    |#ff5b56|![#FF5B56](https://via.placeholder.com/50x30/FF5B56/000000?text=+)|
+|color10   |#5af78d|![#5AF78D](https://via.placeholder.com/50x30/5AF78D/000000?text=+)|
+|color11   |#f3f99c|![#F3F99C](https://via.placeholder.com/50x30/F3F99C/000000?text=+)|
+|color12   |#57c7fe|![#57C7FE](https://via.placeholder.com/50x30/57C7FE/000000?text=+)|
+|color13   |#ff69c0|![#FF69C0](https://via.placeholder.com/50x30/FF69C0/000000?text=+)|
+|color14   |#9aecfe|![#9AECFE](https://via.placeholder.com/50x30/9AECFE/000000?text=+)|
+|color15   |#f1f1f0|![#F1F1F0](https://via.placeholder.com/50x30/F1F1F0/000000?text=+)|
+
+### One half dark
+
+[Reference](https://github.com/sonph/onehalf)
+
+![](./screenshots/one-half-dark.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+)|
+|foreground|#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
+|cursor    |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
+|color0    |#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000?text=+)|
+|color1    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000?text=+)|
+|color2    |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000?text=+)|
+|color3    |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000?text=+)|
+|color4    |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
+|color5    |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000?text=+)|
+|color6    |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000?text=+)|
+|color7    |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
+|color8    |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
+|color9    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000?text=+)|
+|color10   |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000?text=+)|
+|color11   |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000?text=+)|
+|color12   |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000?text=+)|
+|color13   |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000?text=+)|
+|color14   |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000?text=+)|
+|color15   |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000?text=+)|
+
+### Sonokai
+
+[Reference](https://github.com/sainnhe/sonokai)
+
+![](./screenshots/sonokai.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#2c2e34|![#2c2e34](https://via.placeholder.com/50x30/2c2e34/000000?text=+)|
+|foreground|#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
+|cursor    |#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
+|color0    |#fc5d7c|![#fc5d7c](https://via.placeholder.com/50x30/fc5d7c/000000?text=+)|
+|color1    |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
+|color2    |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
+|color3    |#9ed072|![#9ed072](https://via.placeholder.com/50x30/9ed072/000000?text=+)|
+|color4    |#76cce0|![#76cce0](https://via.placeholder.com/50x30/76cce0/000000?text=+)|
+|color5    |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
+|color6    |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
+|color7    |#181819|![#181819](https://via.placeholder.com/50x30/181819/000000?text=+)|
+|color8    |#595f6f|![#595f6f](https://via.placeholder.com/50x30/595f6f/000000?text=+)|
+|color9    |#ff6077|![#ff6077](https://via.placeholder.com/50x30/ff6077/000000?text=+)|
+|color10   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
+|color11   |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
+|color12   |#a7df78|![#a7df78](https://via.placeholder.com/50x30/a7df78/000000?text=+)|
+|color13   |#85d3f2|![#85d3f2](https://via.placeholder.com/50x30/85d3f2/000000?text=+)|
+|color14   |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
+|color15   |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
+
+### Candid
+
+[Reference](https://github.com/flrnd/candid.vim)
+
+![](./screenshots/candid.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
+|foreground|#efeeea|![#efeeea](https://via.placeholder.com/50x30/efeeea/000000?text=+)|
+|cursor    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
+|color0    |#818e8e|![#818e8e](https://via.placeholder.com/50x30/818e8e/000000?text=+)|
+|color1    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
+|color2    |#2cda9d|![#2cda9d](https://via.placeholder.com/50x30/2cda9d/000000?text=+)|
+|color3    |#ffce5b|![#ffce5b](https://via.placeholder.com/50x30/ffce5b/000000?text=+)|
+|color4    |#50c6d8|![#50c6d8](https://via.placeholder.com/50x30/50c6d8/000000?text=+)|
+|color5    |#a18bd3|![#a18bd3](https://via.placeholder.com/50x30/a18bd3/000000?text=+)|
+|color6    |#4c8273|![#4c8273](https://via.placeholder.com/50x30/4c8273/000000?text=+)|
+|color7    |#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
+|color8    |#818e8e|![#818e8e](https://via.placeholder.com/50x30/818e8e/000000?text=+)|
+|color9    |#fb7da7|![#fb7da7](https://via.placeholder.com/50x30/fb7da7/000000?text=+)|
+|color10   |#2cda9d|![#2cda9d](https://via.placeholder.com/50x30/2cda9d/000000?text=+)|
+|color11   |#ffce5b|![#ffce5b](https://via.placeholder.com/50x30/ffce5b/000000?text=+)|
+|color12   |#50c6d8|![#50c6d8](https://via.placeholder.com/50x30/50c6d8/000000?text=+)|
+|color13   |#a18bd3|![#a18bd3](https://via.placeholder.com/50x30/a18bd3/000000?text=+)|
+|color14   |#4c8273|![#4c8273](https://via.placeholder.com/50x30/4c8273/000000?text=+)|
+|color15   |#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000?text=+)|
+
+### Ayu dark
+
+[Reference](https://github.com/ayu-theme/ayu-colors)
+
+![](./screenshots/ayu-dark.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
+|foreground|#b3b1ad|![#B3B1AD](https://via.placeholder.com/50x30/B3B1AD/000000?text=+)|
+|cursor    |#4d5566|![#4D5566](https://via.placeholder.com/50x30/4D5566/000000?text=+)|
+|color0    |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
+|color1    |#ffb454|![#FFB454](https://via.placeholder.com/50x30/FFB454/000000?text=+)|
+|color2    |#59c2ff|![#59C2FF](https://via.placeholder.com/50x30/59C2FF/000000?text=+)|
+|color3    |#c2d94c|![#C2D94C](https://via.placeholder.com/50x30/C2D94C/000000?text=+)|
+|color4    |#95e6cb|![#95E6CB](https://via.placeholder.com/50x30/95E6CB/000000?text=+)|
+|color5    |#f07178|![#F07178](https://via.placeholder.com/50x30/F07178/000000?text=+)|
+|color6    |#ff8f40|![#FF8F40](https://via.placeholder.com/50x30/FF8F40/000000?text=+)|
+|color7    |#e6b673|![#E6B673](https://via.placeholder.com/50x30/E6B673/000000?text=+)|
+|color8    |#39bae6|![#39BAE6](https://via.placeholder.com/50x30/39BAE6/000000?text=+)|
+|color9    |#ffee99|![#FFEE99](https://via.placeholder.com/50x30/FFEE99/000000?text=+)|
+|color10   |#f29668|![#F29668](https://via.placeholder.com/50x30/F29668/000000?text=+)|
+|color11   |#ff3333|![#FF3333](https://via.placeholder.com/50x30/FF3333/000000?text=+)|
+|color12   |#91b362|![#91B362](https://via.placeholder.com/50x30/91B362/000000?text=+)|
+|color13   |#6994bf|![#6994BF](https://via.placeholder.com/50x30/6994BF/000000?text=+)|
+|color14   |#d96c75|![#D96C75](https://via.placeholder.com/50x30/D96C75/000000?text=+)|
+|color15   |#0a0e14|![#0A0E14](https://via.placeholder.com/50x30/0A0E14/000000?text=+)|
 
