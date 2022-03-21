@@ -2,7 +2,7 @@
 WINID=$(xdotool getmouselocation --shell | sed -n '/^WINDOW/s/.*=//p')
 
 shots=./screenshots
-rm -rf ./screenshots
+rm -rf $shots
 for scheme in colorschemes/**/*.json ; do
   clear
   prefix=$shots
