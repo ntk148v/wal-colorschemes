@@ -630,15 +630,15 @@ Pull requests are the best way to propose changes to the codebase (we use
 |color2    |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
 |color3    |#9ed072|![#9ed072](https://via.placeholder.com/50x30/9ed072/000000?text=+)|
 |color4    |#76cce0|![#76cce0](https://via.placeholder.com/50x30/76cce0/000000?text=+)|
-|color5    |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
+|color7    |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
 |color6    |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
-|color7    |#181819|![#181819](https://via.placeholder.com/50x30/181819/000000?text=+)|
+|color5    |#181819|![#181819](https://via.placeholder.com/50x30/181819/000000?text=+)|
 |color8    |#595f6f|![#595f6f](https://via.placeholder.com/50x30/595f6f/000000?text=+)|
 |color9    |#ff6077|![#ff6077](https://via.placeholder.com/50x30/ff6077/000000?text=+)|
-|color10   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
+|color10   |#85d3f2|![#85d3f2](https://via.placeholder.com/50x30/85d3f2/000000?text=+)|
 |color11   |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
 |color12   |#a7df78|![#a7df78](https://via.placeholder.com/50x30/a7df78/000000?text=+)|
-|color13   |#85d3f2|![#85d3f2](https://via.placeholder.com/50x30/85d3f2/000000?text=+)|
+|color13   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
 |color14   |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
 |color15   |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
 
