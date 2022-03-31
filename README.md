@@ -230,7 +230,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 |----------|:-----:|:----------------------------------------------------------------:|
 |background|#161821|![#161821](https://via.placeholder.com/50x30/161821/000000?text=+)|
 |foreground|#f8f8f2|![#f8f8f2](https://via.placeholder.com/50x30/f8f8f2/000000?text=+)|
-|cursor    |#f92672|![#f92672](https://via.placeholder.com/50x30/f92672/000000?text=+)|
+|cursor    |#f8f8f2|![#f8f8f2](https://via.placeholder.com/50x30/f8f8f2/000000?text=+)|
 |color0    |#161821|![#161821](https://via.placeholder.com/50x30/161821/000000?text=+)|
 |color1    |#f92672|![#f92672](https://via.placeholder.com/50x30/f92672/000000?text=+)|
 |color2    |#a6e22e|![#a6e22e](https://via.placeholder.com/50x30/a6e22e/000000?text=+)|
@@ -239,7 +239,7 @@ Pull requests are the best way to propose changes to the codebase (we use
 |color5    |#ae81ff|![#ae81ff](https://via.placeholder.com/50x30/ae81ff/000000?text=+)|
 |color6    |#a1efe4|![#a1efe4](https://via.placeholder.com/50x30/a1efe4/000000?text=+)|
 |color7    |#f8f8f2|![#f8f8f2](https://via.placeholder.com/50x30/f8f8f2/000000?text=+)|
-|color8    |#75715e|![#75715e](https://via.placeholder.com/50x30/75715e/000000?text=+)|
+|color8    |#66d9ef|![#66d9ef](https://via.placeholder.com/50x30/66d9ef/000000?text=+)|
 |color9    |#f92672|![#f92672](https://via.placeholder.com/50x30/f92672/000000?text=+)|
 |color10   |#a6e22e|![#a6e22e](https://via.placeholder.com/50x30/a6e22e/000000?text=+)|
 |color11   |#f4bf75|![#f4bf75](https://via.placeholder.com/50x30/f4bf75/000000?text=+)|
@@ -625,22 +625,22 @@ Pull requests are the best way to propose changes to the codebase (we use
 |background|#2c2e34|![#2c2e34](https://via.placeholder.com/50x30/2c2e34/000000?text=+)|
 |foreground|#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
 |cursor    |#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
-|color0    |#fc5d7c|![#fc5d7c](https://via.placeholder.com/50x30/fc5d7c/000000?text=+)|
-|color1    |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
-|color2    |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
-|color3    |#9ed072|![#9ed072](https://via.placeholder.com/50x30/9ed072/000000?text=+)|
+|color0    |#181819|![#181819](https://via.placeholder.com/50x30/181819/000000?text=+)|
+|color1    |#ff6077|![#ff6077](https://via.placeholder.com/50x30/ff6077/000000?text=+)|
+|color2    |#9ed072|![#9ed072](https://via.placeholder.com/50x30/9ed072/000000?text=+)|
+|color3    |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
 |color4    |#76cce0|![#76cce0](https://via.placeholder.com/50x30/76cce0/000000?text=+)|
-|color7    |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
-|color6    |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
-|color5    |#181819|![#181819](https://via.placeholder.com/50x30/181819/000000?text=+)|
+|color5    |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
+|color6    |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
+|color7    |#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
 |color8    |#595f6f|![#595f6f](https://via.placeholder.com/50x30/595f6f/000000?text=+)|
 |color9    |#ff6077|![#ff6077](https://via.placeholder.com/50x30/ff6077/000000?text=+)|
-|color10   |#85d3f2|![#85d3f2](https://via.placeholder.com/50x30/85d3f2/000000?text=+)|
+|color10   |#a7df78|![#a7df78](https://via.placeholder.com/50x30/a7df78/000000?text=+)|
 |color11   |#e7c664|![#e7c664](https://via.placeholder.com/50x30/e7c664/000000?text=+)|
-|color12   |#a7df78|![#a7df78](https://via.placeholder.com/50x30/a7df78/000000?text=+)|
-|color13   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
-|color14   |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
-|color15   |#7f8490|![#7f8490](https://via.placeholder.com/50x30/7f8490/000000?text=+)|
+|color12   |#85d3f2|![#85d3f2](https://via.placeholder.com/50x30/85d3f2/000000?text=+)|
+|color13   |#b39df3|![#b39df3](https://via.placeholder.com/50x30/b39df3/000000?text=+)|
+|color14   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000?text=+)|
+|color15   |#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000?text=+)|
 
 ### Candid
 
