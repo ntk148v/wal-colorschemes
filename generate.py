@@ -63,6 +63,12 @@ Pull requests are the best way to propose changes to the codebase (we use
 - Make changes.
 - Issue that pull request!
 
+You may want to check out some scripts:
+- [generate.py](./generate.py): Generate this README page.
+- [convert_itermcolor.py](./convert_itermcolor.py): Convert .itermcolor to wal colorscheme file.
+- [make-screenshots.sh](./make-screenshots.sh): Auto apply colors and capture screenshots.
+- [preview-colors.sh](./preview-colors.sh): Preview colors in style.
+
 ## Preview
 
 '''
