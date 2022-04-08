@@ -25,6 +25,7 @@
 	- [Nord](#nord)
 	- [Github dark dimmed](#github-dark-dimmed)
 	- [Iceberg](#iceberg)
+	- [Urban](#urban)
 	- [Ayu dark](#ayu-dark)
 	- [Tokyonight storm](#tokyonight-storm)
 	- [Tokyonight night](#tokyonight-night)
@@ -399,6 +400,34 @@ You may want to check out some scripts:
 |color13   |#ada0d3|![#ada0d3](https://via.placeholder.com/50x30/ada0d3/000000?text=+)|
 |color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000?text=+)|
 |color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000?text=+)|
+
+### Urban
+
+[Reference](https://github.com/divadretlaw/urban)
+
+![](./screenshots/urban.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#292a2f|![#292a2f](https://via.placeholder.com/50x30/292a2f/000000?text=+)|
+|cursor    |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|foreground|#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|color0    |#36373d|![#36373d](https://via.placeholder.com/50x30/36373d/000000?text=+)|
+|color1    |#ff2600|![#ff2600](https://via.placeholder.com/50x30/ff2600/000000?text=+)|
+|color10   |#51c34f|![#51c34f](https://via.placeholder.com/50x30/51c34f/000000?text=+)|
+|color11   |#fef743|![#fef743](https://via.placeholder.com/50x30/fef743/000000?text=+)|
+|color12   |#0088ff|![#0088ff](https://via.placeholder.com/50x30/0088ff/000000?text=+)|
+|color13   |#e12ca0|![#e12ca0](https://via.placeholder.com/50x30/e12ca0/000000?text=+)|
+|color14   |#16b5b1|![#16b5b1](https://via.placeholder.com/50x30/16b5b1/000000?text=+)|
+|color15   |#feffff|![#feffff](https://via.placeholder.com/50x30/feffff/000000?text=+)|
+|color2    |#badb93|![#badb93](https://via.placeholder.com/50x30/badb93/000000?text=+)|
+|color3    |#fef996|![#fef996](https://via.placeholder.com/50x30/fef996/000000?text=+)|
+|color4    |#85c4f8|![#85c4f8](https://via.placeholder.com/50x30/85c4f8/000000?text=+)|
+|color5    |#f498be|![#f498be](https://via.placeholder.com/50x30/f498be/000000?text=+)|
+|color6    |#a7ebdd|![#a7ebdd](https://via.placeholder.com/50x30/a7ebdd/000000?text=+)|
+|color7    |#ebecef|![#ebecef](https://via.placeholder.com/50x30/ebecef/000000?text=+)|
+|color8    |#454957|![#454957](https://via.placeholder.com/50x30/454957/000000?text=+)|
+|color9    |#dd393b|![#dd393b](https://via.placeholder.com/50x30/dd393b/000000?text=+)|
 
 ### Ayu dark
 
