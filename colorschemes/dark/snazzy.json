@@ -1,26 +1,26 @@
 {
-  "refer": "https://github.com/connorholyday/vim-snazzy",
+  "refer": "https://github.com/sindresorhus/iterm2-snazzy",
   "special": {
     "background": "#272935",
-    "foreground": "#EFF0EA",
-    "cursor": "#F7F7F7"
+    "cursor": "#e9e9e9",
+    "foreground": "#eff0ea"
   },
   "colors": {
     "color0": "#000000",
-    "color1": "#FF5B56",
-    "color2": "#5AF78D",
-    "color3": "#F3F99C",
-    "color4": "#57C7FE",
-    "color5": "#FF69C0",
-    "color6": "#9AECFE",
-    "color7": "#F1F1F0",
+    "color1": "#ff5b56",
+    "color10": "#5af78d",
+    "color11": "#f3f99c",
+    "color12": "#57c7fe",
+    "color13": "#ff69c0",
+    "color14": "#9aecfe",
+    "color15": "#f1f1f0",
+    "color2": "#5af78d",
+    "color3": "#f3f99c",
+    "color4": "#57c7fe",
+    "color5": "#ff69c0",
+    "color6": "#9aecfe",
+    "color7": "#f1f1f0",
     "color8": "#686767",
-    "color9": "#FF5B56",
-    "color10": "#5AF78D",
-    "color11": "#F3F99C",
-    "color12": "#57C7FE",
-    "color13": "#FF69C0",
-    "color14": "#9AECFE",
-    "color15": "#F1F1F0"
+    "color9": "#ff5b56"
   }
 }
