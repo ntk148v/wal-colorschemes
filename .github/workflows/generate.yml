@@ -12,7 +12,13 @@ jobs:
     name: generate README
     runs-on: ubuntu-latest
     steps:
+    - name: Set safe directory # https://github.com/actions/checkout/issues/760
+      run: |
+        set -x
+        git config --global --add safe.directory $GITHUB_WORKSPACE
+        
     - uses: actions/checkout@v2
+    
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
