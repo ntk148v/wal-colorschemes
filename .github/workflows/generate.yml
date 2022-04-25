@@ -16,6 +16,7 @@ jobs:
       run: |
         set -x
         git config --global --add safe.directory $GITHUB_WORKSPACE
+        git config --global --add safe.directory /github/workspace
         
     - uses: actions/checkout@v2
     
