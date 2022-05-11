@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/cdalvaro/github-vscode-theme-iterm",
+    "refer": "https://github.com/projekt0n/github-nvim-theme",
     "special": {
-        "background": "#1e2429",
-        "cursor": "#c5e1ff",
-        "foreground": "#d1d5da"
+        "background": "#24292e",
+        "cursor": "#c8e1ff",
+        "foreground": "#c9d1d9"
     },
     "colors": {
-        "color0": "#000000",
-        "color1": "#d81029",
-        "color10": "#00d684",
-        "color11": "#f2f800",
-        "color12": "#2e8df1",
-        "color13": "#e163dc",
-        "color14": "#00badf",
-        "color15": "#e5e5e5",
-        "color2": "#00c172",
-        "color3": "#e2e800",
-        "color4": "#1571ce",
-        "color5": "#c824c2",
-        "color6": "#00aad1",
-        "color7": "#e5e5e5",
-        "color8": "#666666",
-        "color9": "#fe3646"
+        "color0": "#586069",
+        "color1": "#ea4a5a",
+        "color10": "#85e89d",
+        "color11": "#ffea7f",
+        "color12": "#79b8ff",
+        "color13": "#b392f0",
+        "color14": "#55d4dd",
+        "color15": "#fafbfc",
+        "color2": "#34d058",
+        "color3": "#ffea7f",
+        "color4": "#2188ff",
+        "color5": "#b392f0",
+        "color6": "#39c5cf",
+        "color7": "#d1d5da",
+        "color8": "#959da5",
+        "color9": "#f97583"
     }
 }

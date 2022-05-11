@@ -2,7 +2,7 @@
     "refer": "https://github.com/projekt0n/github-nvim-theme",
     "special": {
         "background": "#ffffff",
-        "cursor": "#034189",
+        "cursor": "#0869da",
         "foreground": "#24292f"
     },
     "colors": {
