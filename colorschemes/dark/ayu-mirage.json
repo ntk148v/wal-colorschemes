@@ -1,0 +1,26 @@
+{
+    "refer": "https://github.com/dempfi/ayu",
+    "special": {
+        "background": "#1f2430",
+        "cursor": "#ffcc66",
+        "foreground": "#cbccc6"
+    },
+    "colors": {
+        "color0": "#1a1e29",
+        "color1": "#f28779",
+        "color2": "#bae67e",
+        "color3": "#ffd580",
+        "color4": "#73d0ff",
+        "color5": "#d4bfff",
+        "color6": "#95e6cb",
+        "color7": "#c7c7c7",
+        "color8": "#686868",
+        "color9": "#f28779",
+        "color10": "#bae67e",
+        "color11": "#ffd580",
+        "color12": "#73d0ff",
+        "color13": "#d4bfff",
+        "color14": "#95e6cb",
+        "color15": "#ffffff"
+    }
+}
