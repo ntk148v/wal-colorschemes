@@ -17,10 +17,13 @@
 	- [One half light](#one-half-light)
 	- [Tokyonight day](#tokyonight-day)
 	- [Github light default](#github-light-default)
+	- [Xcodelight](#xcodelight)
 	- [Github light](#github-light)
 	- [Github light 2](#github-light-2)
+	- [Xcodelighthc](#xcodelighthc)
 	- [Ayu light](#ayu-light)
 	- [Github light colorblind](#github-light-colorblind)
+	- [Xcodewwdc](#xcodewwdc)
 	- [Srcery](#srcery)
 	- [Kanagawa](#kanagawa)
 	- [Badwolf](#badwolf)
@@ -31,6 +34,7 @@
 	- [Github dark high contrast](#github-dark-high-contrast)
 	- [Github dark colorblind](#github-dark-colorblind)
 	- [Xcodedarkhc](#xcodedarkhc)
+	- [Xcodedark](#xcodedark)
 	- [Moonfly](#moonfly)
 	- [Snazzy2](#snazzy2)
 	- [Github dark default](#github-dark-default)
@@ -185,6 +189,34 @@ You may want to check out some scripts:
 |color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000?text=+)|
 |color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000?text=+)|
 
+### Xcodelight
+
+[Reference](https://github.com/arzg/vim-colors-xcode)
+
+![](./screenshots/xcodelight.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+|cursor    |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000?text=+)|
+|foreground|#262626|![#262626](https://via.placeholder.com/50x30/262626/000000?text=+)|
+|color0    |#b4d8fd|![#b4d8fd](https://via.placeholder.com/50x30/b4d8fd/000000?text=+)|
+|color1    |#d12f1b|![#d12f1b](https://via.placeholder.com/50x30/d12f1b/000000?text=+)|
+|color10   |#23575c|![#23575c](https://via.placeholder.com/50x30/23575c/000000?text=+)|
+|color11   |#78492a|![#78492a](https://via.placeholder.com/50x30/78492a/000000?text=+)|
+|color12   |#0b4f79|![#0b4f79](https://via.placeholder.com/50x30/0b4f79/000000?text=+)|
+|color13   |#ad3da4|![#ad3da4](https://via.placeholder.com/50x30/ad3da4/000000?text=+)|
+|color14   |#4b21b0|![#4b21b0](https://via.placeholder.com/50x30/4b21b0/000000?text=+)|
+|color15   |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000?text=+)|
+|color2    |#3e8087|![#3e8087](https://via.placeholder.com/50x30/3e8087/000000?text=+)|
+|color3    |#78492a|![#78492a](https://via.placeholder.com/50x30/78492a/000000?text=+)|
+|color4    |#0f68a0|![#0f68a0](https://via.placeholder.com/50x30/0f68a0/000000?text=+)|
+|color5    |#ad3da4|![#ad3da4](https://via.placeholder.com/50x30/ad3da4/000000?text=+)|
+|color6    |#804fb8|![#804fb8](https://via.placeholder.com/50x30/804fb8/000000?text=+)|
+|color7    |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000?text=+)|
+|color8    |#8a99a6|![#8a99a6](https://via.placeholder.com/50x30/8a99a6/000000?text=+)|
+|color9    |#d12f1b|![#d12f1b](https://via.placeholder.com/50x30/d12f1b/000000?text=+)|
+
 ### Github light
 
 [Reference](https://github.com/projekt0n/github-nvim-theme)
@@ -241,6 +273,34 @@ You may want to check out some scripts:
 |color8    |#666666|![#666666](https://via.placeholder.com/50x30/666666/000000?text=+)|
 |color9    |#d81029|![#d81029](https://via.placeholder.com/50x30/d81029/000000?text=+)|
 
+### Xcodelighthc
+
+[Reference](https://github.com/arzg/vim-colors-xcode)
+
+![](./screenshots/xcodelighthc.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
+|cursor    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|foreground|#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|color0    |#b4d8fd|![#b4d8fd](https://via.placeholder.com/50x30/b4d8fd/000000?text=+)|
+|color1    |#ad1805|![#ad1805](https://via.placeholder.com/50x30/ad1805/000000?text=+)|
+|color10   |#174145|![#174145](https://via.placeholder.com/50x30/174145/000000?text=+)|
+|color11   |#78492a|![#78492a](https://via.placeholder.com/50x30/78492a/000000?text=+)|
+|color12   |#003f73|![#003f73](https://via.placeholder.com/50x30/003f73/000000?text=+)|
+|color13   |#9c2191|![#9c2191](https://via.placeholder.com/50x30/9c2191/000000?text=+)|
+|color14   |#441ea1|![#441ea1](https://via.placeholder.com/50x30/441ea1/000000?text=+)|
+|color15   |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|color2    |#355d61|![#355d61](https://via.placeholder.com/50x30/355d61/000000?text=+)|
+|color3    |#78492a|![#78492a](https://via.placeholder.com/50x30/78492a/000000?text=+)|
+|color4    |#0058a1|![#0058a1](https://via.placeholder.com/50x30/0058a1/000000?text=+)|
+|color5    |#9c2191|![#9c2191](https://via.placeholder.com/50x30/9c2191/000000?text=+)|
+|color6    |#703daa|![#703daa](https://via.placeholder.com/50x30/703daa/000000?text=+)|
+|color7    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000?text=+)|
+|color8    |#8a99a6|![#8a99a6](https://via.placeholder.com/50x30/8a99a6/000000?text=+)|
+|color9    |#ad1805|![#ad1805](https://via.placeholder.com/50x30/ad1805/000000?text=+)|
+
 ### Ayu light
 
 [Reference](https://github.com/ayu-theme/ayu-colors)
@@ -296,6 +356,34 @@ You may want to check out some scripts:
 |color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000?text=+)|
 |color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000?text=+)|
 |color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000?text=+)|
+
+### Xcodewwdc
+
+[Reference](https://github.com/arzg/vim-colors-xcode)
+
+![](./screenshots/xcodewwdc.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#292c36|![#292c36](https://via.placeholder.com/50x30/292c36/000000?text=+)|
+|cursor    |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|foreground|#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|color0    |#494d5c|![#494d5c](https://via.placeholder.com/50x30/494d5c/000000?text=+)|
+|color1    |#bb383a|![#bb383a](https://via.placeholder.com/50x30/bb383a/000000?text=+)|
+|color10   |#94c66e|![#94c66e](https://via.placeholder.com/50x30/94c66e/000000?text=+)|
+|color11   |#d28e5d|![#d28e5d](https://via.placeholder.com/50x30/d28e5d/000000?text=+)|
+|color12   |#8884c5|![#8884c5](https://via.placeholder.com/50x30/8884c5/000000?text=+)|
+|color13   |#b73999|![#b73999](https://via.placeholder.com/50x30/b73999/000000?text=+)|
+|color14   |#00aba4|![#00aba4](https://via.placeholder.com/50x30/00aba4/000000?text=+)|
+|color15   |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|color2    |#94c66e|![#94c66e](https://via.placeholder.com/50x30/94c66e/000000?text=+)|
+|color3    |#d28e5d|![#d28e5d](https://via.placeholder.com/50x30/d28e5d/000000?text=+)|
+|color4    |#8884c5|![#8884c5](https://via.placeholder.com/50x30/8884c5/000000?text=+)|
+|color5    |#b73999|![#b73999](https://via.placeholder.com/50x30/b73999/000000?text=+)|
+|color6    |#00aba4|![#00aba4](https://via.placeholder.com/50x30/00aba4/000000?text=+)|
+|color7    |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000?text=+)|
+|color8    |#7f869e|![#7f869e](https://via.placeholder.com/50x30/7f869e/000000?text=+)|
+|color9    |#bb383a|![#bb383a](https://via.placeholder.com/50x30/bb383a/000000?text=+)|
 
 ### Srcery
 
@@ -578,6 +666,34 @@ You may want to check out some scripts:
 |color7    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+)|
 |color8    |#838991|![#838991](https://via.placeholder.com/50x30/838991/000000?text=+)|
 |color9    |#ff8a7a|![#ff8a7a](https://via.placeholder.com/50x30/ff8a7a/000000?text=+)|
+
+### Xcodedark
+
+[Reference](https://github.com/arzg/vim-colors-xcode)
+
+![](./screenshots/xcodedark.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#292a30|![#292a30](https://via.placeholder.com/50x30/292a30/000000?text=+)|
+|cursor    |#dfdfe0|![#dfdfe0](https://via.placeholder.com/50x30/dfdfe0/000000?text=+)|
+|foreground|#dfdfe0|![#dfdfe0](https://via.placeholder.com/50x30/dfdfe0/000000?text=+)|
+|color0    |#414453|![#414453](https://via.placeholder.com/50x30/414453/000000?text=+)|
+|color1    |#ff8170|![#ff8170](https://via.placeholder.com/50x30/ff8170/000000?text=+)|
+|color10   |#acf2e4|![#acf2e4](https://via.placeholder.com/50x30/acf2e4/000000?text=+)|
+|color11   |#ffa14f|![#ffa14f](https://via.placeholder.com/50x30/ffa14f/000000?text=+)|
+|color12   |#6bdfff|![#6bdfff](https://via.placeholder.com/50x30/6bdfff/000000?text=+)|
+|color13   |#ff7ab2|![#ff7ab2](https://via.placeholder.com/50x30/ff7ab2/000000?text=+)|
+|color14   |#dabaff|![#dabaff](https://via.placeholder.com/50x30/dabaff/000000?text=+)|
+|color15   |#dfdfe0|![#dfdfe0](https://via.placeholder.com/50x30/dfdfe0/000000?text=+)|
+|color2    |#78c2b3|![#78c2b3](https://via.placeholder.com/50x30/78c2b3/000000?text=+)|
+|color3    |#d9c97c|![#d9c97c](https://via.placeholder.com/50x30/d9c97c/000000?text=+)|
+|color4    |#4eb0cc|![#4eb0cc](https://via.placeholder.com/50x30/4eb0cc/000000?text=+)|
+|color5    |#ff7ab2|![#ff7ab2](https://via.placeholder.com/50x30/ff7ab2/000000?text=+)|
+|color6    |#b281eb|![#b281eb](https://via.placeholder.com/50x30/b281eb/000000?text=+)|
+|color7    |#dfdfe0|![#dfdfe0](https://via.placeholder.com/50x30/dfdfe0/000000?text=+)|
+|color8    |#7f8c98|![#7f8c98](https://via.placeholder.com/50x30/7f8c98/000000?text=+)|
+|color9    |#ff8170|![#ff8170](https://via.placeholder.com/50x30/ff8170/000000?text=+)|
 
 ### Moonfly
 
