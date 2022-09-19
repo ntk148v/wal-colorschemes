@@ -20,6 +20,7 @@
 	- [Alabaster](#alabaster)
 	- [Github light default](#github-light-default)
 	- [One half light](#one-half-light)
+	- [Github light modifed](#github-light-modifed)
 	- [Xcodelight](#xcodelight)
 	- [Tokyonight day](#tokyonight-day)
 	- [Github light](#github-light)
@@ -274,6 +275,34 @@ You may want to check out some scripts:
 |color13   |#a626a4|![#a626a4](https://via.placeholder.com/50x30/a626a4/000000?text=+)|
 |color14   |#0997b3|![#0997b3](https://via.placeholder.com/50x30/0997b3/000000?text=+)|
 |color15   |#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000?text=+)|
+
+### Github light modifed
+
+[Reference](https://github.com/projekt0n/github-nvim-theme)
+
+![](./screenshots/github-light-modifed.png)
+
+|  Color   |  Hex  |                             Preview                              |
+|----------|:-----:|:----------------------------------------------------------------:|
+|background|#f5eee6|![#f5eee6](https://via.placeholder.com/50x30/f5eee6/000000?text=+)|
+|cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000?text=+)|
+|foreground|#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000?text=+)|
+|color0    |#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000?text=+)|
+|color1    |#d73a49|![#d73a49](https://via.placeholder.com/50x30/d73a49/000000?text=+)|
+|color10   |#21863a|![#21863a](https://via.placeholder.com/50x30/21863a/000000?text=+)|
+|color11   |#b08800|![#b08800](https://via.placeholder.com/50x30/b08800/000000?text=+)|
+|color12   |#005cc5|![#005cc5](https://via.placeholder.com/50x30/005cc5/000000?text=+)|
+|color13   |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000?text=+)|
+|color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000?text=+)|
+|color15   |#d1d5da|![#d1d5da](https://via.placeholder.com/50x30/d1d5da/000000?text=+)|
+|color2    |#28a744|![#28a744](https://via.placeholder.com/50x30/28a744/000000?text=+)|
+|color3    |#dbab08|![#dbab08](https://via.placeholder.com/50x30/dbab08/000000?text=+)|
+|color4    |#0266d6|![#0266d6](https://via.placeholder.com/50x30/0266d6/000000?text=+)|
+|color5    |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000?text=+)|
+|color6    |#0598bc|![#0598bc](https://via.placeholder.com/50x30/0598bc/000000?text=+)|
+|color7    |#69737c|![#69737c](https://via.placeholder.com/50x30/69737c/000000?text=+)|
+|color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000?text=+)|
+|color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000?text=+)|
 
 ### Xcodelight
 
