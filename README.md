@@ -1031,7 +1031,7 @@ You may want to check out some scripts:
 |color5    |#cf8dfb|![#cf8dfb](https://via.placeholder.com/50x30/cf8dfb/000000?text=+)|
 |color6    |#5cecc6|![#5cecc6](https://via.placeholder.com/50x30/5cecc6/000000?text=+)|
 |color7    |#dee1e6|![#dee1e6](https://via.placeholder.com/50x30/dee1e6/000000?text=+)|
-|color8    |#1a2332|![#1a2332](https://via.placeholder.com/50x30/1a2332/000000?text=+)|
+|color8    |#313f55|![#313f55](https://via.placeholder.com/50x30/313f55/000000?text=+)|
 |color9    |#ff8484|![#ff8484](https://via.placeholder.com/50x30/ff8484/000000?text=+)|
 |color10   |#c5f467|![#c5f467](https://via.placeholder.com/50x30/c5f467/000000?text=+)|
 |color11   |#ffcc5c|![#ffcc5c](https://via.placeholder.com/50x30/ffcc5c/000000?text=+)|
