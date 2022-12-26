@@ -124,7 +124,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#e1e2e7|![#e1e2e7](https://via.placeholder.com/50x30/e1e2e7/000000.png?text=+)|
 |foreground|#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000.png?text=+)|
@@ -146,6 +147,7 @@ You may want to check out some scripts:
 |color14   |#007197|![#007197](https://via.placeholder.com/50x30/007197/000000.png?text=+)|
 |color15   |#3760bf|![#3760bf](https://via.placeholder.com/50x30/3760bf/000000.png?text=+)|
 
+
 </details>
 
 ### Github light default
@@ -156,7 +158,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
@@ -178,6 +181,7 @@ You may want to check out some scripts:
 |color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000.png?text=+)|
 |color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000.png?text=+)|
 
+
 </details>
 
 ### Github light 2
@@ -188,7 +192,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#f6f8fa|![#f6f8fa](https://via.placeholder.com/50x30/f6f8fa/000000.png?text=+)|
 |cursor    |#00408e|![#00408e](https://via.placeholder.com/50x30/00408e/000000.png?text=+)|
@@ -210,6 +215,7 @@ You may want to check out some scripts:
 |color8    |#666666|![#666666](https://via.placeholder.com/50x30/666666/000000.png?text=+)|
 |color9    |#d81029|![#d81029](https://via.placeholder.com/50x30/d81029/000000.png?text=+)|
 
+
 </details>
 
 ### Light decay
@@ -220,7 +226,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#dee1e6|![#dee1e6](https://via.placeholder.com/50x30/dee1e6/000000.png?text=+)|
 |foreground|#101419|![#101419](https://via.placeholder.com/50x30/101419/000000.png?text=+)|
@@ -242,6 +249,7 @@ You may want to check out some scripts:
 |color14   |#56a0cb|![#56a0cb](https://via.placeholder.com/50x30/56a0cb/000000.png?text=+)|
 |color15   |#1f2328|![#1f2328](https://via.placeholder.com/50x30/1f2328/000000.png?text=+)|
 
+
 </details>
 
 ### Rose pine dawn
@@ -252,7 +260,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#faf4ed|![#faf4ed](https://via.placeholder.com/50x30/faf4ed/000000.png?text=+)|
 |foreground|#575279|![#575279](https://via.placeholder.com/50x30/575279/000000.png?text=+)|
@@ -274,6 +283,7 @@ You may want to check out some scripts:
 |color14   |#d7827e|![#d7827e](https://via.placeholder.com/50x30/d7827e/000000.png?text=+)|
 |color15   |#575279|![#575279](https://via.placeholder.com/50x30/575279/000000.png?text=+)|
 
+
 </details>
 
 ### Github light colorblind
@@ -284,7 +294,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |cursor    |#0869da|![#0869da](https://via.placeholder.com/50x30/0869da/000000.png?text=+)|
@@ -306,6 +317,7 @@ You may want to check out some scripts:
 |color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000.png?text=+)|
 |color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000.png?text=+)|
 
+
 </details>
 
 ### Ayu light
@@ -316,7 +328,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#fafafa|![#FAFAFA](https://via.placeholder.com/50x30/FAFAFA/000000.png?text=+)|
 |foreground|#575f66|![#575F66](https://via.placeholder.com/50x30/575F66/000000.png?text=+)|
@@ -338,6 +351,7 @@ You may want to check out some scripts:
 |color14   |#f27983|![#F27983](https://via.placeholder.com/50x30/F27983/000000.png?text=+)|
 |color15   |#f8f9fa|![#F8F9FA](https://via.placeholder.com/50x30/F8F9FA/000000.png?text=+)|
 
+
 </details>
 
 ### One half light
@@ -348,7 +362,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000.png?text=+)|
 |foreground|#383a42|![#383a42](https://via.placeholder.com/50x30/383a42/000000.png?text=+)|
@@ -370,6 +385,7 @@ You may want to check out some scripts:
 |color14   |#0997b3|![#0997b3](https://via.placeholder.com/50x30/0997b3/000000.png?text=+)|
 |color15   |#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000.png?text=+)|
 
+
 </details>
 
 ### Xcodelighthc
@@ -380,7 +396,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |cursor    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000.png?text=+)|
@@ -402,6 +419,7 @@ You may want to check out some scripts:
 |color8    |#8a99a6|![#8a99a6](https://via.placeholder.com/50x30/8a99a6/000000.png?text=+)|
 |color9    |#ad1805|![#ad1805](https://via.placeholder.com/50x30/ad1805/000000.png?text=+)|
 
+
 </details>
 
 ### Github light modifed
@@ -412,7 +430,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#f5eee6|![#f5eee6](https://via.placeholder.com/50x30/f5eee6/000000.png?text=+)|
 |cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
@@ -434,6 +453,7 @@ You may want to check out some scripts:
 |color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
 |color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000.png?text=+)|
 
+
 </details>
 
 ### Xcodelight
@@ -444,7 +464,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |cursor    |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000.png?text=+)|
@@ -466,6 +487,7 @@ You may want to check out some scripts:
 |color8    |#8a99a6|![#8a99a6](https://via.placeholder.com/50x30/8a99a6/000000.png?text=+)|
 |color9    |#d12f1b|![#d12f1b](https://via.placeholder.com/50x30/d12f1b/000000.png?text=+)|
 
+
 </details>
 
 ### Github light
@@ -476,7 +498,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
@@ -498,6 +521,7 @@ You may want to check out some scripts:
 |color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
 |color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000.png?text=+)|
 
+
 </details>
 
 ### Alabaster
@@ -508,7 +532,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#f7f7f7|![#f7f7f7](https://via.placeholder.com/50x30/f7f7f7/000000.png?text=+)|
 |foreground|#000000|![#000000](https://via.placeholder.com/50x30/000000/000000.png?text=+)|
@@ -530,6 +555,7 @@ You may want to check out some scripts:
 |color14   |#00aacb|![#00aacb](https://via.placeholder.com/50x30/00aacb/000000.png?text=+)|
 |color15   |#c5c8c6|![#c5c8c6](https://via.placeholder.com/50x30/c5c8c6/000000.png?text=+)|
 
+
 </details>
 
 ### Nightfly
@@ -540,7 +566,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#011627|![#011627](https://via.placeholder.com/50x30/011627/000000.png?text=+)|
 |foreground|#acb4c2|![#acb4c2](https://via.placeholder.com/50x30/acb4c2/000000.png?text=+)|
@@ -562,6 +589,7 @@ You may want to check out some scripts:
 |color14   |#7fdbca|![#7fdbca](https://via.placeholder.com/50x30/7fdbca/000000.png?text=+)|
 |color15   |#d6deeb|![#d6deeb](https://via.placeholder.com/50x30/d6deeb/000000.png?text=+)|
 
+
 </details>
 
 ### Kanagawa
@@ -572,7 +600,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |foreground|#dcd7ba|![#DCD7BA](https://via.placeholder.com/50x30/DCD7BA/000000.png?text=+)|
 |background|#1f1f28|![#1F1F28](https://via.placeholder.com/50x30/1F1F28/000000.png?text=+)|
@@ -596,6 +625,7 @@ You may want to check out some scripts:
 |color16   |#ffa066|![#FFA066](https://via.placeholder.com/50x30/FFA066/000000.png?text=+)|
 |color17   |#ff5d62|![#FF5D62](https://via.placeholder.com/50x30/FF5D62/000000.png?text=+)|
 
+
 </details>
 
 ### Xcodedark
@@ -606,7 +636,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#292a30|![#292a30](https://via.placeholder.com/50x30/292a30/000000.png?text=+)|
 |cursor    |#dfdfe0|![#dfdfe0](https://via.placeholder.com/50x30/dfdfe0/000000.png?text=+)|
@@ -628,6 +659,7 @@ You may want to check out some scripts:
 |color8    |#7f8c98|![#7f8c98](https://via.placeholder.com/50x30/7f8c98/000000.png?text=+)|
 |color9    |#ff8170|![#ff8170](https://via.placeholder.com/50x30/ff8170/000000.png?text=+)|
 
+
 </details>
 
 ### Candid
@@ -638,7 +670,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000.png?text=+)|
 |foreground|#efeeea|![#efeeea](https://via.placeholder.com/50x30/efeeea/000000.png?text=+)|
@@ -660,6 +693,7 @@ You may want to check out some scripts:
 |color14   |#4c8273|![#4c8273](https://via.placeholder.com/50x30/4c8273/000000.png?text=+)|
 |color15   |#2f343f|![#2f343f](https://via.placeholder.com/50x30/2f343f/000000.png?text=+)|
 
+
 </details>
 
 ### Rose pine
@@ -670,7 +704,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#191724|![#191724](https://via.placeholder.com/50x30/191724/000000.png?text=+)|
 |foreground|#e0def4|![#e0def4](https://via.placeholder.com/50x30/e0def4/000000.png?text=+)|
@@ -692,6 +727,7 @@ You may want to check out some scripts:
 |color14   |#ebbcba|![#ebbcba](https://via.placeholder.com/50x30/ebbcba/000000.png?text=+)|
 |color15   |#e0def4|![#e0def4](https://via.placeholder.com/50x30/e0def4/000000.png?text=+)|
 
+
 </details>
 
 ### Horizon
@@ -702,7 +738,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1c1e26|![#1c1e26](https://via.placeholder.com/50x30/1c1e26/000000.png?text=+)|
 |foreground|#d5d8da|![#d5d8da](https://via.placeholder.com/50x30/d5d8da/000000.png?text=+)|
@@ -724,6 +761,7 @@ You may want to check out some scripts:
 |color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000.png?text=+)|
 |color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000.png?text=+)|
 
+
 </details>
 
 ### Xcodewwdc
@@ -734,7 +772,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#292c36|![#292c36](https://via.placeholder.com/50x30/292c36/000000.png?text=+)|
 |cursor    |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000.png?text=+)|
@@ -756,6 +795,7 @@ You may want to check out some scripts:
 |color8    |#7f869e|![#7f869e](https://via.placeholder.com/50x30/7f869e/000000.png?text=+)|
 |color9    |#bb383a|![#bb383a](https://via.placeholder.com/50x30/bb383a/000000.png?text=+)|
 
+
 </details>
 
 ### Snazzy2
@@ -766,7 +806,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#080808|![#080808](https://via.placeholder.com/50x30/080808/000000.png?text=+)|
 |foreground|#f9f9f9|![#f9f9f9](https://via.placeholder.com/50x30/f9f9f9/000000.png?text=+)|
@@ -788,6 +829,7 @@ You may want to check out some scripts:
 |color14   |#9aedfe|![#9aedfe](https://via.placeholder.com/50x30/9aedfe/000000.png?text=+)|
 |color15   |#eff0eb|![#eff0eb](https://via.placeholder.com/50x30/eff0eb/000000.png?text=+)|
 
+
 </details>
 
 ### Everblush
@@ -798,7 +840,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#141b1e|![#141b1e](https://via.placeholder.com/50x30/141b1e/000000.png?text=+)|
 |foreground|#dadada|![#dadada](https://via.placeholder.com/50x30/dadada/000000.png?text=+)|
@@ -820,6 +863,7 @@ You may want to check out some scripts:
 |color14   |#67cbe7|![#67cbe7](https://via.placeholder.com/50x30/67cbe7/000000.png?text=+)|
 |color15   |#bdc3c2|![#bdc3c2](https://via.placeholder.com/50x30/bdc3c2/000000.png?text=+)|
 
+
 </details>
 
 ### Snazzy
@@ -830,7 +874,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#272935|![#272935](https://via.placeholder.com/50x30/272935/000000.png?text=+)|
 |cursor    |#e9e9e9|![#e9e9e9](https://via.placeholder.com/50x30/e9e9e9/000000.png?text=+)|
@@ -852,6 +897,7 @@ You may want to check out some scripts:
 |color8    |#686767|![#686767](https://via.placeholder.com/50x30/686767/000000.png?text=+)|
 |color9    |#ff5b56|![#ff5b56](https://via.placeholder.com/50x30/ff5b56/000000.png?text=+)|
 
+
 </details>
 
 ### Xcodedarkhc
@@ -862,7 +908,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1f1f24|![#1f1f24](https://via.placeholder.com/50x30/1f1f24/000000.png?text=+)|
 |cursor    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
@@ -884,6 +931,7 @@ You may want to check out some scripts:
 |color8    |#838991|![#838991](https://via.placeholder.com/50x30/838991/000000.png?text=+)|
 |color9    |#ff8a7a|![#ff8a7a](https://via.placeholder.com/50x30/ff8a7a/000000.png?text=+)|
 
+
 </details>
 
 ### Urban
@@ -894,7 +942,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#292a2f|![#292a2f](https://via.placeholder.com/50x30/292a2f/000000.png?text=+)|
 |cursor    |#e7e8eb|![#e7e8eb](https://via.placeholder.com/50x30/e7e8eb/000000.png?text=+)|
@@ -916,6 +965,7 @@ You may want to check out some scripts:
 |color14   |#16b5b1|![#16b5b1](https://via.placeholder.com/50x30/16b5b1/000000.png?text=+)|
 |color15   |#feffff|![#feffff](https://via.placeholder.com/50x30/feffff/000000.png?text=+)|
 
+
 </details>
 
 ### Iceberg
@@ -926,7 +976,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#161821|![#161821](https://via.placeholder.com/50x30/161821/000000.png?text=+)|
 |foreground|#c6c8d1|![#c6c8d1](https://via.placeholder.com/50x30/c6c8d1/000000.png?text=+)|
@@ -948,6 +999,7 @@ You may want to check out some scripts:
 |color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000.png?text=+)|
 |color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000.png?text=+)|
 
+
 </details>
 
 ### Github dark
@@ -958,7 +1010,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000.png?text=+)|
 |cursor    |#c8e1ff|![#c8e1ff](https://via.placeholder.com/50x30/c8e1ff/000000.png?text=+)|
@@ -980,6 +1033,7 @@ You may want to check out some scripts:
 |color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
 |color9    |#f97583|![#f97583](https://via.placeholder.com/50x30/f97583/000000.png?text=+)|
 
+
 </details>
 
 ### Badwolf
@@ -990,7 +1044,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1c1b1a|![#1c1b1a](https://via.placeholder.com/50x30/1c1b1a/000000.png?text=+)|
 |foreground|#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000.png?text=+)|
@@ -1012,6 +1067,7 @@ You may want to check out some scripts:
 |color14   |#fade3e|![#fade3e](https://via.placeholder.com/50x30/fade3e/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
+
 </details>
 
 ### Github dark default
@@ -1022,7 +1078,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#0c1116|![#0c1116](https://via.placeholder.com/50x30/0c1116/000000.png?text=+)|
 |cursor    |#73b7f2|![#73b7f2](https://via.placeholder.com/50x30/73b7f2/000000.png?text=+)|
@@ -1044,6 +1101,7 @@ You may want to check out some scripts:
 |color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
 |color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
 
+
 </details>
 
 ### Tokyonight night
@@ -1054,7 +1112,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1a1b26|![#1a1b26](https://via.placeholder.com/50x30/1a1b26/000000.png?text=+)|
 |foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000.png?text=+)|
@@ -1076,6 +1135,7 @@ You may want to check out some scripts:
 |color14   |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000.png?text=+)|
 |color15   |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000.png?text=+)|
 
+
 </details>
 
 ### Github dark colorblind
@@ -1086,7 +1146,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#0c1116|![#0c1116](https://via.placeholder.com/50x30/0c1116/000000.png?text=+)|
 |cursor    |#73b7f2|![#73b7f2](https://via.placeholder.com/50x30/73b7f2/000000.png?text=+)|
@@ -1108,6 +1169,7 @@ You may want to check out some scripts:
 |color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
 |color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
 
+
 </details>
 
 ### Ayu dark
@@ -1118,7 +1180,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#0a0e14|![#0a0e14](https://via.placeholder.com/50x30/0a0e14/000000.png?text=+)|
 |cursor    |#ffcc66|![#ffcc66](https://via.placeholder.com/50x30/ffcc66/000000.png?text=+)|
@@ -1140,6 +1203,7 @@ You may want to check out some scripts:
 |color14   |#95e6cb|![#95e6cb](https://via.placeholder.com/50x30/95e6cb/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
+
 </details>
 
 ### Spaceduck
@@ -1150,7 +1214,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#0f111b|![#0f111b](https://via.placeholder.com/50x30/0f111b/000000.png?text=+)|
 |foreground|#ecf0c1|![#ecf0c1](https://via.placeholder.com/50x30/ecf0c1/000000.png?text=+)|
@@ -1172,6 +1237,7 @@ You may want to check out some scripts:
 |color14   |#7a5ccc|![#7a5ccc](https://via.placeholder.com/50x30/7a5ccc/000000.png?text=+)|
 |color15   |#f0f1ce|![#f0f1ce](https://via.placeholder.com/50x30/f0f1ce/000000.png?text=+)|
 
+
 </details>
 
 ### One half dark
@@ -1182,7 +1248,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000.png?text=+)|
 |foreground|#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000.png?text=+)|
@@ -1204,6 +1271,7 @@ You may want to check out some scripts:
 |color14   |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000.png?text=+)|
 |color15   |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000.png?text=+)|
 
+
 </details>
 
 ### Catppuccin
@@ -1214,7 +1282,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1e1e29|![#1e1e29](https://via.placeholder.com/50x30/1e1e29/000000.png?text=+)|
 |foreground|#f2cdcd|![#f2cdcd](https://via.placeholder.com/50x30/f2cdcd/000000.png?text=+)|
@@ -1236,6 +1305,7 @@ You may want to check out some scripts:
 |color14   |#89dceb|![#89dceb](https://via.placeholder.com/50x30/89dceb/000000.png?text=+)|
 |color15   |#d9e0ee|![#d9e0ee](https://via.placeholder.com/50x30/d9e0ee/000000.png?text=+)|
 
+
 </details>
 
 ### Dark decay
@@ -1246,7 +1316,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#101419|![#101419](https://via.placeholder.com/50x30/101419/000000.png?text=+)|
 |foreground|#b6beca|![#b6beca](https://via.placeholder.com/50x30/b6beca/000000.png?text=+)|
@@ -1268,6 +1339,7 @@ You may want to check out some scripts:
 |color14   |#90daff|![#90daff](https://via.placeholder.com/50x30/90daff/000000.png?text=+)|
 |color15   |#fafdff|![#fafdff](https://via.placeholder.com/50x30/fafdff/000000.png?text=+)|
 
+
 </details>
 
 ### Tokyonight storm
@@ -1278,7 +1350,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#24283b|![#24283b](https://via.placeholder.com/50x30/24283b/000000.png?text=+)|
 |foreground|#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000.png?text=+)|
@@ -1300,6 +1373,7 @@ You may want to check out some scripts:
 |color14   |#7dcfff|![#7dcfff](https://via.placeholder.com/50x30/7dcfff/000000.png?text=+)|
 |color15   |#c0caf5|![#c0caf5](https://via.placeholder.com/50x30/c0caf5/000000.png?text=+)|
 
+
 </details>
 
 ### Decayce
@@ -1310,7 +1384,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#0d0f18|![#0d0f18](https://via.placeholder.com/50x30/0d0f18/000000.png?text=+)|
 |foreground|#a5b6cf|![#a5b6cf](https://via.placeholder.com/50x30/a5b6cf/000000.png?text=+)|
@@ -1332,6 +1407,7 @@ You may want to check out some scripts:
 |color14   |#98d3ee|![#98d3ee](https://via.placeholder.com/50x30/98d3ee/000000.png?text=+)|
 |color15   |#d0d3d8|![#d0d3d8](https://via.placeholder.com/50x30/d0d3d8/000000.png?text=+)|
 
+
 </details>
 
 ### Hackthebox
@@ -1342,7 +1418,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#141d2b|![#141d2b](https://via.placeholder.com/50x30/141d2b/000000.png?text=+)|
 |foreground|#a4b1cd|![#a4b1cd](https://via.placeholder.com/50x30/a4b1cd/000000.png?text=+)|
@@ -1364,6 +1441,7 @@ You may want to check out some scripts:
 |color14   |#5cecc6|![#5cecc6](https://via.placeholder.com/50x30/5cecc6/000000.png?text=+)|
 |color15   |#a4b1cd|![#a4b1cd](https://via.placeholder.com/50x30/a4b1cd/000000.png?text=+)|
 
+
 </details>
 
 ### Rose pine moon
@@ -1374,7 +1452,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#232136|![#232136](https://via.placeholder.com/50x30/232136/000000.png?text=+)|
 |foreground|#e0def4|![#e0def4](https://via.placeholder.com/50x30/e0def4/000000.png?text=+)|
@@ -1396,6 +1475,7 @@ You may want to check out some scripts:
 |color14   |#ea9a97|![#ea9a97](https://via.placeholder.com/50x30/ea9a97/000000.png?text=+)|
 |color15   |#e0def4|![#e0def4](https://via.placeholder.com/50x30/e0def4/000000.png?text=+)|
 
+
 </details>
 
 ### Darker monokai
@@ -1406,7 +1486,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#161821|![#161821](https://via.placeholder.com/50x30/161821/000000.png?text=+)|
 |foreground|#f8f8f2|![#f8f8f2](https://via.placeholder.com/50x30/f8f8f2/000000.png?text=+)|
@@ -1428,6 +1509,7 @@ You may want to check out some scripts:
 |color14   |#a1efe4|![#a1efe4](https://via.placeholder.com/50x30/a1efe4/000000.png?text=+)|
 |color15   |#f9f8f5|![#f9f8f5](https://via.placeholder.com/50x30/f9f8f5/000000.png?text=+)|
 
+
 </details>
 
 ### Decay
@@ -1438,7 +1520,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#171a1f|![#171a1f](https://via.placeholder.com/50x30/171a1f/000000.png?text=+)|
 |foreground|#b6beca|![#b6beca](https://via.placeholder.com/50x30/b6beca/000000.png?text=+)|
@@ -1460,6 +1543,7 @@ You may want to check out some scripts:
 |color14   |#90daff|![#90daff](https://via.placeholder.com/50x30/90daff/000000.png?text=+)|
 |color15   |#fafdff|![#fafdff](https://via.placeholder.com/50x30/fafdff/000000.png?text=+)|
 
+
 </details>
 
 ### Github dark dimmed
@@ -1470,7 +1554,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#21262e|![#21262e](https://via.placeholder.com/50x30/21262e/000000.png?text=+)|
 |cursor    |#6cb6ff|![#6cb6ff](https://via.placeholder.com/50x30/6cb6ff/000000.png?text=+)|
@@ -1492,6 +1577,7 @@ You may want to check out some scripts:
 |color8    |#636e7b|![#636e7b](https://via.placeholder.com/50x30/636e7b/000000.png?text=+)|
 |color9    |#ff938a|![#ff938a](https://via.placeholder.com/50x30/ff938a/000000.png?text=+)|
 
+
 </details>
 
 ### Spacecamp
@@ -1502,7 +1588,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#121212|![#121212](https://via.placeholder.com/50x30/121212/000000.png?text=+)|
 |foreground|#d0d0d0|![#d0d0d0](https://via.placeholder.com/50x30/d0d0d0/000000.png?text=+)|
@@ -1524,6 +1611,7 @@ You may want to check out some scripts:
 |color14   |#a9c1de|![#a9c1de](https://via.placeholder.com/50x30/a9c1de/000000.png?text=+)|
 |color15   |#eeeeee|![#eeeeee](https://via.placeholder.com/50x30/eeeeee/000000.png?text=+)|
 
+
 </details>
 
 ### Palenight
@@ -1534,7 +1622,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#292d3e|![#292d3e](https://via.placeholder.com/50x30/292d3e/000000.png?text=+)|
 |cursor    |#ffcc00|![#ffcc00](https://via.placeholder.com/50x30/ffcc00/000000.png?text=+)|
@@ -1556,6 +1645,7 @@ You may want to check out some scripts:
 |color14   |#a3f7ff|![#a3f7ff](https://via.placeholder.com/50x30/a3f7ff/000000.png?text=+)|
 |color15   |#fefefe|![#fefefe](https://via.placeholder.com/50x30/fefefe/000000.png?text=+)|
 
+
 </details>
 
 ### Github dark high contrast
@@ -1566,7 +1656,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#010409|![#010409](https://via.placeholder.com/50x30/010409/000000.png?text=+)|
 |cursor    |#f0f3f6|![#f0f3f6](https://via.placeholder.com/50x30/f0f3f6/000000.png?text=+)|
@@ -1588,6 +1679,7 @@ You may want to check out some scripts:
 |color8    |#9ea7b3|![#9ea7b3](https://via.placeholder.com/50x30/9ea7b3/000000.png?text=+)|
 |color9    |#ffb1af|![#ffb1af](https://via.placeholder.com/50x30/ffb1af/000000.png?text=+)|
 
+
 </details>
 
 ### Srcery
@@ -1598,7 +1690,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1c1b19|![#1C1B19](https://via.placeholder.com/50x30/1C1B19/000000.png?text=+)|
 |foreground|#fce8c3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000.png?text=+)|
@@ -1620,6 +1713,7 @@ You may want to check out some scripts:
 |color14   |#2be4d0|![#2BE4D0](https://via.placeholder.com/50x30/2BE4D0/000000.png?text=+)|
 |color15   |#fce8c3|![#FCE8C3](https://via.placeholder.com/50x30/FCE8C3/000000.png?text=+)|
 
+
 </details>
 
 ### Ayu mirage
@@ -1630,7 +1724,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1f2430|![#1f2430](https://via.placeholder.com/50x30/1f2430/000000.png?text=+)|
 |cursor    |#ffcc66|![#ffcc66](https://via.placeholder.com/50x30/ffcc66/000000.png?text=+)|
@@ -1652,6 +1747,7 @@ You may want to check out some scripts:
 |color14   |#95e6cb|![#95e6cb](https://via.placeholder.com/50x30/95e6cb/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
+
 </details>
 
 ### Moonfly
@@ -1662,7 +1758,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#080808|![#080808](https://via.placeholder.com/50x30/080808/000000.png?text=+)|
 |foreground|#b2b2b2|![#b2b2b2](https://via.placeholder.com/50x30/b2b2b2/000000.png?text=+)|
@@ -1684,6 +1781,7 @@ You may want to check out some scripts:
 |color14   |#85dc85|![#85dc85](https://via.placeholder.com/50x30/85dc85/000000.png?text=+)|
 |color15   |#e4e4e4|![#e4e4e4](https://via.placeholder.com/50x30/e4e4e4/000000.png?text=+)|
 
+
 </details>
 
 ### Sonokai
@@ -1694,7 +1792,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#2c2e34|![#2c2e34](https://via.placeholder.com/50x30/2c2e34/000000.png?text=+)|
 |foreground|#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000.png?text=+)|
@@ -1716,6 +1815,7 @@ You may want to check out some scripts:
 |color14   |#f39660|![#f39660](https://via.placeholder.com/50x30/f39660/000000.png?text=+)|
 |color15   |#e2e2e3|![#e2e2e3](https://via.placeholder.com/50x30/e2e2e3/000000.png?text=+)|
 
+
 </details>
 
 ### Nord
@@ -1726,7 +1826,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#2e3440|![#2e3440](https://via.placeholder.com/50x30/2e3440/000000.png?text=+)|
 |foreground|#d8dee9|![#d8dee9](https://via.placeholder.com/50x30/d8dee9/000000.png?text=+)|
@@ -1748,6 +1849,7 @@ You may want to check out some scripts:
 |color14   |#8fbcbb|![#8fbcbb](https://via.placeholder.com/50x30/8fbcbb/000000.png?text=+)|
 |color15   |#eceff4|![#eceff4](https://via.placeholder.com/50x30/eceff4/000000.png?text=+)|
 
+
 </details>
 
 ### Neodark
@@ -1758,7 +1860,8 @@ You may want to check out some scripts:
 
 <details>
     <summary>Colors, click me</summary>
-    |  Color   |  Hex  |                               Preview                                |
+
+|  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#1f2f37|![#1f2f37](https://via.placeholder.com/50x30/1f2f37/000000.png?text=+)|
 |cursor    |#3a4d57|![#3a4d57](https://via.placeholder.com/50x30/3a4d57/000000.png?text=+)|
@@ -1779,6 +1882,7 @@ You may want to check out some scripts:
 |color7    |#658595|![#658595](https://via.placeholder.com/50x30/658595/000000.png?text=+)|
 |color8    |#263a45|![#263a45](https://via.placeholder.com/50x30/263a45/000000.png?text=+)|
 |color9    |#e69ca0|![#e69ca0](https://via.placeholder.com/50x30/e69ca0/000000.png?text=+)|
+
 
 </details>
 

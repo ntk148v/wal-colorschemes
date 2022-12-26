@@ -113,7 +113,9 @@ def generate_preview():
 
             preview += f"""<details>
     <summary>Colors, click me</summary>
-    {writer.dumps()}
+
+{writer.dumps()}
+
 </details>
 
 """
