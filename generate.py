@@ -98,10 +98,10 @@ def generate_preview():
             colormappings = []
             for k, v in colorscheme['special'].items():
                 colormappings.append(
-                    [k, v.lower(), f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000?text=+)'])
+                    [k, v.lower(), f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000.png?text=+)'])
             for k, v in colorscheme['colors'].items():
                 colormappings.append(
-                    [k, v.lower(), f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000?text=+)'])
+                    [k, v.lower(), f'![{v}](https://via.placeholder.com/50x30/{v.strip("#")}/000000.png?text=+)'])
             writer = MarkdownTableWriter(
                 headers=['Color', 'Hex', 'Preview'],
                 value_matrix=colormappings,
@@ -110,7 +110,13 @@ def generate_preview():
                     Style(align="center"),
                     Style(align="center")
                 ])
-            preview += writer.dumps() + "\n"
+
+            preview += f"""<details>
+    <summary>Colors, click me</summary>
+    {writer.dumps()}
+</details>
+
+"""
 
 
 if __name__ == '__main__':
