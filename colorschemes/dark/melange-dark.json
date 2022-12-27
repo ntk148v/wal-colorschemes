@@ -1,0 +1,26 @@
+{
+    "refer": "https://github.com/savq/melange",
+    "special": {
+        "background": "#2a2622",
+        "cursor": "#ede6de",
+        "foreground": "#ede6de"
+    },
+    "colors": {
+        "color0": "#38332e",
+        "color1": "#b34d4d",
+        "color10": "#94d194",
+        "color11": "#f7c96e",
+        "color12": "#94a8d1",
+        "color13": "#d194bd",
+        "color14": "#94d1d1",
+        "color15": "#ede6de",
+        "color2": "#669966",
+        "color3": "#f7c96e",
+        "color4": "#94a8d1",
+        "color5": "#ad85ad",
+        "color6": "#85adad",
+        "color7": "#c9b39c",
+        "color8": "#544d45",
+        "color9": "#f7856e"
+    }
+}
