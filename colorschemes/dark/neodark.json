@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/KeitaNakamura/neodark.vim",
-    "special": {
-        "background": "#1f2f37",
-        "cursor": "#3a4d57",
-        "foreground": "#aabac4"
-    },
-    "colors": {
-        "color0": "#1f2f37",
-        "color1": "#dc647d",
-        "color10": "#4bb1a7",
-        "color11": "#c99720",
-        "color12": "#72c7d1",
-        "color13": "#475c69",
-        "color14": "#ae8785",
-        "color15": "#aabbc4",
-        "color2": "#84b97c",
-        "color3": "#d4ae58",
-        "color4": "#639ee4",
-        "color5": "#b888e2",
-        "color6": "#e18254",
-        "color7": "#658595",
-        "color8": "#263a45",
-        "color9": "#e69ca0"
-    }
+  "refer": "https://github.com/KeitaNakamura/neodark.vim",
+  "special": {
+    "background": "#1f2f37",
+    "cursor": "#3a4d57",
+    "foreground": "#aabac4"
+  },
+  "colors": {
+    "color0": "#1f2f37",
+    "color1": "#dc647d",
+    "color10": "#4bb1a7",
+    "color11": "#c99720",
+    "color12": "#72c7d1",
+    "color13": "#475c69",
+    "color14": "#ae8785",
+    "color15": "#aabbc4",
+    "color2": "#84b97c",
+    "color3": "#d4ae58",
+    "color4": "#639ee4",
+    "color5": "#b888e2",
+    "color6": "#e18254",
+    "color7": "#658595",
+    "color8": "#263a45",
+    "color9": "#e69ca0"
+  }
 }

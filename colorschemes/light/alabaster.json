@@ -1,11 +1,11 @@
 {
-   "refer": "https://github.com/tonsky/vscode-theme-alabaster",
-   "special":{
-      "background": "#f7f7f7",
-      "foreground": "#000000",
-      "cursor":"#000000"
-   },
-   "colors":{
+  "refer": "https://github.com/tonsky/vscode-theme-alabaster",
+  "special": {
+    "background": "#f7f7f7",
+    "foreground": "#000000",
+    "cursor": "#000000"
+  },
+  "colors": {
     "color0": "#282a2e",
     "color1": "#aa3731",
     "color2": "#448c27",
@@ -22,6 +22,5 @@
     "color13": "#e64ce6",
     "color14": "#00aacb",
     "color15": "#c5c8c6"
-   }
+  }
 }
-

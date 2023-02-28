@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/savq/melange",
-    "special": {
-        "background": "#f4f0ed",
-        "cursor": "#423324",
-        "foreground": "#423324"
-    },
-    "colors": {
-        "color0": "#423324",
-        "color1": "#d65c5c",
-        "color10": "#339933",
-        "color11": "#cc8033",
-        "color12": "#4d6eb3",
-        "color13": "#b34d90",
-        "color14": "#669999",
-        "color15": "#f7f2ed",
-        "color2": "#339933",
-        "color3": "#cc8033",
-        "color4": "#4d6eb3",
-        "color5": "#b34d90",
-        "color6": "#669999",
-        "color7": "#f7f2ed",
-        "color8": "#423324",
-        "color9": "#d65c5c"
-    }
+  "refer": "https://github.com/savq/melange",
+  "special": {
+    "background": "#f4f0ed",
+    "cursor": "#423324",
+    "foreground": "#423324"
+  },
+  "colors": {
+    "color0": "#423324",
+    "color1": "#d65c5c",
+    "color10": "#339933",
+    "color11": "#cc8033",
+    "color12": "#4d6eb3",
+    "color13": "#b34d90",
+    "color14": "#669999",
+    "color15": "#f7f2ed",
+    "color2": "#339933",
+    "color3": "#cc8033",
+    "color4": "#4d6eb3",
+    "color5": "#b34d90",
+    "color6": "#669999",
+    "color7": "#f7f2ed",
+    "color8": "#423324",
+    "color9": "#d65c5c"
+  }
 }

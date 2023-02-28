@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/projekt0n/github-nvim-theme",
-    "special": {
-        "background": "#21262e",
-        "cursor": "#6cb6ff",
-        "foreground": "#adbac7"
-    },
-    "colors": {
-        "color0": "#535d68",
-        "color1": "#f47067",
-        "color10": "#6bc46c",
-        "color11": "#daaa3f",
-        "color12": "#6cb6ff",
-        "color13": "#dcbdfb",
-        "color14": "#55d4dd",
-        "color15": "#cdd9e5",
-        "color2": "#57ab5a",
-        "color3": "#c69026",
-        "color4": "#539bf5",
-        "color5": "#b083f0",
-        "color6": "#39c5cf",
-        "color7": "#909dab",
-        "color8": "#636e7b",
-        "color9": "#ff938a"
-    }
+  "refer": "https://github.com/projekt0n/github-nvim-theme",
+  "special": {
+    "background": "#21262e",
+    "cursor": "#6cb6ff",
+    "foreground": "#adbac7"
+  },
+  "colors": {
+    "color0": "#535d68",
+    "color1": "#f47067",
+    "color10": "#6bc46c",
+    "color11": "#daaa3f",
+    "color12": "#6cb6ff",
+    "color13": "#dcbdfb",
+    "color14": "#55d4dd",
+    "color15": "#cdd9e5",
+    "color2": "#57ab5a",
+    "color3": "#c69026",
+    "color4": "#539bf5",
+    "color5": "#b083f0",
+    "color6": "#39c5cf",
+    "color7": "#909dab",
+    "color8": "#636e7b",
+    "color9": "#ff938a"
+  }
 }
