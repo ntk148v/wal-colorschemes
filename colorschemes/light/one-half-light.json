@@ -1,11 +1,11 @@
 {
-   "refer": "https://github.com/sonph/onehalf",
-   "special":{
-      "background": "#fafafa",
-      "foreground": "#383a42",
-      "cursor":"#f0f0f0"
-   },
-   "colors":{
+  "refer": "https://github.com/sonph/onehalf",
+  "special": {
+    "background": "#fafafa",
+    "foreground": "#383a42",
+    "cursor": "#f0f0f0"
+  },
+  "colors": {
     "color0": "#383a42",
     "color1": "#e45649",
     "color2": "#50a14f",
@@ -22,6 +22,5 @@
     "color13": "#a626a4",
     "color14": "#0997b3",
     "color15": "#fafafa"
-   }
+  }
 }
-
