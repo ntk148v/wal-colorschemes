@@ -24,4 +24,4 @@ jobs:
         with:
           # This part is also where you can pass other options, for example:
           prettier_options: --write **/*.json
-          only_changed: False
+          only_changed: True
