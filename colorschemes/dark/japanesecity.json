@@ -1,0 +1,26 @@
+{
+    "refer": "https://github.com/mmsaeed509/bspwm-dots/blob/master/config/bspwm/colorschemes/japanesecity",
+    "special": {
+        "background": "#1a1b26",
+        "foreground": "#d4bfff",
+        "cursor": "#abb2bf"
+    },
+    "colors": {
+        "color0": "#171421",
+        "color1": "#e66d76",
+        "color2": "#5edea3",
+        "color3": "#efab73",
+        "color4": "#73a3de",
+        "color5": "#d06fe8",
+        "color6": "#75dbeb",
+        "color7": "#7a7e85",
+        "color8": "#6e6c72",
+        "color9": "#eb867c",
+        "color10": "#72f0a8",
+        "color11": "#f3d175",
+        "color12": "#72a9ed",
+        "color13": "#e26fef",
+        "color14": "#76dbeb",
+        "color15": "#ffffff"
+    }
+}
