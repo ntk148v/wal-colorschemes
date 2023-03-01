@@ -32,6 +32,7 @@
 	- [Tokyonight storm](#tokyonight-storm)
 	- [Ayu mirage](#ayu-mirage)
 	- [Neodark](#neodark)
+	- [Japanesecity](#japanesecity)
 	- [Decayce](#decayce)
 	- [Decay](#decay)
 	- [Kanagawa](#kanagawa)
@@ -727,6 +728,40 @@ You may want to check out some scripts:
 |color7    |#658595|![#658595](https://via.placeholder.com/50x30/658595/000000.png?text=+)|
 |color8    |#263a45|![#263a45](https://via.placeholder.com/50x30/263a45/000000.png?text=+)|
 |color9    |#e69ca0|![#e69ca0](https://via.placeholder.com/50x30/e69ca0/000000.png?text=+)|
+
+
+</details>
+
+### Japanesecity
+
+[Reference](https://github.com/mmsaeed509/bspwm-dots/blob/master/config/bspwm/colorschemes/japanesecity)
+
+![](./screenshots/japanesecity.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#1a1b26|![#1a1b26](https://via.placeholder.com/50x30/1a1b26/000000.png?text=+)|
+|foreground|#d4bfff|![#d4bfff](https://via.placeholder.com/50x30/d4bfff/000000.png?text=+)|
+|cursor    |#abb2bf|![#abb2bf](https://via.placeholder.com/50x30/abb2bf/000000.png?text=+)|
+|color0    |#171421|![#171421](https://via.placeholder.com/50x30/171421/000000.png?text=+)|
+|color1    |#e66d76|![#e66d76](https://via.placeholder.com/50x30/e66d76/000000.png?text=+)|
+|color2    |#5edea3|![#5edea3](https://via.placeholder.com/50x30/5edea3/000000.png?text=+)|
+|color3    |#efab73|![#efab73](https://via.placeholder.com/50x30/efab73/000000.png?text=+)|
+|color4    |#73a3de|![#73a3de](https://via.placeholder.com/50x30/73a3de/000000.png?text=+)|
+|color5    |#d06fe8|![#d06fe8](https://via.placeholder.com/50x30/d06fe8/000000.png?text=+)|
+|color6    |#75dbeb|![#75dbeb](https://via.placeholder.com/50x30/75dbeb/000000.png?text=+)|
+|color7    |#7a7e85|![#7a7e85](https://via.placeholder.com/50x30/7a7e85/000000.png?text=+)|
+|color8    |#6e6c72|![#6e6c72](https://via.placeholder.com/50x30/6e6c72/000000.png?text=+)|
+|color9    |#eb867c|![#eb867c](https://via.placeholder.com/50x30/eb867c/000000.png?text=+)|
+|color10   |#72f0a8|![#72f0a8](https://via.placeholder.com/50x30/72f0a8/000000.png?text=+)|
+|color11   |#f3d175|![#f3d175](https://via.placeholder.com/50x30/f3d175/000000.png?text=+)|
+|color12   |#72a9ed|![#72a9ed](https://via.placeholder.com/50x30/72a9ed/000000.png?text=+)|
+|color13   |#e26fef|![#e26fef](https://via.placeholder.com/50x30/e26fef/000000.png?text=+)|
+|color14   |#76dbeb|![#76dbeb](https://via.placeholder.com/50x30/76dbeb/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
 </details>
