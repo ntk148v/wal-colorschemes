@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/rhysd/vim-color-spring-night/",
+  "special": {
+    "background": "#132032",
+    "cursor": "#fefefe",
+    "foreground": "#ecefc5"
+  },
+  "colors": {
+    "color0": "#132032",
+    "color1": "#ec676d",
+    "color2": "#a8dd9c",
+    "color3": "#f9e080",
+    "color4": "#7195e6",
+    "color5": "#e7d4fb",
+    "color6": "#a8d1eb",
+    "color7": "#fefeea",
+    "color8": "#132032",
+    "color9": "#ec676d",
+    "color10": "#a8dd9c",
+    "color11": "#f9e080",
+    "color12": "#7195e6",
+    "color13": "#e7d4fb",
+    "color14": "#a8d1eb",
+    "color15": "#fefeea"
+  }
+}
