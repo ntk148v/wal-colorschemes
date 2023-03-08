@@ -57,6 +57,7 @@
 	- [Badwolf](#badwolf)
 	- [Urban](#urban)
 	- [Ayu dark](#ayu-dark)
+	- [Spring night](#spring-night)
 	- [Srcery](#srcery)
 	- [Catppuccin](#catppuccin)
 	- [Spacecamp](#spacecamp)
@@ -1580,6 +1581,40 @@ You may want to check out some scripts:
 |color13   |#ffee99|![#ffee99](https://via.placeholder.com/50x30/ffee99/000000.png?text=+)|
 |color14   |#95e6cb|![#95e6cb](https://via.placeholder.com/50x30/95e6cb/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+
+
+</details>
+
+### Spring night
+
+[Reference](https://github.com/rhysd/vim-color-spring-night/)
+
+![](./screenshots/spring-night.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#132032|![#132032](https://via.placeholder.com/50x30/132032/000000.png?text=+)|
+|cursor    |#fefefe|![#fefefe](https://via.placeholder.com/50x30/fefefe/000000.png?text=+)|
+|foreground|#ecefc5|![#ecefc5](https://via.placeholder.com/50x30/ecefc5/000000.png?text=+)|
+|color0    |#132032|![#132032](https://via.placeholder.com/50x30/132032/000000.png?text=+)|
+|color1    |#ec676d|![#ec676d](https://via.placeholder.com/50x30/ec676d/000000.png?text=+)|
+|color2    |#a8dd9c|![#a8dd9c](https://via.placeholder.com/50x30/a8dd9c/000000.png?text=+)|
+|color3    |#f9e080|![#f9e080](https://via.placeholder.com/50x30/f9e080/000000.png?text=+)|
+|color4    |#7195e6|![#7195e6](https://via.placeholder.com/50x30/7195e6/000000.png?text=+)|
+|color5    |#e7d4fb|![#e7d4fb](https://via.placeholder.com/50x30/e7d4fb/000000.png?text=+)|
+|color6    |#a8d1eb|![#a8d1eb](https://via.placeholder.com/50x30/a8d1eb/000000.png?text=+)|
+|color7    |#fefeea|![#fefeea](https://via.placeholder.com/50x30/fefeea/000000.png?text=+)|
+|color8    |#132032|![#132032](https://via.placeholder.com/50x30/132032/000000.png?text=+)|
+|color9    |#ec676d|![#ec676d](https://via.placeholder.com/50x30/ec676d/000000.png?text=+)|
+|color10   |#a8dd9c|![#a8dd9c](https://via.placeholder.com/50x30/a8dd9c/000000.png?text=+)|
+|color11   |#f9e080|![#f9e080](https://via.placeholder.com/50x30/f9e080/000000.png?text=+)|
+|color12   |#7195e6|![#7195e6](https://via.placeholder.com/50x30/7195e6/000000.png?text=+)|
+|color13   |#e7d4fb|![#e7d4fb](https://via.placeholder.com/50x30/e7d4fb/000000.png?text=+)|
+|color14   |#a8d1eb|![#a8d1eb](https://via.placeholder.com/50x30/a8d1eb/000000.png?text=+)|
+|color15   |#fefeea|![#fefeea](https://via.placeholder.com/50x30/fefeea/000000.png?text=+)|
 
 
 </details>
