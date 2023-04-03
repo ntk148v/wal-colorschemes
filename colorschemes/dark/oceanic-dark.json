@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/mhartington/oceanic-next-iterm/",
+  "special": {
+    "background": "#152027",
+    "cursor": "#b2b8c2",
+    "foreground": "#b2b8c2"
+  },
+  "colors": {
+    "color0": "#152027",
+    "color1": "#e44654",
+    "color10": "#88bd81",
+    "color11": "#f7bd50",
+    "color12": "#5485c0",
+    "color13": "#b77eb8",
+    "color14": "#4fa5a3",
+    "color15": "#fffefe",
+    "color2": "#88bd81",
+    "color3": "#f7bd50",
+    "color4": "#5485c0",
+    "color5": "#b77eb8",
+    "color6": "#4fa5a3",
+    "color7": "#fffefe",
+    "color8": "#525f6a",
+    "color9": "#e44654"
+  }
+}
