@@ -29,6 +29,7 @@
 	- [Melange light](#melange-light)
 	- [Light decay](#light-decay)
 	- [Github dark high contrast](#github-dark-high-contrast)
+	- [Oceanic next](#oceanic-next)
 	- [Decayce](#decayce)
 	- [Moonfly](#moonfly)
 	- [Urban](#urban)
@@ -56,6 +57,7 @@
 	- [Hackthebox](#hackthebox)
 	- [Tokyonight night](#tokyonight-night)
 	- [Badwolf](#badwolf)
+	- [Oceanic dark](#oceanic-dark)
 	- [Snazzy2](#snazzy2)
 	- [Xcodedark](#xcodedark)
 	- [Everblush](#everblush)
@@ -630,6 +632,40 @@ You may want to check out some scripts:
 |color7    |#d9dee3|![#d9dee3](https://via.placeholder.com/50x30/d9dee3/000000.png?text=+)|
 |color8    |#9ea7b3|![#9ea7b3](https://via.placeholder.com/50x30/9ea7b3/000000.png?text=+)|
 |color9    |#ffb1af|![#ffb1af](https://via.placeholder.com/50x30/ffb1af/000000.png?text=+)|
+
+
+</details>
+
+### Oceanic next
+
+[Reference](https://github.com/mhartington/oceanic-next-iterm/)
+
+![](./screenshots/oceanic-next.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#121b21|![#121b21](https://via.placeholder.com/50x30/121b21/000000.png?text=+)|
+|cursor    |#b2b8c2|![#b2b8c2](https://via.placeholder.com/50x30/b2b8c2/000000.png?text=+)|
+|foreground|#b2b8c2|![#b2b8c2](https://via.placeholder.com/50x30/b2b8c2/000000.png?text=+)|
+|color0    |#121b20|![#121b20](https://via.placeholder.com/50x30/121b20/000000.png?text=+)|
+|color1    |#e44654|![#e44654](https://via.placeholder.com/50x30/e44654/000000.png?text=+)|
+|color10   |#88bd81|![#88bd81](https://via.placeholder.com/50x30/88bd81/000000.png?text=+)|
+|color11   |#f7bd50|![#f7bd50](https://via.placeholder.com/50x30/f7bd50/000000.png?text=+)|
+|color12   |#5485c0|![#5485c0](https://via.placeholder.com/50x30/5485c0/000000.png?text=+)|
+|color13   |#b77eb8|![#b77eb8](https://via.placeholder.com/50x30/b77eb8/000000.png?text=+)|
+|color14   |#4fa5a3|![#4fa5a3](https://via.placeholder.com/50x30/4fa5a3/000000.png?text=+)|
+|color15   |#fffefe|![#fffefe](https://via.placeholder.com/50x30/fffefe/000000.png?text=+)|
+|color2    |#88bd81|![#88bd81](https://via.placeholder.com/50x30/88bd81/000000.png?text=+)|
+|color3    |#f7bd50|![#f7bd50](https://via.placeholder.com/50x30/f7bd50/000000.png?text=+)|
+|color4    |#5485c0|![#5485c0](https://via.placeholder.com/50x30/5485c0/000000.png?text=+)|
+|color5    |#b77eb8|![#b77eb8](https://via.placeholder.com/50x30/b77eb8/000000.png?text=+)|
+|color6    |#4fa5a3|![#4fa5a3](https://via.placeholder.com/50x30/4fa5a3/000000.png?text=+)|
+|color7    |#fffefe|![#fffefe](https://via.placeholder.com/50x30/fffefe/000000.png?text=+)|
+|color8    |#525f6a|![#525f6a](https://via.placeholder.com/50x30/525f6a/000000.png?text=+)|
+|color9    |#e44654|![#e44654](https://via.placeholder.com/50x30/e44654/000000.png?text=+)|
 
 
 </details>
@@ -1550,6 +1586,40 @@ You may want to check out some scripts:
 |color13   |#ff9eb8|![#ff9eb8](https://via.placeholder.com/50x30/ff9eb8/000000.png?text=+)|
 |color14   |#fade3e|![#fade3e](https://via.placeholder.com/50x30/fade3e/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+
+
+</details>
+
+### Oceanic dark
+
+[Reference](https://github.com/mhartington/oceanic-next-iterm/)
+
+![](./screenshots/oceanic-dark.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#152027|![#152027](https://via.placeholder.com/50x30/152027/000000.png?text=+)|
+|cursor    |#b2b8c2|![#b2b8c2](https://via.placeholder.com/50x30/b2b8c2/000000.png?text=+)|
+|foreground|#b2b8c2|![#b2b8c2](https://via.placeholder.com/50x30/b2b8c2/000000.png?text=+)|
+|color0    |#152027|![#152027](https://via.placeholder.com/50x30/152027/000000.png?text=+)|
+|color1    |#e44654|![#e44654](https://via.placeholder.com/50x30/e44654/000000.png?text=+)|
+|color10   |#88bd81|![#88bd81](https://via.placeholder.com/50x30/88bd81/000000.png?text=+)|
+|color11   |#f7bd50|![#f7bd50](https://via.placeholder.com/50x30/f7bd50/000000.png?text=+)|
+|color12   |#5485c0|![#5485c0](https://via.placeholder.com/50x30/5485c0/000000.png?text=+)|
+|color13   |#b77eb8|![#b77eb8](https://via.placeholder.com/50x30/b77eb8/000000.png?text=+)|
+|color14   |#4fa5a3|![#4fa5a3](https://via.placeholder.com/50x30/4fa5a3/000000.png?text=+)|
+|color15   |#fffefe|![#fffefe](https://via.placeholder.com/50x30/fffefe/000000.png?text=+)|
+|color2    |#88bd81|![#88bd81](https://via.placeholder.com/50x30/88bd81/000000.png?text=+)|
+|color3    |#f7bd50|![#f7bd50](https://via.placeholder.com/50x30/f7bd50/000000.png?text=+)|
+|color4    |#5485c0|![#5485c0](https://via.placeholder.com/50x30/5485c0/000000.png?text=+)|
+|color5    |#b77eb8|![#b77eb8](https://via.placeholder.com/50x30/b77eb8/000000.png?text=+)|
+|color6    |#4fa5a3|![#4fa5a3](https://via.placeholder.com/50x30/4fa5a3/000000.png?text=+)|
+|color7    |#fffefe|![#fffefe](https://via.placeholder.com/50x30/fffefe/000000.png?text=+)|
+|color8    |#525f6a|![#525f6a](https://via.placeholder.com/50x30/525f6a/000000.png?text=+)|
+|color9    |#e44654|![#e44654](https://via.placeholder.com/50x30/e44654/000000.png?text=+)|
 
 
 </details>
