@@ -16,6 +16,7 @@
 - [Preview](#preview)
 	- [Rose pine dawn](#rose-pine-dawn)
 	- [Github light modifed](#github-light-modifed)
+	- [Two firewatch light](#two-firewatch-light)
 	- [Light decay](#light-decay)
 	- [One half light](#one-half-light)
 	- [Alabaster](#alabaster)
@@ -49,6 +50,7 @@
 	- [Snazzy2](#snazzy2)
 	- [Catppuccin](#catppuccin)
 	- [Habamax](#habamax)
+	- [Two firewatch](#two-firewatch)
 	- [Adwaita darker](#adwaita-darker)
 	- [Hackthebox](#hackthebox)
 	- [Darker monokai](#darker-monokai)
@@ -191,6 +193,40 @@ You may want to check out some scripts:
 |color7    |#69737c|![#69737c](https://via.placeholder.com/50x30/69737c/000000.png?text=+)|
 |color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
 |color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000.png?text=+)|
+
+
+</details>
+
+### Two firewatch light
+
+[Reference](https://github.com/rakr/iterm-two-firewatch)
+
+![](./screenshots/two-firewatch-light.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#f8f6f2|![#f8f6f2](https://via.placeholder.com/50x30/f8f6f2/000000.png?text=+)|
+|cursor    |#da4181|![#da4181](https://via.placeholder.com/50x30/da4181/000000.png?text=+)|
+|foreground|#75541b|![#75541b](https://via.placeholder.com/50x30/75541b/000000.png?text=+)|
+|color0    |#383a42|![#383a42](https://via.placeholder.com/50x30/383a42/000000.png?text=+)|
+|color1    |#e45649|![#e45649](https://via.placeholder.com/50x30/e45649/000000.png?text=+)|
+|color10   |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000.png?text=+)|
+|color11   |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000.png?text=+)|
+|color12   |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000.png?text=+)|
+|color13   |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000.png?text=+)|
+|color14   |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|color2    |#50a14f|![#50a14f](https://via.placeholder.com/50x30/50a14f/000000.png?text=+)|
+|color3    |#c18401|![#c18401](https://via.placeholder.com/50x30/c18401/000000.png?text=+)|
+|color4    |#0184bc|![#0184bc](https://via.placeholder.com/50x30/0184bc/000000.png?text=+)|
+|color5    |#a626a4|![#a626a4](https://via.placeholder.com/50x30/a626a4/000000.png?text=+)|
+|color6    |#0997b3|![#0997b3](https://via.placeholder.com/50x30/0997b3/000000.png?text=+)|
+|color7    |#fafafa|![#fafafa](https://via.placeholder.com/50x30/fafafa/000000.png?text=+)|
+|color8    |#4f525e|![#4f525e](https://via.placeholder.com/50x30/4f525e/000000.png?text=+)|
+|color9    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000.png?text=+)|
 
 
 </details>
@@ -1313,6 +1349,40 @@ You may want to check out some scripts:
 |color13   |#d7afd7|![#d7afd7](https://via.placeholder.com/50x30/d7afd7/000000.png?text=+)|
 |color14   |#87afaf|![#87afaf](https://via.placeholder.com/50x30/87afaf/000000.png?text=+)|
 |color15   |#bcbcbc|![#bcbcbc](https://via.placeholder.com/50x30/bcbcbc/000000.png?text=+)|
+
+
+</details>
+
+### Two firewatch
+
+[Reference](https://github.com/rakr/iterm-two-firewatch)
+
+![](./screenshots/two-firewatch.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#1e2027|![#1e2027](https://via.placeholder.com/50x30/1e2027/000000.png?text=+)|
+|cursor    |#a3b3cc|![#a3b3cc](https://via.placeholder.com/50x30/a3b3cc/000000.png?text=+)|
+|foreground|#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000.png?text=+)|
+|color0    |#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000.png?text=+)|
+|color1    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000.png?text=+)|
+|color10   |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000.png?text=+)|
+|color11   |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000.png?text=+)|
+|color12   |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000.png?text=+)|
+|color13   |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000.png?text=+)|
+|color14   |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000.png?text=+)|
+|color15   |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000.png?text=+)|
+|color2    |#98c379|![#98c379](https://via.placeholder.com/50x30/98c379/000000.png?text=+)|
+|color3    |#e5c07b|![#e5c07b](https://via.placeholder.com/50x30/e5c07b/000000.png?text=+)|
+|color4    |#61afef|![#61afef](https://via.placeholder.com/50x30/61afef/000000.png?text=+)|
+|color5    |#c678dd|![#c678dd](https://via.placeholder.com/50x30/c678dd/000000.png?text=+)|
+|color6    |#56b6c2|![#56b6c2](https://via.placeholder.com/50x30/56b6c2/000000.png?text=+)|
+|color7    |#dcdfe4|![#dcdfe4](https://via.placeholder.com/50x30/dcdfe4/000000.png?text=+)|
+|color8    |#282c34|![#282c34](https://via.placeholder.com/50x30/282c34/000000.png?text=+)|
+|color9    |#e06c75|![#e06c75](https://via.placeholder.com/50x30/e06c75/000000.png?text=+)|
 
 
 </details>
