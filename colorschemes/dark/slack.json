@@ -1,0 +1,26 @@
+{
+  "refer": "https://brand.slackhq.com/color",
+  "special": {
+    "background": "#4a154b",
+    "foreground": "#f4ede4",
+    "cursor": "#ffffff"
+  },
+  "colors": {
+    "color0": "#1d1c1d",
+    "color1": "#e0135a",
+    "color2": "#2eb67d",
+    "color3": "#ecb22e",
+    "color4": "#36c5f0",
+    "color5": "#4a154b",
+    "color6": "#0096a2",
+    "color7": "#f4ede4",
+    "color8": "#78d7dd",
+    "color9": "#f2606a",
+    "color10": "#185f34",
+    "color11": "#ffd57e",
+    "color12": "#2f8ab7",
+    "color13": "#7c2852",
+    "color14": "#90daff",
+    "color15": "#fed4be"
+  }
+}
