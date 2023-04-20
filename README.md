@@ -62,6 +62,7 @@
 	- [Xcodewwdc](#xcodewwdc)
 	- [Neodark](#neodark)
 	- [Horizon](#horizon)
+	- [Slack](#slack)
 	- [Xcodedark](#xcodedark)
 	- [Github dark high contrast](#github-dark-high-contrast)
 	- [Oceanic dark](#oceanic-dark)
@@ -1759,6 +1760,40 @@ You may want to check out some scripts:
 |color13   |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000.png?text=+)|
 |color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000.png?text=+)|
 |color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000.png?text=+)|
+
+
+</details>
+
+### Slack
+
+[Reference](https://brand.slackhq.com/color)
+
+![](./screenshots/slack.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#4a154b|![#4a154b](https://via.placeholder.com/50x30/4a154b/000000.png?text=+)|
+|foreground|#f4ede4|![#f4ede4](https://via.placeholder.com/50x30/f4ede4/000000.png?text=+)|
+|cursor    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|color0    |#1d1c1d|![#1d1c1d](https://via.placeholder.com/50x30/1d1c1d/000000.png?text=+)|
+|color1    |#e0135a|![#e0135a](https://via.placeholder.com/50x30/e0135a/000000.png?text=+)|
+|color2    |#2eb67d|![#2eb67d](https://via.placeholder.com/50x30/2eb67d/000000.png?text=+)|
+|color3    |#ecb22e|![#ecb22e](https://via.placeholder.com/50x30/ecb22e/000000.png?text=+)|
+|color4    |#36c5f0|![#36c5f0](https://via.placeholder.com/50x30/36c5f0/000000.png?text=+)|
+|color5    |#4a154b|![#4a154b](https://via.placeholder.com/50x30/4a154b/000000.png?text=+)|
+|color6    |#0096a2|![#0096a2](https://via.placeholder.com/50x30/0096a2/000000.png?text=+)|
+|color7    |#f4ede4|![#f4ede4](https://via.placeholder.com/50x30/f4ede4/000000.png?text=+)|
+|color8    |#78d7dd|![#78d7dd](https://via.placeholder.com/50x30/78d7dd/000000.png?text=+)|
+|color9    |#f2606a|![#f2606a](https://via.placeholder.com/50x30/f2606a/000000.png?text=+)|
+|color10   |#185f34|![#185f34](https://via.placeholder.com/50x30/185f34/000000.png?text=+)|
+|color11   |#ffd57e|![#ffd57e](https://via.placeholder.com/50x30/ffd57e/000000.png?text=+)|
+|color12   |#2f8ab7|![#2f8ab7](https://via.placeholder.com/50x30/2f8ab7/000000.png?text=+)|
+|color13   |#7c2852|![#7c2852](https://via.placeholder.com/50x30/7c2852/000000.png?text=+)|
+|color14   |#90daff|![#90daff](https://via.placeholder.com/50x30/90daff/000000.png?text=+)|
+|color15   |#fed4be|![#fed4be](https://via.placeholder.com/50x30/fed4be/000000.png?text=+)|
 
 
 </details>
