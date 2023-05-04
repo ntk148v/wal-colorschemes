@@ -47,7 +47,7 @@ def main(src: str, dst: str):
                 rgb_to_hex((r, g, b))
     # write to file
     with open(dst, "w") as f:
-        f.write(json.dumps(wal, indent=4))
+        f.write(json.dumps(wal, indent=2))
 
 
 if __name__ == '__main__':
