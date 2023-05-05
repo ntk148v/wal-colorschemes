@@ -1904,7 +1904,7 @@ You may want to check out some scripts:
 
 ### Oxocarbon dark
 
-[Reference](https://github.com/nyoom-engineering/base16-oxocarbon/)
+[Reference](https://github.com/nyoom-engineering/oxocarbon-iterm2)
 
 ![](./screenshots/oxocarbon-dark.png)
 
@@ -1914,24 +1914,24 @@ You may want to check out some scripts:
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#161616|![#161616](https://via.placeholder.com/50x30/161616/000000.png?text=+)|
-|foreground|#f2f4f8|![#f2f4f8](https://via.placeholder.com/50x30/f2f4f8/000000.png?text=+)|
-|cursor    |#f2f4f8|![#f2f4f8](https://via.placeholder.com/50x30/f2f4f8/000000.png?text=+)|
-|color0    |#161616|![#161616](https://via.placeholder.com/50x30/161616/000000.png?text=+)|
-|color1    |#3ddbd9|![#3ddbd9](https://via.placeholder.com/50x30/3ddbd9/000000.png?text=+)|
-|color2    |#33b1ff|![#33b1ff](https://via.placeholder.com/50x30/33b1ff/000000.png?text=+)|
-|color3    |#ee5396|![#ee5396](https://via.placeholder.com/50x30/ee5396/000000.png?text=+)|
-|color4    |#42be65|![#42be65](https://via.placeholder.com/50x30/42be65/000000.png?text=+)|
-|color5    |#be95ff|![#be95ff](https://via.placeholder.com/50x30/be95ff/000000.png?text=+)|
-|color6    |#ff7eb6|![#ff7eb6](https://via.placeholder.com/50x30/ff7eb6/000000.png?text=+)|
-|color7    |#f2f4f8|![#f2f4f8](https://via.placeholder.com/50x30/f2f4f8/000000.png?text=+)|
-|color8    |#c1c7cd|![#c1c7cd](https://via.placeholder.com/50x30/c1c7cd/000000.png?text=+)|
-|color9    |#78a9ff|![#78a9ff](https://via.placeholder.com/50x30/78a9ff/000000.png?text=+)|
-|color10   |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000.png?text=+)|
-|color11   |#393939|![#393939](https://via.placeholder.com/50x30/393939/000000.png?text=+)|
-|color12   |#dde1e6|![#dde1e6](https://via.placeholder.com/50x30/dde1e6/000000.png?text=+)|
-|color13   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
-|color14   |#82cfff|![#82cfff](https://via.placeholder.com/50x30/82cfff/000000.png?text=+)|
-|color15   |#08bdba|![#08bdba](https://via.placeholder.com/50x30/08bdba/000000.png?text=+)|
+|cursor    |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|foreground|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|color0    |#262626|![#262626](https://via.placeholder.com/50x30/262626/000000.png?text=+)|
+|color1    |#ee5396|![#ee5396](https://via.placeholder.com/50x30/ee5396/000000.png?text=+)|
+|color2    |#42be65|![#42be65](https://via.placeholder.com/50x30/42be65/000000.png?text=+)|
+|color3    |#ffe97b|![#ffe97b](https://via.placeholder.com/50x30/ffe97b/000000.png?text=+)|
+|color4    |#33b1ff|![#33b1ff](https://via.placeholder.com/50x30/33b1ff/000000.png?text=+)|
+|color5    |#ff7eb6|![#ff7eb6](https://via.placeholder.com/50x30/ff7eb6/000000.png?text=+)|
+|color6    |#3ddbd9|![#3ddbd9](https://via.placeholder.com/50x30/3ddbd9/000000.png?text=+)|
+|color7    |#dde1e6|![#dde1e6](https://via.placeholder.com/50x30/dde1e6/000000.png?text=+)|
+|color8    |#393939|![#393939](https://via.placeholder.com/50x30/393939/000000.png?text=+)|
+|color9    |#ee5396|![#ee5396](https://via.placeholder.com/50x30/ee5396/000000.png?text=+)|
+|color10   |#42be65|![#42be65](https://via.placeholder.com/50x30/42be65/000000.png?text=+)|
+|color11   |#ffe97b|![#ffe97b](https://via.placeholder.com/50x30/ffe97b/000000.png?text=+)|
+|color12   |#33b1ff|![#33b1ff](https://via.placeholder.com/50x30/33b1ff/000000.png?text=+)|
+|color13   |#ff7eb6|![#ff7eb6](https://via.placeholder.com/50x30/ff7eb6/000000.png?text=+)|
+|color14   |#3ddbd9|![#3ddbd9](https://via.placeholder.com/50x30/3ddbd9/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
 </details>
