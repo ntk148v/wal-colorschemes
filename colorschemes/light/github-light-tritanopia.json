@@ -2,13 +2,13 @@
   "refer": "https://github.com/projekt0n/github-nvim-theme",
   "special": {
     "background": "#ffffff",
-    "cursor": "#1F2328",
-    "foreground": "#1F2328"
+    "cursor": "#24292f",
+    "foreground": "#1b1f24"
   },
   "colors": {
     "color0": "#24292f",
     "color1": "#cf222e",
-    "color2": "#116329",
+    "color2": "#0550ae",
     "color3": "#4d2d00",
     "color4": "#0969da",
     "color5": "#8250df",
@@ -16,7 +16,7 @@
     "color7": "#6e7781",
     "color8": "#57606a",
     "color9": "#a40e26",
-    "color10": "#1a7f37",
+    "color10": "#0969da",
     "color11": "#633c01",
     "color12": "#218bff",
     "color13": "#a475f9",
