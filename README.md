@@ -14,21 +14,20 @@
 - [Getting started](#getting-started)
 - [Contributing](#contributing)
 - [Preview](#preview)
+	- [Github light tritanopia](#github-light-tritanopia)
 	- [Rose pine dawn](#rose-pine-dawn)
 	- [Github light colorblind](#github-light-colorblind)
 	- [Light decay](#light-decay)
-	- [Github light default](#github-light-default)
 	- [One half light](#one-half-light)
 	- [Ayu light](#ayu-light)
 	- [Melange light](#melange-light)
-	- [Github light modifed](#github-light-modifed)
-	- [Github light 2](#github-light-2)
 	- [Tokyonight day](#tokyonight-day)
 	- [Two firewatch light](#two-firewatch-light)
 	- [Alabaster](#alabaster)
 	- [Xcodelighthc](#xcodelighthc)
 	- [Xcodelight](#xcodelight)
 	- [Oxocarbon light](#oxocarbon-light)
+	- [Github light high contrast](#github-light-high-contrast)
 	- [Github light](#github-light)
 	- [Two firewatch](#two-firewatch)
 	- [One half dark](#one-half-dark)
@@ -45,7 +44,6 @@
 	- [Palenight](#palenight)
 	- [Melange dark](#melange-dark)
 	- [Horizon](#horizon)
-	- [Github dark default](#github-dark-default)
 	- [Adwaita darker](#adwaita-darker)
 	- [Snazzy2](#snazzy2)
 	- [Xcodedarkhc](#xcodedarkhc)
@@ -70,6 +68,7 @@
 	- [Github dark](#github-dark)
 	- [Neodark](#neodark)
 	- [Japanesecity](#japanesecity)
+	- [Github dark tritanopia](#github-dark-tritanopia)
 	- [Candid](#candid)
 	- [Xcodewwdc](#xcodewwdc)
 	- [Rose pine moon](#rose-pine-moon)
@@ -132,6 +131,40 @@ You may want to check out some scripts:
 
 ## Preview
 
+### Github light tritanopia
+
+[Reference](https://github.com/projekt0n/github-nvim-theme)
+
+![](./screenshots/github-light-tritanopia.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|cursor    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
+|foreground|#1b1f24|![#1b1f24](https://via.placeholder.com/50x30/1b1f24/000000.png?text=+)|
+|color0    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
+|color1    |#cf222e|![#cf222e](https://via.placeholder.com/50x30/cf222e/000000.png?text=+)|
+|color2    |#0550ae|![#0550ae](https://via.placeholder.com/50x30/0550ae/000000.png?text=+)|
+|color3    |#4d2d00|![#4d2d00](https://via.placeholder.com/50x30/4d2d00/000000.png?text=+)|
+|color4    |#0969da|![#0969da](https://via.placeholder.com/50x30/0969da/000000.png?text=+)|
+|color5    |#8250df|![#8250df](https://via.placeholder.com/50x30/8250df/000000.png?text=+)|
+|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
+|color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000.png?text=+)|
+|color8    |#57606a|![#57606a](https://via.placeholder.com/50x30/57606a/000000.png?text=+)|
+|color9    |#a40e26|![#a40e26](https://via.placeholder.com/50x30/a40e26/000000.png?text=+)|
+|color10   |#0969da|![#0969da](https://via.placeholder.com/50x30/0969da/000000.png?text=+)|
+|color11   |#633c01|![#633c01](https://via.placeholder.com/50x30/633c01/000000.png?text=+)|
+|color12   |#218bff|![#218bff](https://via.placeholder.com/50x30/218bff/000000.png?text=+)|
+|color13   |#a475f9|![#a475f9](https://via.placeholder.com/50x30/a475f9/000000.png?text=+)|
+|color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
+|color15   |#8c959f|![#8c959f](https://via.placeholder.com/50x30/8c959f/000000.png?text=+)|
+
+
+</details>
+
 ### Rose pine dawn
 
 [Reference](https://github.com/rose-pine)
@@ -178,24 +211,24 @@ You may want to check out some scripts:
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
-|cursor    |#0869da|![#0869da](https://via.placeholder.com/50x30/0869da/000000.png?text=+)|
-|foreground|#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
+|cursor    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
+|foreground|#1b1f24|![#1b1f24](https://via.placeholder.com/50x30/1b1f24/000000.png?text=+)|
 |color0    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
-|color1    |#cf212e|![#cf212e](https://via.placeholder.com/50x30/cf212e/000000.png?text=+)|
-|color10   |#1a7f36|![#1a7f36](https://via.placeholder.com/50x30/1a7f36/000000.png?text=+)|
-|color11   |#633b01|![#633b01](https://via.placeholder.com/50x30/633b01/000000.png?text=+)|
+|color1    |#b35900|![#b35900](https://via.placeholder.com/50x30/b35900/000000.png?text=+)|
+|color2    |#0550ae|![#0550ae](https://via.placeholder.com/50x30/0550ae/000000.png?text=+)|
+|color3    |#4d2d00|![#4d2d00](https://via.placeholder.com/50x30/4d2d00/000000.png?text=+)|
+|color4    |#0969da|![#0969da](https://via.placeholder.com/50x30/0969da/000000.png?text=+)|
+|color5    |#8250df|![#8250df](https://via.placeholder.com/50x30/8250df/000000.png?text=+)|
+|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
+|color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000.png?text=+)|
+|color8    |#57606a|![#57606a](https://via.placeholder.com/50x30/57606a/000000.png?text=+)|
+|color9    |#8a4600|![#8a4600](https://via.placeholder.com/50x30/8a4600/000000.png?text=+)|
+|color10   |#0969da|![#0969da](https://via.placeholder.com/50x30/0969da/000000.png?text=+)|
+|color11   |#633c01|![#633c01](https://via.placeholder.com/50x30/633c01/000000.png?text=+)|
 |color12   |#218bff|![#218bff](https://via.placeholder.com/50x30/218bff/000000.png?text=+)|
 |color13   |#a475f9|![#a475f9](https://via.placeholder.com/50x30/a475f9/000000.png?text=+)|
 |color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
 |color15   |#8c959f|![#8c959f](https://via.placeholder.com/50x30/8c959f/000000.png?text=+)|
-|color2    |#116329|![#116329](https://via.placeholder.com/50x30/116329/000000.png?text=+)|
-|color3    |#4d2c00|![#4d2c00](https://via.placeholder.com/50x30/4d2c00/000000.png?text=+)|
-|color4    |#0869da|![#0869da](https://via.placeholder.com/50x30/0869da/000000.png?text=+)|
-|color5    |#8250df|![#8250df](https://via.placeholder.com/50x30/8250df/000000.png?text=+)|
-|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
-|color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000.png?text=+)|
-|color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000.png?text=+)|
-|color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000.png?text=+)|
 
 
 </details>
@@ -230,40 +263,6 @@ You may want to check out some scripts:
 |color13   |#a86cd0|![#a86cd0](https://via.placeholder.com/50x30/a86cd0/000000.png?text=+)|
 |color14   |#56a0cb|![#56a0cb](https://via.placeholder.com/50x30/56a0cb/000000.png?text=+)|
 |color15   |#1f2328|![#1f2328](https://via.placeholder.com/50x30/1f2328/000000.png?text=+)|
-
-
-</details>
-
-### Github light default
-
-[Reference](https://github.com/projekt0n/github-nvim-theme)
-
-![](./screenshots/github-light-default.png)
-
-<details>
-    <summary>Colors, click me</summary>
-
-|  Color   |  Hex  |                               Preview                                |
-|----------|:-----:|:--------------------------------------------------------------------:|
-|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
-|cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
-|foreground|#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
-|color0    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
-|color1    |#cf212e|![#cf212e](https://via.placeholder.com/50x30/cf212e/000000.png?text=+)|
-|color10   |#1a7f36|![#1a7f36](https://via.placeholder.com/50x30/1a7f36/000000.png?text=+)|
-|color11   |#633b01|![#633b01](https://via.placeholder.com/50x30/633b01/000000.png?text=+)|
-|color12   |#218bff|![#218bff](https://via.placeholder.com/50x30/218bff/000000.png?text=+)|
-|color13   |#a475f9|![#a475f9](https://via.placeholder.com/50x30/a475f9/000000.png?text=+)|
-|color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
-|color15   |#8c959f|![#8c959f](https://via.placeholder.com/50x30/8c959f/000000.png?text=+)|
-|color2    |#116329|![#116329](https://via.placeholder.com/50x30/116329/000000.png?text=+)|
-|color3    |#4d2c00|![#4d2c00](https://via.placeholder.com/50x30/4d2c00/000000.png?text=+)|
-|color4    |#0869da|![#0869da](https://via.placeholder.com/50x30/0869da/000000.png?text=+)|
-|color5    |#8250df|![#8250df](https://via.placeholder.com/50x30/8250df/000000.png?text=+)|
-|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
-|color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000.png?text=+)|
-|color8    |#576069|![#576069](https://via.placeholder.com/50x30/576069/000000.png?text=+)|
-|color9    |#a40d26|![#a40d26](https://via.placeholder.com/50x30/a40d26/000000.png?text=+)|
 
 
 </details>
@@ -366,74 +365,6 @@ You may want to check out some scripts:
 |color7    |#f7f2ed|![#f7f2ed](https://via.placeholder.com/50x30/f7f2ed/000000.png?text=+)|
 |color8    |#423324|![#423324](https://via.placeholder.com/50x30/423324/000000.png?text=+)|
 |color9    |#d65c5c|![#d65c5c](https://via.placeholder.com/50x30/d65c5c/000000.png?text=+)|
-
-
-</details>
-
-### Github light modifed
-
-[Reference](https://github.com/projekt0n/github-nvim-theme)
-
-![](./screenshots/github-light-modifed.png)
-
-<details>
-    <summary>Colors, click me</summary>
-
-|  Color   |  Hex  |                               Preview                                |
-|----------|:-----:|:--------------------------------------------------------------------:|
-|background|#f5eee6|![#f5eee6](https://via.placeholder.com/50x30/f5eee6/000000.png?text=+)|
-|cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
-|foreground|#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
-|color0    |#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000.png?text=+)|
-|color1    |#d73a49|![#d73a49](https://via.placeholder.com/50x30/d73a49/000000.png?text=+)|
-|color10   |#21863a|![#21863a](https://via.placeholder.com/50x30/21863a/000000.png?text=+)|
-|color11   |#b08800|![#b08800](https://via.placeholder.com/50x30/b08800/000000.png?text=+)|
-|color12   |#005cc5|![#005cc5](https://via.placeholder.com/50x30/005cc5/000000.png?text=+)|
-|color13   |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000.png?text=+)|
-|color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
-|color15   |#d1d5da|![#d1d5da](https://via.placeholder.com/50x30/d1d5da/000000.png?text=+)|
-|color2    |#28a744|![#28a744](https://via.placeholder.com/50x30/28a744/000000.png?text=+)|
-|color3    |#dbab08|![#dbab08](https://via.placeholder.com/50x30/dbab08/000000.png?text=+)|
-|color4    |#0266d6|![#0266d6](https://via.placeholder.com/50x30/0266d6/000000.png?text=+)|
-|color5    |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000.png?text=+)|
-|color6    |#0598bc|![#0598bc](https://via.placeholder.com/50x30/0598bc/000000.png?text=+)|
-|color7    |#69737c|![#69737c](https://via.placeholder.com/50x30/69737c/000000.png?text=+)|
-|color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
-|color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000.png?text=+)|
-
-
-</details>
-
-### Github light 2
-
-[Reference](https://github.com/cdalvaro/github-vscode-theme-iterm)
-
-![](./screenshots/github-light-2.png)
-
-<details>
-    <summary>Colors, click me</summary>
-
-|  Color   |  Hex  |                               Preview                                |
-|----------|:-----:|:--------------------------------------------------------------------:|
-|background|#f6f8fa|![#f6f8fa](https://via.placeholder.com/50x30/f6f8fa/000000.png?text=+)|
-|cursor    |#00408e|![#00408e](https://via.placeholder.com/50x30/00408e/000000.png?text=+)|
-|foreground|#57606a|![#57606a](https://via.placeholder.com/50x30/57606a/000000.png?text=+)|
-|color0    |#000000|![#000000](https://via.placeholder.com/50x30/000000/000000.png?text=+)|
-|color1    |#d81029|![#d81029](https://via.placeholder.com/50x30/d81029/000000.png?text=+)|
-|color10   |#00d400|![#00d400](https://via.placeholder.com/50x30/00d400/000000.png?text=+)|
-|color11   |#b2bd00|![#b2bd00](https://via.placeholder.com/50x30/b2bd00/000000.png?text=+)|
-|color12   |#004fab|![#004fab](https://via.placeholder.com/50x30/004fab/000000.png?text=+)|
-|color13   |#c900c2|![#c900c2](https://via.placeholder.com/50x30/c900c2/000000.png?text=+)|
-|color14   |#009ac0|![#009ac0](https://via.placeholder.com/50x30/009ac0/000000.png?text=+)|
-|color15   |#a5a5a5|![#a5a5a5](https://via.placeholder.com/50x30/a5a5a5/000000.png?text=+)|
-|color2    |#00c200|![#00c200](https://via.placeholder.com/50x30/00c200/000000.png?text=+)|
-|color3    |#929a00|![#929a00](https://via.placeholder.com/50x30/929a00/000000.png?text=+)|
-|color4    |#004fab|![#004fab](https://via.placeholder.com/50x30/004fab/000000.png?text=+)|
-|color5    |#c900c2|![#c900c2](https://via.placeholder.com/50x30/c900c2/000000.png?text=+)|
-|color6    |#009ac0|![#009ac0](https://via.placeholder.com/50x30/009ac0/000000.png?text=+)|
-|color7    |#555555|![#555555](https://via.placeholder.com/50x30/555555/000000.png?text=+)|
-|color8    |#666666|![#666666](https://via.placeholder.com/50x30/666666/000000.png?text=+)|
-|color9    |#d81029|![#d81029](https://via.placeholder.com/50x30/d81029/000000.png?text=+)|
 
 
 </details>
@@ -642,6 +573,40 @@ You may want to check out some scripts:
 
 </details>
 
+### Github light high contrast
+
+[Reference](https://github.com/projekt0n/github-nvim-theme)
+
+![](./screenshots/github-light-high-contrast.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+|cursor    |#0e1116|![#0e1116](https://via.placeholder.com/50x30/0e1116/000000.png?text=+)|
+|foreground|#010409|![#010409](https://via.placeholder.com/50x30/010409/000000.png?text=+)|
+|color0    |#0e1116|![#0e1116](https://via.placeholder.com/50x30/0e1116/000000.png?text=+)|
+|color1    |#a0111f|![#a0111f](https://via.placeholder.com/50x30/a0111f/000000.png?text=+)|
+|color2    |#024c1a|![#024c1a](https://via.placeholder.com/50x30/024c1a/000000.png?text=+)|
+|color3    |#3f2200|![#3f2200](https://via.placeholder.com/50x30/3f2200/000000.png?text=+)|
+|color4    |#0349b4|![#0349b4](https://via.placeholder.com/50x30/0349b4/000000.png?text=+)|
+|color5    |#622cbc|![#622cbc](https://via.placeholder.com/50x30/622cbc/000000.png?text=+)|
+|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
+|color7    |#66707b|![#66707b](https://via.placeholder.com/50x30/66707b/000000.png?text=+)|
+|color8    |#4b535d|![#4b535d](https://via.placeholder.com/50x30/4b535d/000000.png?text=+)|
+|color9    |#86061d|![#86061d](https://via.placeholder.com/50x30/86061d/000000.png?text=+)|
+|color10   |#055d20|![#055d20](https://via.placeholder.com/50x30/055d20/000000.png?text=+)|
+|color11   |#4e2c00|![#4e2c00](https://via.placeholder.com/50x30/4e2c00/000000.png?text=+)|
+|color12   |#1168e3|![#1168e3](https://via.placeholder.com/50x30/1168e3/000000.png?text=+)|
+|color13   |#844ae7|![#844ae7](https://via.placeholder.com/50x30/844ae7/000000.png?text=+)|
+|color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
+|color15   |#88929d|![#88929d](https://via.placeholder.com/50x30/88929d/000000.png?text=+)|
+
+
+</details>
+
 ### Github light
 
 [Reference](https://github.com/projekt0n/github-nvim-theme)
@@ -654,24 +619,24 @@ You may want to check out some scripts:
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
 |background|#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
-|cursor    |#034189|![#034189](https://via.placeholder.com/50x30/034189/000000.png?text=+)|
-|foreground|#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
-|color0    |#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000.png?text=+)|
-|color1    |#d73a49|![#d73a49](https://via.placeholder.com/50x30/d73a49/000000.png?text=+)|
-|color10   |#21863a|![#21863a](https://via.placeholder.com/50x30/21863a/000000.png?text=+)|
-|color11   |#b08800|![#b08800](https://via.placeholder.com/50x30/b08800/000000.png?text=+)|
-|color12   |#005cc5|![#005cc5](https://via.placeholder.com/50x30/005cc5/000000.png?text=+)|
-|color13   |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000.png?text=+)|
+|cursor    |#1f2328|![#1F2328](https://via.placeholder.com/50x30/1F2328/000000.png?text=+)|
+|foreground|#1f2328|![#1F2328](https://via.placeholder.com/50x30/1F2328/000000.png?text=+)|
+|color0    |#24292f|![#24292f](https://via.placeholder.com/50x30/24292f/000000.png?text=+)|
+|color1    |#cf222e|![#cf222e](https://via.placeholder.com/50x30/cf222e/000000.png?text=+)|
+|color2    |#116329|![#116329](https://via.placeholder.com/50x30/116329/000000.png?text=+)|
+|color3    |#4d2d00|![#4d2d00](https://via.placeholder.com/50x30/4d2d00/000000.png?text=+)|
+|color4    |#0969da|![#0969da](https://via.placeholder.com/50x30/0969da/000000.png?text=+)|
+|color5    |#8250df|![#8250df](https://via.placeholder.com/50x30/8250df/000000.png?text=+)|
+|color6    |#1b7c83|![#1b7c83](https://via.placeholder.com/50x30/1b7c83/000000.png?text=+)|
+|color7    |#6e7781|![#6e7781](https://via.placeholder.com/50x30/6e7781/000000.png?text=+)|
+|color8    |#57606a|![#57606a](https://via.placeholder.com/50x30/57606a/000000.png?text=+)|
+|color9    |#a40e26|![#a40e26](https://via.placeholder.com/50x30/a40e26/000000.png?text=+)|
+|color10   |#1a7f37|![#1a7f37](https://via.placeholder.com/50x30/1a7f37/000000.png?text=+)|
+|color11   |#633c01|![#633c01](https://via.placeholder.com/50x30/633c01/000000.png?text=+)|
+|color12   |#218bff|![#218bff](https://via.placeholder.com/50x30/218bff/000000.png?text=+)|
+|color13   |#a475f9|![#a475f9](https://via.placeholder.com/50x30/a475f9/000000.png?text=+)|
 |color14   |#3192aa|![#3192aa](https://via.placeholder.com/50x30/3192aa/000000.png?text=+)|
-|color15   |#d1d5da|![#d1d5da](https://via.placeholder.com/50x30/d1d5da/000000.png?text=+)|
-|color2    |#28a744|![#28a744](https://via.placeholder.com/50x30/28a744/000000.png?text=+)|
-|color3    |#dbab08|![#dbab08](https://via.placeholder.com/50x30/dbab08/000000.png?text=+)|
-|color4    |#0266d6|![#0266d6](https://via.placeholder.com/50x30/0266d6/000000.png?text=+)|
-|color5    |#5a31a3|![#5a31a3](https://via.placeholder.com/50x30/5a31a3/000000.png?text=+)|
-|color6    |#0598bc|![#0598bc](https://via.placeholder.com/50x30/0598bc/000000.png?text=+)|
-|color7    |#69737c|![#69737c](https://via.placeholder.com/50x30/69737c/000000.png?text=+)|
-|color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
-|color9    |#cb2431|![#cb2431](https://via.placeholder.com/50x30/cb2431/000000.png?text=+)|
+|color15   |#8c959f|![#8c959f](https://via.placeholder.com/50x30/8c959f/000000.png?text=+)|
 
 
 </details>
@@ -959,17 +924,11 @@ You may want to check out some scripts:
 
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
-|background|#010409|![#010409](https://via.placeholder.com/50x30/010409/000000.png?text=+)|
+|background|#0a0c10|![#0a0c10](https://via.placeholder.com/50x30/0a0c10/000000.png?text=+)|
 |cursor    |#f0f3f6|![#f0f3f6](https://via.placeholder.com/50x30/f0f3f6/000000.png?text=+)|
 |foreground|#f0f3f6|![#f0f3f6](https://via.placeholder.com/50x30/f0f3f6/000000.png?text=+)|
 |color0    |#7a828e|![#7a828e](https://via.placeholder.com/50x30/7a828e/000000.png?text=+)|
 |color1    |#ff9492|![#ff9492](https://via.placeholder.com/50x30/ff9492/000000.png?text=+)|
-|color10   |#4ae168|![#4ae168](https://via.placeholder.com/50x30/4ae168/000000.png?text=+)|
-|color11   |#f7c843|![#f7c843](https://via.placeholder.com/50x30/f7c843/000000.png?text=+)|
-|color12   |#91cbff|![#91cbff](https://via.placeholder.com/50x30/91cbff/000000.png?text=+)|
-|color13   |#dbb7ff|![#dbb7ff](https://via.placeholder.com/50x30/dbb7ff/000000.png?text=+)|
-|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
-|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 |color2    |#26cd4d|![#26cd4d](https://via.placeholder.com/50x30/26cd4d/000000.png?text=+)|
 |color3    |#f0b72f|![#f0b72f](https://via.placeholder.com/50x30/f0b72f/000000.png?text=+)|
 |color4    |#71b7ff|![#71b7ff](https://via.placeholder.com/50x30/71b7ff/000000.png?text=+)|
@@ -978,6 +937,12 @@ You may want to check out some scripts:
 |color7    |#d9dee3|![#d9dee3](https://via.placeholder.com/50x30/d9dee3/000000.png?text=+)|
 |color8    |#9ea7b3|![#9ea7b3](https://via.placeholder.com/50x30/9ea7b3/000000.png?text=+)|
 |color9    |#ffb1af|![#ffb1af](https://via.placeholder.com/50x30/ffb1af/000000.png?text=+)|
+|color10   |#4ae168|![#4ae168](https://via.placeholder.com/50x30/4ae168/000000.png?text=+)|
+|color11   |#f7c843|![#f7c843](https://via.placeholder.com/50x30/f7c843/000000.png?text=+)|
+|color12   |#91cbff|![#91cbff](https://via.placeholder.com/50x30/91cbff/000000.png?text=+)|
+|color13   |#dbb7ff|![#dbb7ff](https://via.placeholder.com/50x30/dbb7ff/000000.png?text=+)|
+|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
 </details>
@@ -1027,25 +992,25 @@ You may want to check out some scripts:
 
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
-|background|#0c1116|![#0c1116](https://via.placeholder.com/50x30/0c1116/000000.png?text=+)|
-|cursor    |#73b7f2|![#73b7f2](https://via.placeholder.com/50x30/73b7f2/000000.png?text=+)|
+|background|#0d1117|![#0d1117](https://via.placeholder.com/50x30/0d1117/000000.png?text=+)|
+|cursor    |#c9d1d9|![#c9d1d9](https://via.placeholder.com/50x30/c9d1d9/000000.png?text=+)|
 |foreground|#c9d1d9|![#c9d1d9](https://via.placeholder.com/50x30/c9d1d9/000000.png?text=+)|
 |color0    |#484f58|![#484f58](https://via.placeholder.com/50x30/484f58/000000.png?text=+)|
 |color1    |#ff7b72|![#ff7b72](https://via.placeholder.com/50x30/ff7b72/000000.png?text=+)|
-|color10   |#55d363|![#55d363](https://via.placeholder.com/50x30/55d363/000000.png?text=+)|
-|color11   |#e3b341|![#e3b341](https://via.placeholder.com/50x30/e3b341/000000.png?text=+)|
-|color12   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
-|color13   |#d2a8ff|![#d2a8ff](https://via.placeholder.com/50x30/d2a8ff/000000.png?text=+)|
-|color14   |#55d4dd|![#55d4dd](https://via.placeholder.com/50x30/55d4dd/000000.png?text=+)|
-|color15   |#f0f6fc|![#f0f6fc](https://via.placeholder.com/50x30/f0f6fc/000000.png?text=+)|
-|color2    |#3fb950|![#3fb950](https://via.placeholder.com/50x30/3fb950/000000.png?text=+)|
-|color3    |#d29921|![#d29921](https://via.placeholder.com/50x30/d29921/000000.png?text=+)|
+|color2    |#58a6ff|![#58a6ff](https://via.placeholder.com/50x30/58a6ff/000000.png?text=+)|
+|color3    |#d29922|![#d29922](https://via.placeholder.com/50x30/d29922/000000.png?text=+)|
 |color4    |#58a6ff|![#58a6ff](https://via.placeholder.com/50x30/58a6ff/000000.png?text=+)|
 |color5    |#bc8cff|![#bc8cff](https://via.placeholder.com/50x30/bc8cff/000000.png?text=+)|
 |color6    |#39c5cf|![#39c5cf](https://via.placeholder.com/50x30/39c5cf/000000.png?text=+)|
 |color7    |#b1bac4|![#b1bac4](https://via.placeholder.com/50x30/b1bac4/000000.png?text=+)|
 |color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
 |color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
+|color10   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
+|color11   |#e3b341|![#e3b341](https://via.placeholder.com/50x30/e3b341/000000.png?text=+)|
+|color12   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
+|color13   |#d2a8ff|![#d2a8ff](https://via.placeholder.com/50x30/d2a8ff/000000.png?text=+)|
+|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
 </details>
@@ -1182,40 +1147,6 @@ You may want to check out some scripts:
 |color13   |#b877db|![#b877db](https://via.placeholder.com/50x30/b877db/000000.png?text=+)|
 |color14   |#95c4ce|![#95c4ce](https://via.placeholder.com/50x30/95c4ce/000000.png?text=+)|
 |color15   |#d2d4de|![#d2d4de](https://via.placeholder.com/50x30/d2d4de/000000.png?text=+)|
-
-
-</details>
-
-### Github dark default
-
-[Reference](https://github.com/projekt0n/github-nvim-theme)
-
-![](./screenshots/github-dark-default.png)
-
-<details>
-    <summary>Colors, click me</summary>
-
-|  Color   |  Hex  |                               Preview                                |
-|----------|:-----:|:--------------------------------------------------------------------:|
-|background|#0c1116|![#0c1116](https://via.placeholder.com/50x30/0c1116/000000.png?text=+)|
-|cursor    |#73b7f2|![#73b7f2](https://via.placeholder.com/50x30/73b7f2/000000.png?text=+)|
-|foreground|#c9d1d9|![#c9d1d9](https://via.placeholder.com/50x30/c9d1d9/000000.png?text=+)|
-|color0    |#484f58|![#484f58](https://via.placeholder.com/50x30/484f58/000000.png?text=+)|
-|color1    |#ff7b72|![#ff7b72](https://via.placeholder.com/50x30/ff7b72/000000.png?text=+)|
-|color10   |#55d363|![#55d363](https://via.placeholder.com/50x30/55d363/000000.png?text=+)|
-|color11   |#e3b341|![#e3b341](https://via.placeholder.com/50x30/e3b341/000000.png?text=+)|
-|color12   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
-|color13   |#d2a8ff|![#d2a8ff](https://via.placeholder.com/50x30/d2a8ff/000000.png?text=+)|
-|color14   |#55d4dd|![#55d4dd](https://via.placeholder.com/50x30/55d4dd/000000.png?text=+)|
-|color15   |#f0f6fc|![#f0f6fc](https://via.placeholder.com/50x30/f0f6fc/000000.png?text=+)|
-|color2    |#3fb950|![#3fb950](https://via.placeholder.com/50x30/3fb950/000000.png?text=+)|
-|color3    |#d29921|![#d29921](https://via.placeholder.com/50x30/d29921/000000.png?text=+)|
-|color4    |#58a6ff|![#58a6ff](https://via.placeholder.com/50x30/58a6ff/000000.png?text=+)|
-|color5    |#bc8cff|![#bc8cff](https://via.placeholder.com/50x30/bc8cff/000000.png?text=+)|
-|color6    |#39c5cf|![#39c5cf](https://via.placeholder.com/50x30/39c5cf/000000.png?text=+)|
-|color7    |#b1bac4|![#b1bac4](https://via.placeholder.com/50x30/b1bac4/000000.png?text=+)|
-|color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
-|color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
 
 
 </details>
@@ -1775,17 +1706,11 @@ You may want to check out some scripts:
 
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
-|background|#21262e|![#21262e](https://via.placeholder.com/50x30/21262e/000000.png?text=+)|
-|cursor    |#6cb6ff|![#6cb6ff](https://via.placeholder.com/50x30/6cb6ff/000000.png?text=+)|
+|background|#22272e|![#22272e](https://via.placeholder.com/50x30/22272e/000000.png?text=+)|
+|cursor    |#adbac7|![#adbac7](https://via.placeholder.com/50x30/adbac7/000000.png?text=+)|
 |foreground|#adbac7|![#adbac7](https://via.placeholder.com/50x30/adbac7/000000.png?text=+)|
-|color0    |#535d68|![#535d68](https://via.placeholder.com/50x30/535d68/000000.png?text=+)|
+|color0    |#545d68|![#545d68](https://via.placeholder.com/50x30/545d68/000000.png?text=+)|
 |color1    |#f47067|![#f47067](https://via.placeholder.com/50x30/f47067/000000.png?text=+)|
-|color10   |#6bc46c|![#6bc46c](https://via.placeholder.com/50x30/6bc46c/000000.png?text=+)|
-|color11   |#daaa3f|![#daaa3f](https://via.placeholder.com/50x30/daaa3f/000000.png?text=+)|
-|color12   |#6cb6ff|![#6cb6ff](https://via.placeholder.com/50x30/6cb6ff/000000.png?text=+)|
-|color13   |#dcbdfb|![#dcbdfb](https://via.placeholder.com/50x30/dcbdfb/000000.png?text=+)|
-|color14   |#55d4dd|![#55d4dd](https://via.placeholder.com/50x30/55d4dd/000000.png?text=+)|
-|color15   |#cdd9e5|![#cdd9e5](https://via.placeholder.com/50x30/cdd9e5/000000.png?text=+)|
 |color2    |#57ab5a|![#57ab5a](https://via.placeholder.com/50x30/57ab5a/000000.png?text=+)|
 |color3    |#c69026|![#c69026](https://via.placeholder.com/50x30/c69026/000000.png?text=+)|
 |color4    |#539bf5|![#539bf5](https://via.placeholder.com/50x30/539bf5/000000.png?text=+)|
@@ -1794,6 +1719,12 @@ You may want to check out some scripts:
 |color7    |#909dab|![#909dab](https://via.placeholder.com/50x30/909dab/000000.png?text=+)|
 |color8    |#636e7b|![#636e7b](https://via.placeholder.com/50x30/636e7b/000000.png?text=+)|
 |color9    |#ff938a|![#ff938a](https://via.placeholder.com/50x30/ff938a/000000.png?text=+)|
+|color10   |#6bc46d|![#6bc46d](https://via.placeholder.com/50x30/6bc46d/000000.png?text=+)|
+|color11   |#daaa3f|![#daaa3f](https://via.placeholder.com/50x30/daaa3f/000000.png?text=+)|
+|color12   |#6cb6ff|![#6cb6ff](https://via.placeholder.com/50x30/6cb6ff/000000.png?text=+)|
+|color13   |#dcbdfb|![#dcbdfb](https://via.placeholder.com/50x30/dcbdfb/000000.png?text=+)|
+|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
+|color15   |#cdd9e5|![#cdd9e5](https://via.placeholder.com/50x30/cdd9e5/000000.png?text=+)|
 
 
 </details>
@@ -1945,25 +1876,25 @@ You may want to check out some scripts:
 
 |  Color   |  Hex  |                               Preview                                |
 |----------|:-----:|:--------------------------------------------------------------------:|
-|background|#24292e|![#24292e](https://via.placeholder.com/50x30/24292e/000000.png?text=+)|
-|cursor    |#c8e1ff|![#c8e1ff](https://via.placeholder.com/50x30/c8e1ff/000000.png?text=+)|
-|foreground|#c9d1d9|![#c9d1d9](https://via.placeholder.com/50x30/c9d1d9/000000.png?text=+)|
-|color0    |#586069|![#586069](https://via.placeholder.com/50x30/586069/000000.png?text=+)|
-|color1    |#ea4a5a|![#ea4a5a](https://via.placeholder.com/50x30/ea4a5a/000000.png?text=+)|
-|color10   |#85e89d|![#85e89d](https://via.placeholder.com/50x30/85e89d/000000.png?text=+)|
-|color11   |#ffea7f|![#ffea7f](https://via.placeholder.com/50x30/ffea7f/000000.png?text=+)|
-|color12   |#79b8ff|![#79b8ff](https://via.placeholder.com/50x30/79b8ff/000000.png?text=+)|
-|color13   |#b392f0|![#b392f0](https://via.placeholder.com/50x30/b392f0/000000.png?text=+)|
-|color14   |#55d4dd|![#55d4dd](https://via.placeholder.com/50x30/55d4dd/000000.png?text=+)|
-|color15   |#fafbfc|![#fafbfc](https://via.placeholder.com/50x30/fafbfc/000000.png?text=+)|
-|color2    |#34d058|![#34d058](https://via.placeholder.com/50x30/34d058/000000.png?text=+)|
-|color3    |#ffea7f|![#ffea7f](https://via.placeholder.com/50x30/ffea7f/000000.png?text=+)|
-|color4    |#2188ff|![#2188ff](https://via.placeholder.com/50x30/2188ff/000000.png?text=+)|
-|color5    |#b392f0|![#b392f0](https://via.placeholder.com/50x30/b392f0/000000.png?text=+)|
+|background|#30363d|![#30363d](https://via.placeholder.com/50x30/30363d/000000.png?text=+)|
+|cursor    |#e6edf3|![#e6edf3](https://via.placeholder.com/50x30/e6edf3/000000.png?text=+)|
+|foreground|#e6edf3|![#e6edf3](https://via.placeholder.com/50x30/e6edf3/000000.png?text=+)|
+|color0    |#484f58|![#484f58](https://via.placeholder.com/50x30/484f58/000000.png?text=+)|
+|color1    |#ff7b72|![#ff7b72](https://via.placeholder.com/50x30/ff7b72/000000.png?text=+)|
+|color2    |#3fb950|![#3fb950](https://via.placeholder.com/50x30/3fb950/000000.png?text=+)|
+|color3    |#d29922|![#d29922](https://via.placeholder.com/50x30/d29922/000000.png?text=+)|
+|color4    |#58a6ff|![#58a6ff](https://via.placeholder.com/50x30/58a6ff/000000.png?text=+)|
+|color5    |#bc8cff|![#bc8cff](https://via.placeholder.com/50x30/bc8cff/000000.png?text=+)|
 |color6    |#39c5cf|![#39c5cf](https://via.placeholder.com/50x30/39c5cf/000000.png?text=+)|
-|color7    |#d1d5da|![#d1d5da](https://via.placeholder.com/50x30/d1d5da/000000.png?text=+)|
-|color8    |#959da5|![#959da5](https://via.placeholder.com/50x30/959da5/000000.png?text=+)|
-|color9    |#f97583|![#f97583](https://via.placeholder.com/50x30/f97583/000000.png?text=+)|
+|color7    |#b1bac4|![#b1bac4](https://via.placeholder.com/50x30/b1bac4/000000.png?text=+)|
+|color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
+|color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
+|color10   |#56d364|![#56d364](https://via.placeholder.com/50x30/56d364/000000.png?text=+)|
+|color11   |#e3b341|![#e3b341](https://via.placeholder.com/50x30/e3b341/000000.png?text=+)|
+|color12   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
+|color13   |#d2a8ff|![#d2a8ff](https://via.placeholder.com/50x30/d2a8ff/000000.png?text=+)|
+|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
 </details>
@@ -2031,6 +1962,40 @@ You may want to check out some scripts:
 |color12   |#72a9ed|![#72a9ed](https://via.placeholder.com/50x30/72a9ed/000000.png?text=+)|
 |color13   |#e26fef|![#e26fef](https://via.placeholder.com/50x30/e26fef/000000.png?text=+)|
 |color14   |#76dbeb|![#76dbeb](https://via.placeholder.com/50x30/76dbeb/000000.png?text=+)|
+|color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
+
+
+</details>
+
+### Github dark tritanopia
+
+[Reference](https://github.com/projekt0n/github-nvim-theme)
+
+![](./screenshots/github-dark-tritanopia.png)
+
+<details>
+    <summary>Colors, click me</summary>
+
+|  Color   |  Hex  |                               Preview                                |
+|----------|:-----:|:--------------------------------------------------------------------:|
+|background|#30363d|![#30363d](https://via.placeholder.com/50x30/30363d/000000.png?text=+)|
+|cursor    |#e6edf3|![#e6edf3](https://via.placeholder.com/50x30/e6edf3/000000.png?text=+)|
+|foreground|#e6edf3|![#e6edf3](https://via.placeholder.com/50x30/e6edf3/000000.png?text=+)|
+|color0    |#484f58|![#484f58](https://via.placeholder.com/50x30/484f58/000000.png?text=+)|
+|color1    |#ff7b72|![#ff7b72](https://via.placeholder.com/50x30/ff7b72/000000.png?text=+)|
+|color2    |#3fb950|![#3fb950](https://via.placeholder.com/50x30/3fb950/000000.png?text=+)|
+|color3    |#d29922|![#d29922](https://via.placeholder.com/50x30/d29922/000000.png?text=+)|
+|color4    |#58a6ff|![#58a6ff](https://via.placeholder.com/50x30/58a6ff/000000.png?text=+)|
+|color5    |#bc8cff|![#bc8cff](https://via.placeholder.com/50x30/bc8cff/000000.png?text=+)|
+|color6    |#39c5cf|![#39c5cf](https://via.placeholder.com/50x30/39c5cf/000000.png?text=+)|
+|color7    |#b1bac4|![#b1bac4](https://via.placeholder.com/50x30/b1bac4/000000.png?text=+)|
+|color8    |#6e7681|![#6e7681](https://via.placeholder.com/50x30/6e7681/000000.png?text=+)|
+|color9    |#ffa198|![#ffa198](https://via.placeholder.com/50x30/ffa198/000000.png?text=+)|
+|color10   |#56d364|![#56d364](https://via.placeholder.com/50x30/56d364/000000.png?text=+)|
+|color11   |#e3b341|![#e3b341](https://via.placeholder.com/50x30/e3b341/000000.png?text=+)|
+|color12   |#79c0ff|![#79c0ff](https://via.placeholder.com/50x30/79c0ff/000000.png?text=+)|
+|color13   |#d2a8ff|![#d2a8ff](https://via.placeholder.com/50x30/d2a8ff/000000.png?text=+)|
+|color14   |#56d4dd|![#56d4dd](https://via.placeholder.com/50x30/56d4dd/000000.png?text=+)|
 |color15   |#ffffff|![#ffffff](https://via.placeholder.com/50x30/ffffff/000000.png?text=+)|
 
 
