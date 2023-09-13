@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/Yazeed1s/oh-lucy.nvim",
+  "special": {
+    "background": "#1b1d26",
+    "foreground": "#dfe0ea",
+    "cursor": "#dfe0ea"
+  },
+  "colors": {
+    "color0": "#272932",
+    "color1": "#e85a84",
+    "color2": "#94dd8e",
+    "color3": "#e9d26c",
+    "color4": "#7eb7e6",
+    "color5": "#d895c7",
+    "color6": "#89beb7",
+    "color7": "#cfd0d7",
+    "color8": "#2b2f39",
+    "color9": "#e85a84",
+    "color10": "#94dd8e",
+    "color11": "#e9d26c",
+    "color12": "#7eb7e6",
+    "color13": "#d895c7",
+    "color14": "#89beb7",
+    "color15": "#dfe0ea"
+  }
+}
