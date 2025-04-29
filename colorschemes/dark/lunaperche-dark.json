@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/neovim/neovim/blob/c489b5a3e3e72abda731dd3768cf1d8b98f7264e/runtime/colors/lunaperche.vim",
+  "special": {
+    "background": "#000000",
+    "foreground": "#c6c6c6",
+    "cursor": "#262626"
+  },
+  "colors": {
+    "color0": "#000000",
+    "color1": "#af5f5f",
+    "color2": "#5faf5f",
+    "color3": "#af875f",
+    "color4": "#5f87af",
+    "color5": "#d787d7",
+    "color6": "#5fafaf",
+    "color7": "#c6c6c6",
+    "color8": "#585858",
+    "color9": "#ff5f5f",
+    "color10": "#262626",
+    "color11": "#303030",
+    "color12": "#767676",
+    "color13": "#e4e4e4",
+    "color14": "#ff5fff",
+    "color15": "#ffffff"
+  }
+}
