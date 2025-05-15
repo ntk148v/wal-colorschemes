@@ -1,26 +1,26 @@
 {
-  "refer": "https://brand.slackhq.com/color",
+  "refer": "PLACEHOLDER",
   "special": {
-    "background": "#4a154b",
-    "foreground": "#f4ede4",
-    "cursor": "#ffffff"
+    "background": "#181818",
+    "foreground": "#909090",
+    "cursor": "#909090"
   },
   "colors": {
-    "color0": "#1d1c1d",
-    "color1": "#e0135a",
-    "color2": "#2eb67d",
-    "color3": "#ecb22e",
-    "color4": "#36c5f0",
-    "color5": "#4a154b",
-    "color6": "#0096a2",
-    "color7": "#f4ede4",
-    "color8": "#78d7dd",
-    "color9": "#f2606a",
-    "color10": "#185f34",
-    "color11": "#ffd57e",
-    "color12": "#2f8ab7",
-    "color13": "#7c2852",
-    "color14": "#90daff",
-    "color15": "#fed4be"
+    "color0": "#181818",
+    "color1": "#e01563",
+    "color2": "#3eb991",
+    "color3": "#e9a820",
+    "color4": "#6ecadc",
+    "color5": "#e01563",
+    "color6": "#6ecadc",
+    "color7": "#909090",
+    "color8": "#686868",
+    "color9": "#e9a820",
+    "color10": "#252525",
+    "color11": "#353535",
+    "color12": "#808080",
+    "color13": "#b0b0b0",
+    "color14": "#3eb991",
+    "color15": "#ffffff"
   }
 }

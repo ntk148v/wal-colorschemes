@@ -1,0 +1,26 @@
+{
+  "refer": "PLACEHOLDER",
+  "special": {
+    "background": "#ffffff",
+    "foreground": "#484848",
+    "cursor": "#484848"
+  },
+  "colors": {
+    "color0": "#ffffff",
+    "color1": "#e01563",
+    "color2": "#3eb991",
+    "color3": "#e9a820",
+    "color4": "#6ecadc",
+    "color5": "#e01563",
+    "color6": "#6ecadc",
+    "color7": "#484848",
+    "color8": "#a0a0a0",
+    "color9": "#e9a820",
+    "color10": "#ececec",
+    "color11": "#d8d8d8",
+    "color12": "#707070",
+    "color13": "#303030",
+    "color14": "#3eb991",
+    "color15": "#181818"
+  }
+}
