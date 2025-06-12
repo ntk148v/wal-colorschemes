@@ -37,15 +37,43 @@ if [[ $FORCE = true ]]; then
     rm -rf $shots
 fi
 
+capture_preview() {
+    local scheme=$1
+    local prefix=$2
+    local active_window=$(xdotool getactivewindow)
+
+    # Set up terminal size for consistent capture
+    echo -en "\e[8;6;40t"  # Set terminal to 6 lines by 40 columns
+    clear
+
+    # Apply theme and show preview
+    wal --theme "$scheme" >/dev/null 2>&1
+    bash ./preview-colors.sh
+
+    # Wait for display to update
+    sleep 0.1
+
+    # Capture and process
+    filename=$(basename "$scheme")
+    output_file="$prefix/${filename%.json}.png"
+
+    xwd -id $active_window -silent | \
+        convert xwd:- -crop '100%x25%+0+100' -trim +repage "$output_file"
+
+    # Reset terminal size
+    echo -en "\e[8;24;80t"
+    clear
+}
+
+# Main execution
 for scheme in $FILES; do
     clear
     prefix=$shots
     mkdir -p $prefix
-    wal --theme $scheme
-    echo $scheme
-    clear
-    bash ./preview-colors.sh
-    sleep 0.2
-    filename=$(basename $scheme)
-    xwd -id $WINID | convert xwd:- "png:$prefix/${filename%.json}.png"
+
+    # Capture preview for the current scheme
+    capture_preview "$scheme" "$prefix"
+
+    # Give visual feedback
+    echo "Generated preview for: $scheme"
 done

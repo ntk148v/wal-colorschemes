@@ -1,28 +1,35 @@
 #!/usr/bin/env bash
 
-#   Daniel Crisman's ANSI color chart script from
-#   The Bash Prompt HOWTO: 6.1. Colours
-#   http://www.tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html
-#
-#   This function echoes a bunch of color codes to the
-#   terminal to demonstrate what's available.  Each
-#   line is the color code of one forground color,
-#   out of 17 (default + 16 escapes), followed by a
-#   test use of that color on all nine background
-#   colors (default + 8 escapes).
+# Function to convert hex to rgb
+hex_to_rgb() {
+    hex=$1
+    r=$((16#${hex:0:2}))
+    g=$((16#${hex:2:2}))
+    b=$((16#${hex:4:2}))
+    echo "$r;$g;$b"
+}
 
-    T='•••'   # The text for the color test
+# Display a simple color preview that shows blocks of colors
+print_color() {
+    local color=$1
+    local rgb=$(hex_to_rgb $color)
+    echo -en "\e[48;2;${rgb}m   \e[0m"
+}
 
-    for FGs in '    m' '   1m' '  30m' '1;30m' '  31m' '1;31m' '  32m' \
-               '1;32m' '  33m' '1;33m' '  34m' '1;34m' '  35m' '1;35m' \
-               '  36m' '1;36m' '  37m' '1;37m';
+# Get colors from pywal cache
+colors=($(cat ~/.cache/wal/colors | sed 's/#//g'))
 
-      do FG=${FGs// /}
-      echo -en "$T"
-
-      for BG in 40m 41m 42m 43m 44m 45m 46m 47m;
-        do echo -en "$EINS \033[$FG\033[$BG  $T  \033[0m";
-      done
-      echo;
-    done
-    echo
+echo "  "  # Add padding at top
+echo -n "  "  # Add left padding
+# Print first row (colors 0-7)
+for i in {0..7}; do
+    print_color "${colors[$i]}"
+done
+echo
+echo -n "  "  # Add left padding
+# Print second row (colors 8-15)
+for i in {8..15}; do
+    print_color "${colors[$i]}"
+done
+echo
+echo "  "  # Add padding at bottom

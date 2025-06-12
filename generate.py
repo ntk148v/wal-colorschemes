@@ -94,7 +94,6 @@ def generate_preview():
             toc += f"	- [{name}](#{path.name[:-5].replace('_', '-')})\n"
             preview += f"### {name}\n\n"
             preview += f"[Reference]({colorscheme.get('refer', '#')})\n\n"
-            preview += f"![](./screenshots/{path.name[:-5]}.png)\n\n"
             colormappings = []
             for k, v in colorscheme['special'].items():
                 colormappings.append(
