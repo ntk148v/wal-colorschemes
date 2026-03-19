@@ -1,0 +1,26 @@
+{
+  "refer": "https://github.com/Verf/deepwhite.nvim",
+  "special": {
+    "background": "#faf2eb",
+    "foreground": "#1a1918",
+    "cursor": "#1a1918"
+  },
+  "colors": {
+    "color0": "#1a1918",
+    "color1": "#a60000",
+    "color2": "#00a600",
+    "color3": "#f2f200",
+    "color4": "#0000a6",
+    "color5": "#6f00a6",
+    "color6": "#00a6a6",
+    "color7": "#faf2eb",
+    "color8": "#1a1918",
+    "color9": "#a60000",
+    "color10": "#00a600",
+    "color11": "#f2f200",
+    "color12": "#0000a6",
+    "color13": "#6f00a6",
+    "color14": "#00a6a6",
+    "color15": "#faf2eb"
+  }
+}
