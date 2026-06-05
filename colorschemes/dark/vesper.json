@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/raunofreiberg/vesper",
-    "special": {
-        "background": "#101010",
-        "foreground": "#FFFFFF",
-        "cursor": "#FFC799"
-    },
-    "colors": {
-        "color0": "#101010",
-        "color1": "#FF8080",
-        "color2": "#99FFE4",
-        "color3": "#FFC799",
-        "color4": "#A0A0A0",
-        "color5": "#FF7300",
-        "color6": "#99FFE4",
-        "color7": "#FFFFFF",
-        "color8": "#505050",
-        "color9": "#FF8080",
-        "color10": "#99FFE4",
-        "color11": "#FFCFA8",
-        "color12": "#A0A0A0",
-        "color13": "#FF8080",
-        "color14": "#99FFE4",
-        "color15": "#FFFFFF"
-    }
+  "refer": "https://github.com/raunofreiberg/vesper",
+  "special": {
+    "background": "#101010",
+    "foreground": "#FFFFFF",
+    "cursor": "#FFC799"
+  },
+  "colors": {
+    "color0": "#101010",
+    "color1": "#FF8080",
+    "color2": "#99FFE4",
+    "color3": "#FFC799",
+    "color4": "#A0A0A0",
+    "color5": "#FF7300",
+    "color6": "#99FFE4",
+    "color7": "#FFFFFF",
+    "color8": "#505050",
+    "color9": "#FF8080",
+    "color10": "#99FFE4",
+    "color11": "#FFCFA8",
+    "color12": "#A0A0A0",
+    "color13": "#FF8080",
+    "color14": "#99FFE4",
+    "color15": "#FFFFFF"
+  }
 }
