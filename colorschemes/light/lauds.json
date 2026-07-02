@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/ntk148v/lauds",
-    "special": {
-        "background": "#FFFCF0",
-        "foreground": "#101010",
-        "cursor": "#B45A20"
-    },
-    "colors": {
-        "color0": "#101010",
-        "color1": "#C1503F",
-        "color2": "#16866F",
-        "color3": "#B45A20",
-        "color4": "#7264A8",
-        "color5": "#B34A72",
-        "color6": "#16866F",
-        "color7": "#F7F3E8",
-        "color8": "#5F6166",
-        "color9": "#C1503F",
-        "color10": "#16866F",
-        "color11": "#B45A20",
-        "color12": "#7264A8",
-        "color13": "#B34A72",
-        "color14": "#16866F",
-        "color15": "#FFFCF0"
-    }
+  "refer": "https://github.com/ntk148v/lauds",
+  "special": {
+    "background": "#FFFCF0",
+    "foreground": "#101010",
+    "cursor": "#B45A20"
+  },
+  "colors": {
+    "color0": "#101010",
+    "color1": "#C1503F",
+    "color2": "#16866F",
+    "color3": "#B45A20",
+    "color4": "#7264A8",
+    "color5": "#B34A72",
+    "color6": "#16866F",
+    "color7": "#F7F3E8",
+    "color8": "#5F6166",
+    "color9": "#C1503F",
+    "color10": "#16866F",
+    "color11": "#B45A20",
+    "color12": "#7264A8",
+    "color13": "#B34A72",
+    "color14": "#16866F",
+    "color15": "#FFFCF0"
+  }
 }
