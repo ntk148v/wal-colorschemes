@@ -1,26 +1,26 @@
 {
-    "refer": "https://github.com/arnauKL/south.nvim",
-    "special": {
-        "background": "#fcfcfd",
-        "foreground": "#323b45",
-        "cursor": "#0850B5"
-    },
-    "colors": {
-        "color0": "#9097a6",
-        "color1": "#c1293d",
-        "color2": "#2b9728",
-        "color3": "#d99610",
-        "color4": "#0850B5",
-        "color5": "#615FB9",
-        "color6": "#0092bf",
-        "color7": "#323b45",
-        "color8": "#b5bac4",
-        "color9": "#f29130",
-        "color10": "#5B9279",
-        "color11": "#efc267",
-        "color12": "#257fc4",
-        "color13": "#615FB9",
-        "color14": "#499794",
-        "color15": "#fcfcfd"
-    }
+  "refer": "https://github.com/arnauKL/south.nvim",
+  "special": {
+    "background": "#fcfcfd",
+    "foreground": "#323b45",
+    "cursor": "#0850B5"
+  },
+  "colors": {
+    "color0": "#9097a6",
+    "color1": "#c1293d",
+    "color2": "#2b9728",
+    "color3": "#d99610",
+    "color4": "#0850B5",
+    "color5": "#615FB9",
+    "color6": "#0092bf",
+    "color7": "#323b45",
+    "color8": "#b5bac4",
+    "color9": "#f29130",
+    "color10": "#5B9279",
+    "color11": "#efc267",
+    "color12": "#257fc4",
+    "color13": "#615FB9",
+    "color14": "#499794",
+    "color15": "#fcfcfd"
+  }
 }
